@@ -1,0 +1,33 @@
+name: tr-series-collect
+on:
+  schedule:
+    - cron: "0 17 * * *"
+  workflow_dispatch:
+jobs:
+  ping-sources:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check official endpoints
+        run: |
+          set -e
+          date -u > llmwiki/sources/_last_run.txt
+          echo "checked:" >> llmwiki/sources/_last_run.txt
+          for u in \
+            https://global.toyota/jp/ir/library/annual/index.html \
+            https://global.toyota/jp/newsroom/ \
+            https://global.toyota/jp/company/profile/overview/ \
+            https://global.toyota/en/sustainability/
+          do
+            code=$(curl -s -o /dev/null -w "%{http_code}" -L "$u" || true)
+            echo "$code $u" >> llmwiki/sources/_last_run.txt
+          done
+      - name: Commit health log
+        run: |
+          git config user.name "tr-series-bot"
+          git config user.email "tr-series-bot@users.noreply.github.com"
+          git add llmwiki/sources/_last_run.txt
+          git diff --cached --quiet || git commit -m "chore: source health check"
+          git push
