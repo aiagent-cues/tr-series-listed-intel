@@ -1,0 +1,6 @@
+Fri Sep  4 14:33:08 UTC 2026
+checked:
+200 https://global.toyota/jp/ir/library/annual/index.html
+200 https://global.toyota/jp/newsroom/
+200 https://global.toyota/jp/company/profile/overview/
+200 https://global.toyota/en/sustainability/
