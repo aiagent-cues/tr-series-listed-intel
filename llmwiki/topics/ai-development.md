@@ -8,6 +8,7 @@ sources:
   - https://xtech.nikkei.com/atcl/nxt/column/18/03367/082900038/
   - https://www.nikkei.com/article/DGXZQOUC154MR0V10C26A7000000/
   - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
+  - https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
 tags: [ai, sdv, woven, training]
 ---
 
@@ -33,3 +34,11 @@ tags: [ai, sdv, woven, training]
 
 ## 統合報告2025のAIガバナンス（p153-154）
 出典: [[sources/integrated-report-2025-pass3]]。AI基本方針、開発者/利用者向けAIガイドライン、AIガバナンス推進会議。GAIAは11カテゴリー（AD/ADAS、AIエージェント、モビリティ3.0、ソフト効率化等）。情報セキュリティの第三者評価ベースはNIST SP800-82/53、ISO 27001/27002、IEC 62443。
+
+## SDB 2026年6月のAI・車載・知財
+出典: [[sources/sdb-2026-safety]]（2026-09-06 20:15 JST）。
+- GAIAは「10カテゴリー」（拡大検討）。列挙: AD/ADAS、AIエージェント、モビリティ3.0、ソフトウェア効率化、ノウハウ伝授、材料設計、製造、業務効率化、ロボティクス、車両設計。IRの「11カテゴリー」と数だけが食い違う。文書と更新月が違うため両方残す。
+- 社内にAIガイドラインに加え免許制度。教育は全従業員のリテラシー。
+- Mobility Teammate Concept。Advanced Driveを2021-04のLSとMIRAIに設定。ソフト更新は無線または有線。
+- TSS累計 6,100万台（2026-03）。RCCに匠ドライバー運転のAI解析を使うと記載。
+- 知財2025年: 出願約19,000 / 登録約10,000。ポートフォリオ（出願中+登録）は電池20%・電動車18%・コネクティッド10%・自動運転10%。法律事務所約110。

@@ -11,6 +11,7 @@ sources:
   - https://www.toyota.com.au/discover/news/toyota-opens-state-of-the-art-product-centre-at-altona-centre-of-excellence
   - https://tdnet-pdf.kabutan.jp/20260514/140120260514534623.pdf
   - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
+  - https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
 tags: [tps, production, oceania, training, hino]
 ---
 
@@ -26,6 +27,9 @@ tags: [tps, production, oceania, training, hino]
 - **モノづくり技術本部** 新設（2026-07-01）: 生産技術・製造技術・パワートレーン製造技術を集約
 - **Digital KAIZEN Platform**: 混流ラインのバッファ最適化、滞留の可視化
 - 将来機能: 人材配置、SCM最適化
+
+## 品質マネジメント（SDB 2026-06）
+出典: [[sources/sdb-2026-safety]]。2026-04時点で生産拠点・製造事業体70拠点のうち ISO 9001シリーズ（IATF 16949含む）認証は45.7%。CQO（カスタマーファースト推進本部長）とR-CQO、監査改良会議（毎月基本）、RPSE。優先順位は安全＞品質＞量＞コスト。
 
 ## 海洋州（工場が消えた後の教材）
 - 豪州Altona: 2017-10-03に車両生産終了。累計 3,451,115台（1963-2017）。[[sources/oceania-plants]]
