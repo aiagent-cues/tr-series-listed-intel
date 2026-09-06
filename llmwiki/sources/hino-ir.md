@@ -10,6 +10,7 @@ sources:
   - https://www.hino.co.jp/corp/for_investors/disclosure/2026.html
   - https://www.hino.co.jp/corp/for_investors/disclosure/2025.shtml
   - https://archion.co.jp/ir
+  - https://tdnet-pdf.kabutan.jp/20260514/140120260514534623.pdf
 tags: [hino, 7205, ir, archion, 543A, primary, j-gaap]
 ---
 
@@ -17,6 +18,7 @@ tags: [hino, 7205, ir, archion, 543A, primary, j-gaap]
 
 調査時点: 2026-09-06 15:03 JST。公式一次情報の要約のみ。字句再現はしない。
 TMC Form 20-F注記11・36の統合・羽村・非連結の定義は[[sources/20f-2026-notes]]に譲り、本種は日野自体のIR番号・決算・上場廃止・増資実績に限定する。
+FY2026通期の生産・売上実績・BS行と羽村後発の金額は[[sources/hino-ir-pass2]]。
 
 ## 書誌（調査時点のIR導線）
 | 項目 | 値 |
@@ -28,7 +30,7 @@ TMC Form 20-F注記11・36の統合・羽村・非連結の定義は[[sources/20
 | 決算情報 | https://www.hino.co.jp/corp/for_investors/financial_results/ |
 | 適時開示2026 | https://www.hino.co.jp/corp/for_investors/disclosure/2026.html |
 | 適時開示2025 | https://www.hino.co.jp/corp/for_investors/disclosure/2025.shtml |
-| IRトップの常設 | 2026-04-01の三菱ふそうとの経営統合で上場廃止。詳細は2026-03-02「ARCHION株式会社の上場承認に関するお知らせ」 |
+| IRトップの常設 | 2026-04-01の三菱ふそうとの統合で上場廃止。詳細は2026-03-02「ARCHION株式会社の上場承認に関するお知らせ」 |
 | 通期決算の転送 | 2026-05-14掲載の通期情報はARCHION IRへ転送 | https://www.hino.co.jp/corp/for_investors/financial_results/assets/ARCHIONJP.pdf |
 | 転送先 | https://archion.co.jp/ir |
 | 転送PDF Last-Modified | 2026-05-26 10:04:07 GMT / 241,103 bytes |
@@ -45,7 +47,7 @@ TMC Form 20-F注記11・36の統合・羽村・非連結の定義は[[sources/20
 | 本店 | 東京都品川区西品川一丁目1番1号 住友不動産大崎ガーデンタワー |
 | 日野株式売買最終日（予定） | 2026-03-27 |
 | 日野株式上場廃止日（予定） | 2026-03-30 |
-| 経営統合効力発生日（予定） | 2026-04-01 |
+| 統合効力発生日（予定） | 2026-04-01 |
 | ARCHION上場・売買開始（予定） | 2026-04-01 |
 
 ARCHION公式IRの株式基本情報（調査時点の公表）: 証券コード 543A / 決算期 3月31日 / 単元 100株 / 発行済普通株式 2,581,069,854株 / A種種類株式（非上場） 175,512,774株 / 計 2,756,582,628株 / 名簿管理人 三菱UFJ信託銀行。  
@@ -122,7 +124,7 @@ TDnet系公表例: https://tdnet-pdf.kabutan.jp/20260514/140120260514534623.pdf
 | 法人税等調整額 | △46,399 | 4,777 |
 | 当期純利益（非支配前） | 90,523 | △212,693 |
 
-期末配当: 無配（ARCHION 2026-05-14「日野自動車株式会社における法人税等調整額（益）及び特別損失の計上、並びに剰余金の配当（期末配当無配）に関するお知らせ」）。
+期末配当: 無配（ARCHION 2026-05-14「日野自動車株式会社における法人税等調整額（益）及び特別損失の計上、並び剰余金の配当（期末配当無配）に関するお知らせ」）。
 投資有価証券売却益の主: 2026-01-16公表のHOTAI MOTOR CO., LTD.（和泰汽車）全持分をTMCへ売却。計画益 30,116百万円（1 TWD = 4.97 JPY前提、為替可）。  
 https://www.hino.co.jp/corp/for_investors/disclosure/assets/7370bc2d02efaebd3335641dd65f725c.pdf
 
@@ -141,14 +143,14 @@ https://www.hino.co.jp/corp/for_investors/disclosure/assets/7370bc2d02efaebd3335
 - 和解額: 10.90百万NZD（約 9.8億円）。FY2026 3Qに特別損失計上予定。
 - 責任認めは和解契約上なし。法院承認手続き。
 
-## 8. 後続IR（ARCHION侧、日野ページが指した完全親会社）
+## 8. 後続IR（ARCHION価、日野ページが指した完全親会社）
 日野IRトップが通期決算をARCHIONへ転送したため、調査時点の公式継承のみ記す。
 - ARCHION FY2027通期予想（2026-05-14初回、IFRS）: 売上収益 2,425,000 / 営業 110,000 / 税引前 110,000 / 親会社所有者帰属 70,000 / 1株 25円。配当予想 中間 4円+期末 4円=年 8円。負ののれんは初回予想に含まず。
 - 2026-08-12: 負ののれん発生益（暫定 233,246百万円）を映し通期予想修正。売上収益は 2,425,000のまま。営業/税引前 343,246、親会社帰属 303,246、基本的1株 110.01円。
 - 2026-07-06: 普通株式売出し（上限 906,034,000株）を取締会承認。TMCが「その他の関係会社」から外れる見込みを並記。https://archion.co.jp/media/20260706_archion_ir_offering_en.pdf
 
 ## 未処理
-- FY2026通期短信本文のセグメント・製造実績・貸借対照表の行単位抽出。
-- 2025-11-28臨時株主総会の議案講演本文と株式交換比率表の完全行。
+- FY2026通期のセグメント・製造実績・BS行は[[sources/hino-ir-pass2]]へ移行済み。
+- 2025-11-28臨時株主総会の議案本文と株式交換比率表の完全行。
 - 古河・新田・中津・富山・川崎の帳簿上固定資産明細。
-- SDB社会・ガバナンス本文とCN叙事p15-60は日野テーマ外の残件。
+- 羽村分割・株式譲渡の「精査中」金額の確定値。
