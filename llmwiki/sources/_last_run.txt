@@ -1,23 +1,19 @@
-Sun Sep  6 12:13:00 UTC 2026
+Sun Sep  6 13:25:00 UTC 2026
 checked:
-200 https://www.toyota.com.au/explore/corporate/investors/past-reports
-200 https://www.toyota.com.au/-/media/project/toyota/toyota/explore/corporate/past-reports/files/20260630_tfal---fy-march-2026_financial-report-final.pdf
-200 https://www.toyota.com.au/-/media/project/toyota/toyota/explore/corporate/past-reports/files/20260716_tfa-annual-securities-report-2026_eo5954.pdf
-200 https://global.toyota/en/company/profile/facilities/manufacturing-worldwide/asia.html
-200 https://www.toyota.co.nz/about-toyota/toyota-news/2026/august/manawat-becomes-home-to-new-zealands-first-toyota-mirai-rental-fleet/
-theme: oceania-plants-pass3
-tfa_afr_bytes: 2235684
-tfa_afr_last_modified: Tue, 30 Jun 2026 02:28:28 GMT
-tfa_afr_pages: 96
-tfa_asr_bytes: 1090509
-tfa_asr_last_modified: Thu, 16 Jul 2026 01:14:13 GMT
-tfa_asr_pages: 92
-tfa_edinet: E05954
-tfa_profit_fy2026: 493134
-tfa_assets_fy2026: 33934563
-tfa_ppe_fy2026: 15353
-tfa_fte_fy2026: 1109.57
-tfnz_ownership: 45.45
-world_plants_as_of: 2026-05-08
-oceania_on_world_plant_list: none
-pass: 3
+200 https://global.toyota/jp/ir/library/annual/
+200 https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
+200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
+theme: integrated-report-2025-pass4
+ir2025_bytes: 35488119
+ir2025_last_modified: Fri, 03 Apr 2026 02:00:02 GMT
+ir2025_etag: 6f429b141f4b80d241e2ebd43b35c08f-7
+ir2025_s3_version: H0V.jlEk4DcD64PpuCNSCAcT5bg0nluM
+ir2025_pages: 168
+ir2025_creation: 2026-04-02T10:49:35Z
+sep2026_replacement: none
+ir2026_published: none
+pass: 4
+toyota_lexus_retail_fy2025: 10274
+bev_2030_target_k: 3500
+fc_unit_export_cum_202512: 3000+
+gaia_categories: 11
