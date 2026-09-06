@@ -46,6 +46,7 @@ FRシリーズ（ファーストリテイリング）と対をなす、上場企
 - [[sources/integrated-report]]
 - [[sources/integrated-report-2025]]
 - [[sources/sdb-2026]]
+- [[sources/sdb-2026-social]]
 - [[sources/20f-2026-notes]]
 - [[sources/oceania-plants]]
 - [[sources/hino-ir]]
