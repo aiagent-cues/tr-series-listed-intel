@@ -2,12 +2,13 @@
 id: officers-2026
 type: org
 title: 役員体制 2026
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - https://global.toyota/jp/newsroom/corporate/44505396.html
   - https://www.sec.gov/Archives/edgar/data/1094517/000119312526273360/d153396dex991.htm
   - https://global.toyota/jp/newsroom/corporate/43951695.html
   - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
+  - https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf
 tags: [officers, governance]
 ---
 
@@ -67,6 +68,14 @@ tags: [officers, governance]
 ## 統合報告2025の報酬実績（2024年度、p112-113）
 枠と個人額の一次表は [[sources/integrated-report-2025-pass3]]。現金枠年30億円（社外3億）、株式枠年40億円（400万株）、監査等委員枠年3.6億円。
 2024年度取締役10名の報酬合計 4,439百万円（固定1,135 / 賞与1,364 / 株式1,940）。1億円以上: 豊田1,949 / 佐藤826 / 宮崎422 / 中嶋418 / 早川365 / Humphries259 / Kuffner244。
+
+## 20-F FY2026 のKMP・16G（2026-09-07 00:10 JST）
+詳細: [[sources/20f-2026-notes-pass5]]
+- 注記34のKMP報酬（TMC、百万円）: FY2026 基本1,206 / 賞与1,206 / 株式1,993 / 計4,405。名簽別なし。
+- Item 16G: 社外取締役5名。監査等委員会4名のうち社外3。
+- 独立性自家基準の数値: 取引は連結売上2%超、借入は連結総資産2%超、専門家・寄付は年USD120,000超、大株主は保有比率10位以内、社外在任12年超。
+- 倫理規範 Exhibit 11.1 は2025-11-01施行。内部者取引規程 Exhibit 19.1 は2026-01改正（秘書部 / Disclosure Committee）。
+- 20-F簽名は会計グループ Chief Officer 東 孝紀（2026-06-10）。
 
 ## 継承の要点
 - 2026-02-06発表 / 2026-04-01発効: 佐藤恒治が社長から副会長CIOへ。近健太が社長CEO。
