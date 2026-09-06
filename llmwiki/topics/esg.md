@@ -9,6 +9,7 @@ sources:
   - https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
   - https://global.toyota/jp/ir/library/annual/
   - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
+  - https://global.toyota/jp/newsroom/corporate/40349720.html
 tags: [esg, sustainability, training]
 ---
 
@@ -17,7 +18,7 @@ tags: [esg, sustainability, training]
 ## 公式フレーム
 - 豊田綱領→ トヨタフィロソフィー → 「幸せの量産」
 - 統合報告2025はIFRS財団の国際統合報告フレームワークを参考
-- Sustainability Data Bookは主に年 2 回更新。最新配布は sdb26（登録頁 2026-06 更新、HTTP Last-Modified 2026-06-29）
+- Sustainability Data Bookは主に年 2 回更新。最新配布は sdb26（登録頁 2026-06 更新、HTTP Last-Modified 2026-06-29）。2026-09-07時点9月定例PDFは未掲
 
 ## 6つのマテリアリティ（統合報告2025 p5）
 1. 移動価値の拡張 — Mobility Concept、モータースポーツとクルマ文化
@@ -153,6 +154,12 @@ NCAP等の最高ランク比（期間注つき）: 米IIHS 7/7、米NCAP 18/23�
 - OMUSVI: 車両仕様書の共通言語化。既往は企画手書き→製造200桁→営業80桁。
 - 知財ポートフォリオ2024（出願中+登録）: その他46 / 電動車18 / 電池19 / AD6 / コネクティッド11。SDBの2025年列（42/18/20/10/10）と年次が違う。
 - 聖光寺は長野県茅野市蓮科高原。英表記はShoko-ji。
+
+## 統合報告2025 第10パスで追加したG（綱領・グループビジョン）
+出典: [[sources/integrated-report-2025-pass10]]（2026-09-07 07:15 JST）。PDF差替なし。
+- グループビジョン「次の道を発明しよう」は2024-01-30、産業技術記念館。17社。佐吉誕生日2/14予定から前倒し。NR: https://global.toyota/jp/newsroom/corporate/40349720.html
+- 綱領制定は1935年（佐吉死去+5年、従業員1万人超）。フィロソフィーコーンの層はDNA/ウェイ/ミッション/ビジョン。
+- 1949-12覚書は人員整理を行わない旨。1950-05に喜一郎が社長辞任。教材: 雇用約束と経営危機の時点差。
 
 ## 公式ドキュメント
 - 統合報告2025: 168ページ。発行2026-02、配布PDF修正2026-04-03。
