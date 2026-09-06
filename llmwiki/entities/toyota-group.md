@@ -7,7 +7,9 @@ sources:
   - https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf
   - https://global.toyota/jp/detail/18914942
   - https://global.toyota/jp/
-tags: [group, supply-chain, 20-f, oceania]
+  - https://www.hino.co.jp/corp/for_investors/
+  - https://archion.co.jp/ir
+tags: [group, supply-chain, 20-f, oceania, hino]
 ---
 
 # トヨタグループマップ（教材用）
@@ -20,6 +22,7 @@ TRシリーズはTMCを中核に、生産・調達・金融・軟件の周辺企
 - GR / Century（JMS 2025でブランド戦略として公表）
 - ダイハツ工業（子会社）
 - 日野自動車: 2026-03-31までTMC連結子会社。2026-04-01のMFTBC統合発効で非連結（Form 20-F FY2026 注記11・36）
+- 日野IR自体: 7205は2026-03-30上場廃止、売買最終 2026-03-27。統合会社ARCHION（543A、東証プライム、2026-04-01上場）が完全親会社。日野決算短信は日本基準。詳細[[sources/hino-ir]]
 - トヨタ自動車羽村: 日野羽村工場を統合直前にTMC連結化（FY2027）
 
 ## モノづくり・部品

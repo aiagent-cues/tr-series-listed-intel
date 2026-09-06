@@ -7,7 +7,8 @@ sources:
   - https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf
   - https://www.sec.gov/Archives/edgar/data/1094517/000119312526264811/0001193125-26-264811-index.htm
   - https://www.sec.gov/Archives/edgar/data/1094517/000119312525115410/d904529dex991.htm
-tags: [ifrs, accounting, training, 20-f]
+  - https://www.hino.co.jp/corp/for_investors/financial_results/
+tags: [ifrs, accounting, training, 20-f, hino, j-gaap]
 ---
 
 # IFRS（TRシリーズ訓練トピック）
@@ -30,4 +31,7 @@ TMCの連結財務は **IFRS Accounting Standards**（IASB、未留保の準拠�
 - 自動車セグメント営業利益 2,777,049百万円、金融 851,722、その他 132,079。連結営業利益 3,766,216。
 - 引当金をFY2026から独立掲記（注記2）。比較年も組替。
 - 関税は特別損失ではなく営業費用側。管理会計では地域別と分離する。
-- 後発: 7e54機1株化（2026-06-03）、LF-ZC開発中止（2026-05下旬、影響未見積）。
+- 後発: 織機1株化（2026-06-03）、LF-ZC開発中止（2026-05下旬、影響未見積）。
+
+## 日野側の基準差（混同禁止）
+日野7205の決算短信は日本基準。ARCHION 543Aの連結予想はIFRS。同一事業実績をTMC 20-F（IFRS 5 売却目的）と日野短信で足してはならない。日野一次抽出は[[sources/hino-ir]]。

@@ -8,6 +8,7 @@ sources:
   - https://global.toyota/jp/sustainability/report/sdb/
   - https://global.toyota/en/ir/library/sec/
   - https://global.toyota/jp/detail/18914942
+  - https://www.hino.co.jp/corp/for_investors/
 tags: [hub, toyota, training]
 ---
 
@@ -47,6 +48,7 @@ FRシリーズ（ファーストリテイリング）と対をなす、上場企
 - [[sources/sdb-2026]]
 - [[sources/20f-2026-notes]]
 - [[sources/oceania-plants]]
+- [[sources/hino-ir]]
 - [[sources/news-2026]]
 
 ## 訓練

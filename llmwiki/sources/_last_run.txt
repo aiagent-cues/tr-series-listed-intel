@@ -1,14 +1,17 @@
-Sun Sep  6 04:03:00 UTC 2026
+Sun Sep  6 06:03:00 UTC 2026
 checked:
-200 https://global.toyota/en/ir/library/sec/
-200 https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf
-200 https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001094517&type=20-F&owner=exclude&count=10
-theme: 20f-notes-fy2026-06
-pdf_bytes: 5259321
-pdf_pages: 264
-pdf_last_modified: Thu, 11 Jun 2026 01:00:01 GMT
-pdf_creation: 2026-06-10T05:52:15Z
-pdf_mod: 2026-06-10T06:33:11Z
-sec_filed: 2026-06-10
-sec_accession: 0001193125-26-264811
-period_end: 2026-03-31
+200 https://www.hino.co.jp/corp/for_investors/
+200 https://www.hino.co.jp/corp/for_investors/financial_results/
+200 https://www.hino.co.jp/corp/for_investors/financial_results/assets/88902ee2dd396a6ce60862ec556375c5.pdf
+200 https://www.hino.co.jp/corp/for_investors/financial_results/assets/ARCHIONJP.pdf
+200 https://www.hino.co.jp/corp/for_investors/disclosure/2026.html
+200 https://archion.co.jp/ir
+theme: hino-ir-fy2026
+q3_pdf_bytes: 373503
+q3_pdf_last_modified: Mon, 16 Feb 2026 05:42:12 GMT
+archion_redirect_bytes: 241103
+archion_redirect_last_modified: Tue, 26 May 2026 10:04:07 GMT
+hino_delist_trade_last: 2026-03-27
+hino_delist_date: 2026-03-30
+archion_list_date: 2026-04-01
+archion_code: 543A
