@@ -8,6 +8,7 @@ sources:
   - https://global.toyota/jp/detail/18914942
   - https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
   - https://www.toyota.com.au/-/media/toyota/main-site/home-page/files/tmca-anti-modern-slavery-statement-2025.pdf
+  - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
 tags: [scm, logistics, oceania, training]
 ---
 
@@ -32,7 +33,10 @@ tags: [scm, logistics, oceania, training]
 - TMCA現代奴隷声明 FY2025: 一次 1,164社、支出 約 A$12.36 billion。完成車・部品輸入 87%（日・タイ・インドネシア・オーストリア・カナダ・南ア・ベルギー・トルコ・米国）、現地用品 3%、豪州オペ 10%。
 
 ## SDBの一次サプライヤー数
-出典: [[sources/sdb-2026]] p130、TMC+海外20社。2025年度 11,489（日本部品491 / 海外部品2,893うち非日系1,638 / 日本設備物洟1,254 / 海外設備物洟6,851）。
+出典: [[sources/sdb-2026]] p130、TMC+海外20社。2025年度 11,489（日本部品491 / 海外部品2,893うち非日系1,638 / 日本設備物浄1,254 / 海外設備物浄6,851）。
+
+## ブラジル・ポルトフェリス（IR2025 p148-149）
+出典: [[sources/integrated-report-2025-pass3]]。2025-09-22にTDBのPFZが暴風雨で建屋倒壊し、ブラジル唯一のエンジン供給が停止。IDT・SORも停止。下山ZR輸出で2025-11-03に組立再開、貸倉庫移設のNR（DI）は2026-01-26、完全復興は2027年後半見込み。補完元は上郷・元町・TMMIN・ADM・ダイハツ滋賀。
 
 ## 教材で追うリスク
 1. 関税によるノースアメリカ生産移管
@@ -41,3 +45,4 @@ tags: [scm, logistics, oceania, training]
 4. Scope3 カテゴリ1（購入）の算定
 5. 小規模市場の完成車工場閉鎖と輸入供給への切替
 6. 販売会社化した元工場の輸入依存度（TMCA 87%）を連結SCMと接続する
+7. 単一エンジン工場（PFZ）停止が組立2工場を止める集中リスク

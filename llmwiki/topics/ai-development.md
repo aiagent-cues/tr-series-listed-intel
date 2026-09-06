@@ -2,11 +2,12 @@
 id: topic-ai
 type: topic
 title: AI開発
-updated: 2026-09-04
+updated: 2026-09-06
 sources:
   - https://global.toyota/en/newsroom/corporate/44256155.html
   - https://xtech.nikkei.com/atcl/nxt/column/18/03367/082900038/
   - https://www.nikkei.com/article/DGXZQOUC154MR0V10C26A7000000/
+  - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
 tags: [ai, sdv, woven, training]
 ---
 
@@ -29,3 +30,6 @@ tags: [ai, sdv, woven, training]
 1. **共通モデル戦略**: L2++とL4で同じE2E核を使い投資を売る。
 2. **人補完AI**: Vision Engineは代替ではなく直感補完が公表旨趣。
 3. **プライバシー**: Data FabricをESG・ガバナンス課題と接続させる。
+
+## 統合報告2025のAIガバナンス（p153-154）
+出典: [[sources/integrated-report-2025-pass3]]。AI基本方針、開発者/利用者向けAIガイドライン、AIガバナンス推進会議。GAIAは11カテゴリー（AD/ADAS、AIエージェント、モビリティ3.0、ソフト効率化等）。情報セキュリティの第三者評価ベースはNIST SP800-82/53、ISO 27001/27002、IEC 62443。
