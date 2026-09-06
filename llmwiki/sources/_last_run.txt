@@ -1,7 +1,8 @@
-Sun Sep  6 22:16:06 UTC 2026
+Sun Sep  6 22:29:16 UTC 2026
 checked:
 200 https://global.toyota/jp/ir/library/annual/
 200 https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf 35488119 Last-Modified Fri, 03 Apr 2026 02:00:02 GMT
+200 https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf 32257390 Last-Modified Fri, 03 Apr 2026 02:00:02 GMT
+200 https://global.toyota/jp/sustainability/report/sdb/ dateStr=2026-06-29
 200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf 11691278 Last-Modified Mon, 29 Jun 2026 04:00:04 GMT
 200 https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf 5259321 Last-Modified Thu, 11 Jun 2026 01:00:01 GMT
-200 https://global.toyota/jp/newsroom/corporate/40349720.html
