@@ -2,13 +2,14 @@
 id: topic-ai
 type: topic
 title: AI開発
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - https://global.toyota/en/newsroom/corporate/44256155.html
   - https://xtech.nikkei.com/atcl/nxt/column/18/03367/082900038/
   - https://www.nikkei.com/article/DGXZQOUC154MR0V10C26A7000000/
   - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
   - https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
+  - https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf
 tags: [ai, sdv, woven, training]
 ---
 
@@ -64,3 +65,11 @@ Woven City工程（p40）: 2020-01 CES → 2021-02地鎮祭 → 2022-10安全祈
 - 対象はDCM搭載のエンジン車およびHEV。期間は日本 2025-04-01〜2026-03-31。
 - 保証付き削減量: 省エネルート 0.06 / エアコ内気 749 / S-FLOW 39 / エコSW 375 / ACC 7 / 先読みSOC 2 / タイヤ空気圧 2（kt-CO2e、◆）。
 - 教材: 車載データを燃費制御の実証値に繰り込む場合の範囲（WtW、IEA Mobility Model）と保証規準を区別する。
+
+## 20-F Item 16K（2026-09-07 00:10 JST）
+出典: [[sources/20f-2026-notes-pass5]]。組織図の掲載は無い。
+- TGRS（ISO/COSO）に統合。実務はデジタル情報通信グループ内チーム。
+- Auto-ISAC（日米）、Nippon CSIRT Association。製品は UN R155 / ISO/SAE 21434。
+- ATSG: 連結子会社・日本ディーラー・レンタル・リースへ自己点検100項目超。現地監査あり。
+- 重要事案なし（本報告日まで）。FY2026に業績・財務を重大に動かすリスクは識別していない、と本文。
+- ガバナンス・リスク分科会に取締役会・監査等委員会・サイバーセキュリティ室chief officer。Information Quality Management Meetingは年約2回。重要事項はCRO経由。TMC-SIRTが事案対応。
