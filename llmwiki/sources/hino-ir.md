@@ -2,7 +2,7 @@
 id: sources-hino-ir
 type: source-extract
 title: 日野自動車IR一次抽出
-updated: 2026-09-06
+updated: 2026-09-07
 period: FY2025-FY2026
 sources:
   - https://www.hino.co.jp/corp/for_investors/
@@ -11,6 +11,7 @@ sources:
   - https://www.hino.co.jp/corp/for_investors/disclosure/2025.shtml
   - https://archion.co.jp/ir
   - https://tdnet-pdf.kabutan.jp/20260514/140120260514534623.pdf
+  - https://www.hino.co.jp/corp/for_investors/shareholders/meeting.html
 tags: [hino, 7205, ir, archion, 543A, primary, j-gaap]
 ---
 
@@ -19,6 +20,7 @@ tags: [hino, 7205, ir, archion, 543A, primary, j-gaap]
 調査時点: 2026-09-06 15:03 JST。公式一次情報の要約のみ。字句再現はしない。
 TMC Form 20-F注記11・36の統合・羽村・非連結の定義は[[sources/20f-2026-notes]]に譲り、本種は日野自体のIR番号・決算・上場廃止・増資実績に限定する。
 FY2026通期の生産・売上実績・BS行と羽村後発の金額は[[sources/hino-ir-pass2]]。
+2025-11-28臨総会議案・株式交換比率表と HINO REPORT 第113期は[[sources/hino-ir-pass3]]。
 
 ## 書誌（調査時点のIR導線）
 | 項目 | 値 |
@@ -151,6 +153,7 @@ https://www.hino.co.jp/corp/for_investors/disclosure/assets/7370bc2d02efaebd3335
 
 ## 未処理
 - FY2026通期のセグメント・製造実績・BS行は[[sources/hino-ir-pass2]]へ移行済み。
-- 2025-11-28臨時株主総会の議案本文と株式交換比率表の完全行。
-- 古河・新田・中津・富山・川崎の帳簿上固定資産明細。
+- 2025-11-28臨時株主総会の議案本文と株式交換比率表、HINO REPORT第113期は[[sources/hino-ir-pass3]]へ移行済み。
+- 古河・新田・中津・富山・川崎の帳簿上固定資産明細（HINO REPORT第113期にも非掲）。
 - 羽村分割・株式譲渡の「精査中」金額の確定値。
+- 日野統合報告2025の非財務頁。
