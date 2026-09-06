@@ -2,10 +2,11 @@
 id: topic-mgmt-acc
 type: topic
 title: 管理会計
-updated: 2026-09-04
+updated: 2026-09-06
 sources:
   - https://global.toyota/pages/global_toyota/ir/financial-results/2026_4q_presentation_2_jp.pdf
   - https://zaimulist.com/kigyou.php?cd=7203
+  - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
 tags: [management-accounting, training]
 ---
 
@@ -23,6 +24,17 @@ tags: [management-accounting, training]
 - 公式説明: 関税影響約1.4兆円を台数増・価格・VC収益で相殺し見通しどおりの3.8兆円。
 - 自動車セグメント営業利益 2兆7,770億円（-29.5%）、金融 8,517億円。
 - 営業利益率の推移: FY24 11.9% → FY25 10.0% → FY26 7.4%。
+
+## 統合報告2025 資本戦略（p122-123）
+詳細: [[sources/integrated-report-2025]]
+
+| 項目 | 一次情報 |
+|---|---|
+| 3柱 | 安全性 / 成長性 / 効率性 |
+| 手元規準 | 自動車事業固定費の半年分 + 金融事業再調達額の半年分 |
+| 2024年度配当 | 中間40円+期末50円=年90円（前期+15円）、総額11,784億円、性向25.0% |
+| 2024年度自己株 | 1,999億円 |
+| 政策保有 2025/9 | 上場33銘柄・3.304兆円、全体119銘柄 |
 
 ## 演習
 「関税1.38兆円を経営資本利益と従業員利益にリプレースした場合、どの事業・地域のROICが下がるか」
