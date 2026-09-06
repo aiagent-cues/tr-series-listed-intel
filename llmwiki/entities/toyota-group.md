@@ -11,6 +11,7 @@ sources:
   - https://www.hino.co.jp/corp/for_investors/
   - https://archion.co.jp/ir
   - https://pressroom.toyota.com.au/PressRelease?pr-code=6c96ef03-a14c-4ec9-b2a4-d2e3399dab24
+  - https://www.toyota.com.au/-/media/project/toyota/toyota/explore/corporate/past-reports/files/20260630_tfal---fy-march-2026_financial-report-final.pdf
   - https://tdnet-pdf.kabutan.jp/20260514/140120260514534623.pdf
   - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
 tags: [group, supply-chain, 20-f, oceania, hino]
@@ -18,7 +19,7 @@ tags: [group, supply-chain, 20-f, oceania, hino]
 
 # トヨタグループマップ（教材用）
 
-TRシリーズはTMCを中核に、生産・調達・金融・軟件の周辺企業を展開する。
+TRシリーズはTMCを中核に、生産・調達・金融・軒件の周辺企業を展開する。
 
 ## 中核
 - トヨタ自動車 7203
@@ -43,13 +44,14 @@ TRシリーズはTMCを中核に、生産・調達・金融・軟件の周辺企
 - トヨタファイナンシャルサービス / Toyota Motor Credit Corporation
 - ウーブン・バイ・トヨタ
 - プライムプラネットエナジー&ソリューションズ（電池）
-- トヨタ ファイナンス オーストラリア: 資本 千豪ドル 120,000、TMC間接100%、有報提出会社（TMC有報FY2026）
+- トヨタ ファイナンス オーストラリア: 資本 千豪ドル 120,000、TMC間接100%、有報提出会社（TMC有報FY2026、TFA側EDINET E05954）。親はTFSC。AFR FY2026連結利益 A$493,134千、資産 A$33,934,563千、調整FTE 1,109.57。[[sources/oceania-plants-pass3]]
 
 ## 海洋州
 - TMCA（TMC 100%、1959-03設立、資本 千豪ドル 481,100）: 2017-10-03までAltonaで完成車生産。以降は販売・物流・CoE。ABN 64 009 686 097、本店 155 Bertie St, Port Melbourne。FY2026税引後利益 A$380 million、納車 240,633。[[sources/oceania-plants]]
-- TFAは車両会社TMCAとは別法人。toyota.com.au投資家頁の年次財務はTFA。
-- TNZ（TMC 100%）: ThamesのCKDは1998-10終了。現在は輸入販売と中古補修。
-- 調査時点で海洋州にTMC連結の完成車組立工場は無い。有報の在外主要設備表にも非掲出。
+- TFAは車両会社TMCAとは別法人。toyota.com.au投資家頁の年次財務はTFA。TMCAはTFAのGST/税務連結のヘッド。
+- TFNZ: TFA持分 45.45%。FY2026利益 A$29,208千。製造拠点の記載なし。
+- TNZ（TMC 100%）: ThamesのCKDは1998-10終了。現在は輸入販売と中古補修。2026-08-18にMiraiレンタル3台（Palmerston North）。
+- 調査時点で海洋州にTMC連結の完成車組立工場は無い。有報の在外主要設備表にも、世界製造一覧（2026-05-08）にも非掲出。
 
 ## 南米（IR2025）
 - Toyota do Brasil: ポルトフェリス（PFZ、エンジン）、インダイアトゥーバ、ソロカバ。2025-09-22 PFZ被災。詳細 [[sources/integrated-report-2025-pass3]]。

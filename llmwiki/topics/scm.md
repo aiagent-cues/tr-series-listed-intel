@@ -8,6 +8,7 @@ sources:
   - https://global.toyota/jp/detail/18914942
   - https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
   - https://www.toyota.com.au/-/media/toyota/main-site/home-page/files/tmca-anti-modern-slavery-statement-2025.pdf
+  - https://www.toyota.com.au/-/media/project/toyota/toyota/explore/corporate/past-reports/files/20260630_tfal---fy-march-2026_financial-report-final.pdf
   - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
 tags: [scm, logistics, oceania, training]
 ---
@@ -31,6 +32,7 @@ tags: [scm, logistics, oceania, training]
 - IMV（Hilux等）の世界供給拠点はタイ・インドネシア・アルゼンチン・南ア。海洋州は販売地。
 - Altona Parts Centre: 55,000 m²、26,000点/日（TMCA 2021-12-10）。
 - TMCA現代奴隷声明 FY2025: 一次 1,164社、支出 約 A$12.36 billion。完成車・部品輸入 87%（日・タイ・インドネシア・オーストリア・カナダ・南ア・ベルギー・トルコ・米国）、現地用品 3%、豪州オペ 10%。
+- 金融側: TFAは関係会社から車両を A$152,549千購入（AFR FY2026）。OL車両帳簿 A$2,797,287千。販売後の資金・残価を担う。[[sources/oceania-plants-pass3]]
 
 ## SDBの一次サプライヤー数
 出典: [[sources/sdb-2026]] p130、TMC+海外20社。2025年度 11,489（日本部品491 / 海外部品2,893うち非日系1,638 / 日本設備物浄1,254 / 海外設備物浄6,851）。
@@ -46,3 +48,4 @@ tags: [scm, logistics, oceania, training]
 5. 小規模市場の完成車工場閉鎖と輸入供給への切替
 6. 販売会社化した元工場の輸入依存度（TMCA 87%）を連結SCMと接続する
 7. 単一エンジン工場（PFZ）停止が組立2工場を止める集中リスク
+8. 輸入販売市場では金融子会社のOL車両と債権が工場設備の代替指標になる

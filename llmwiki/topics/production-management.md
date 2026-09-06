@@ -9,6 +9,8 @@ sources:
   - https://global.toyota/en/detail/7821002
   - https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2026_03.pdf
   - https://www.toyota.com.au/discover/news/toyota-opens-state-of-the-art-product-centre-at-altona-centre-of-excellence
+  - https://global.toyota/en/company/profile/facilities/manufacturing-worldwide/asia.html
+  - https://www.toyota.com.au/-/media/project/toyota/toyota/explore/corporate/past-reports/files/20260630_tfal---fy-march-2026_financial-report-final.pdf
   - https://tdnet-pdf.kabutan.jp/20260514/140120260514534623.pdf
   - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
   - https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
@@ -35,6 +37,8 @@ tags: [tps, production, oceania, training, hino]
 - 豪州Altona: 2017-10-03に車両生産終了。累計 3,451,115台（1963-2017）。[[sources/oceania-plants]]
 - 敷地の時点差: TMA Altona 約 750,000 m²（TMC 1987-12-11）= 製造期SRの75-76ha。転用後CoEは 22ha（TMCA 2021-12-10）。
 - TMC有報FY2026の在外主要設備5拠点にTMCAは含まれない。翌期の重要新設計画にも海洋州は無い。
+- TMC世界製造会社一覧（2026-05-08、Asia/ME頁）にも豪州・NZ・フィジー・PNGは無い。[[sources/oceania-plants-pass3]]
+- TFA AFR FY2026のPPEは賃借改良・器具・社用車のみ（帳簿 15,353千豪ドル）。土地・建物行なし。資本コミット nil。
 - NZ Thames: 1998-10にCKD組立終了。現在は中古補修・装備。現行年台数は公式未刊。
 - 調査時点で海洋州にTMC完成車組立工場は無い。AltonaはCoE（商品開発・水素製・GEH2組立）へ転用。
 
@@ -52,3 +56,4 @@ tags: [tps, production, oceania, training, hino]
 5. 輸出拠点の閉鎖と販売会社化（Altona 2014決定→2017終了）
 6. 親の「主要な設備」から落ちた元工場を、どう資本・損益で追うか
 7. 単一エンジン工場停止からマザー輸出で組立を立て直す（PFZ 2025-09-22）
+8. 世界製造一覧と金融子会社PPEで「工場が無い」を二重確認する
