@@ -1,15 +1,13 @@
-Sun Sep  6 08:07:00 UTC 2026
+Sun Sep  6 08:20:00 UTC 2026
 checked:
-200 https://global.toyota/jp/sustainability/report/sdb/
-200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
-200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_en.pdf
-theme: sdb-2026-social-governance
-jp_pdf_bytes: 11691278
-jp_pdf_last_modified: Mon, 29 Jun 2026 04:00:04 GMT
-etag: 5d99d52f54b74bd6c67520210d322c83-3
-s3_version: ty4iDeHrXxAZHh87VnhCFAsDcIoO1yOy
-pages: 155
+200 https://global.toyota/en/ir/library/sec/
+200 https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf
+theme: 20f-2026-notes-pass2
+pdf_bytes: 5259321
+pdf_last_modified: Thu, 11 Jun 2026 01:00:01 GMT
+etag: b0e64e363ef4dc1f9b21441333eb0c8d-2
+s3_version: KsbQIrdqL4z.4I6gq4Qditi8YSQkRnQk
+pages: 264
 pass: 2
-extracted: human-rights,dei,social-data,suppliers,recalls,speak-up-fy2025,board-2026-06
-site_footer_displayed: 2026-08-13
-sep2026_sdb_pdf: none
+extracted: note3-policies, note13-ppe, note14-rou, note15-intangibles, note18-debt, note19-other-fl, note20-risks, note21-fv, note22-offset, note23-pensions, note31-sbc
+sep2026_20f_resubmit: none

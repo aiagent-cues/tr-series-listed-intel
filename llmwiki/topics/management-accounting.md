@@ -7,6 +7,7 @@ sources:
   - https://global.toyota/pages/global_toyota/ir/financial-results/2026_4q_presentation_2_jp.pdf
   - https://zaimulist.com/kigyou.php?cd=7203
   - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
+  - https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf
 tags: [management-accounting, training]
 ---
 
@@ -35,6 +36,19 @@ tags: [management-accounting, training]
 | 2024年度配当 | 中間40円+期末50円=年90円（前期+15円）、総額11,784億円、性向25.0% |
 | 2024年度自己株 | 1,999億円 |
 | 政策保有 2025/9 | 上場33銘柄・3.304兆円、全体119銘柄 |
+
+## 20-F注記の資金・感応度（FY2026、百万円）
+詳細: [[sources/20f-2026-notes]]
+
+| 項目 | 一次情報 |
+|---|---|
+| 有利子（短+長+リース） | 43,205,469。長期通貨USD 47% |
+| 支払利息 | 1,696,845 |
+| 発行枠未使用 | 8,662,638 |
+| コミットライン未使用 | 6,753,849 |
+| FX VaR 期末 | 497,100（95%・10日） |
+| 金利+1% | 税前利益 △109,880、税前OCI △225,875 |
+| 上場株±10% | 税前OCI 331,161 |
 
 ## 演習
 「関税1.38兆円を経営資本利益と従業員利益にリプレースした場合、どの事業・地域のROICが下がるか」
