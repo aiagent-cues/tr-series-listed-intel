@@ -57,6 +57,7 @@ FRシリーズ（ファーストリテイリング）と対をなす、上場企
 - [[sources/integrated-report-2025-pass6]]
 - [[sources/integrated-report-2025-pass7]]
 - [[sources/integrated-report-2025-pass8]]
+- [[sources/integrated-report-2025-pass9]]
 - [[sources/sdb-2026]]
 - [[sources/sdb-2026-env-narrative]]
 - [[sources/sdb-2026-env-plant]]
