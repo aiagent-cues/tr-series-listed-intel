@@ -5,8 +5,9 @@ title: トヨタグループ（TRシリーズ拡張対象）
 updated: 2026-09-06
 sources:
   - https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf
+  - https://global.toyota/jp/detail/18914942
   - https://global.toyota/jp/
-tags: [group, supply-chain, 20-f]
+tags: [group, supply-chain, 20-f, oceania]
 ---
 
 # トヨタグループマップ（教材用）
@@ -34,7 +35,12 @@ TRシリーズはTMCを中核に、生産・調達・金融・軟件の周辺企
 - 豊田通商 8015
 - トヨタファイナンシャルサービス / Toyota Motor Credit Corporation
 - ウーブン・バイ・トヨタ
-- プライムプラネットエナジー&ソリューションズ（電池）
+- プライムプラネットエナジー&amp;ソリューションズ（電池）
+
+## 海洋州
+- TMCA（TMC 100%、1959-03設立）: 2017-10-03までAltonaで完成車生産。以降は販売・物流・CoE。[[sources/oceania-plants]]
+- TNZ（TMC 100%）: ThamesのCKDは1998-10終了。現在は輸入販売と中古補修。
+- 調査時点で海洋州にTMC連結の完成車組立工場は無い。
 
 ## SCM教材での使い方
 ティ1（部品）→ ティ1（ユニット）→ アセンブリ → 物流 → 販売店舗 → 金融 を一本で追う。

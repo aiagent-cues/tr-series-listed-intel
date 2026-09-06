@@ -2,11 +2,12 @@
 id: topic-scm
 type: topic
 title: サプライチェーンマネジメント
-updated: 2026-09-04
+updated: 2026-09-06
 sources:
-  - https://japan.zdnet.com/article/35252312/
+  - https://global.toyota/en/detail/157075
+  - https://global.toyota/jp/detail/18914942
   - https://zaimulist.com/kigyou.php?cd=7203
-tags: [scm, logistics, training]
+tags: [scm, logistics, oceania, training]
 ---
 
 # サプライチェーンマネジメント（TRシリーズ訓練トピック）
@@ -23,8 +24,14 @@ tags: [scm, logistics, training]
 - 連結セグメント内訳: 車両 38.85兆 / 生産用部品 1.51兆 / 部品 3.61兆 / 金融 4.82兆
 - グループ総販売 1,128万台と連結販売 960万台の差が、持分法・生産委託の教材ポイント
 
+## 海洋州の供給結構
+- 2017年までAltonaはCamry系の海洋州・中東輸出拠点。2017-10-03閉鎖後は輸入販売のみ。[[sources/oceania-plants]]
+- IMV（Hilux等）の世界供給拠点はタイ・インドネシア・アルゼンチン・南ア。海洋州は販売地。
+- Altona Parts Centre: 55,000 m²、26,000点/日（TMCA 2021-12-10）。
+
 ## 教材で追うリスク
 1. 関税によるノースアメリカ生産移管
 2. 電池サプライチェーンの縦割
 3. ティア1品質不良のリコール波及
 4. Scope3 カテゴリ1（購入）の算定
+5. 小規模市場の完成車工場閉鎖と輸入供給への切替
