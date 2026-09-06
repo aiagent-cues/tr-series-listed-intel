@@ -1,43 +1,30 @@
-Sun Sep  6 16:03:00 UTC 2026
+Sun Sep  6 18:05:00 UTC 2026
 checked:
 200 https://global.toyota/jp/ir/library/annual/
 200 https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
-200 https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf
 200 https://global.toyota/jp/sustainability/report/sdb/
 200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
-200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_en.pdf
 200 https://global.toyota/jp/ir/library/sec/
 200 https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf
-theme: sdb-2026-social-pass3
+200 https://www.hino.co.jp/corp/for_investors/integrated_report.html
+200 https://www.hino.co.jp/corp/for_investors/pdf/integrated_report/integrated_report_2025_jp.pdf
+200 https://www.toyota.com.au/explore/corporate/investors/past-reports
+theme: hino-ir-pass4
 ir2025_bytes: 35488119
 ir2025_last_modified: Fri, 03 Apr 2026 02:00:02 GMT
 ir2025_etag: 6f429b141f4b80d241e2ebd43b35c08f-7
-ir2025_en_bytes: 32257390
 sep2026_ir_replacement: none
 sdb26_jp_bytes: 11691278
 sdb26_last_modified: Mon, 29 Jun 2026 04:00:04 GMT
 sdb26_etag: 5d99d52f54b74bd6c67520210d322c83-3
-sdb26_s3_version: ty4iDeHrXxAZHh87VnhCFAsDcIoO1yOy
-sdb26_en_bytes: 9687236
 sep2026_sdb_replacement: none
 20f_bytes: 5259321
 20f_last_modified: Thu, 11 Jun 2026 01:00:01 GMT
 20f_etag: b0e64e363ef4dc1f9b21441333eb0c8d-2
 20fa_on_library: none
-pass: social-pass3
-guideline_sign_asof: 2026-04
-guideline_sign_approx: 1000
-dd_audit_2024: 2
-dd_audit_2025: 21
-jacer_join: 2026-04-01
-cmrt_since: 2013
-emrt_since: 2024
-career_hire_fy2024_pct: 48
-swls_fy2024: 22.5
-overseas_engagement_staff_fy2024: 78.5
-overseas_engagement_shop_fy2024: 70.2
-absentee_person_years_fy2024: 1239
-absentee_target_fy2024: 801
-smoking_fy2024_pct: 18.4
-sasb_440b2: undisclosed
-sasb_440b3: undisclosed
+hino_ir2025_bytes: 26543734
+hino_ir2025_last_modified: Mon, 16 Feb 2026 05:46:23 GMT
+hino_ir2025_etag: 1950676-64aea799b9db7
+hino_ir2025_pages: 69
+tmca_ppe_on_toyota_com_au: none
+pass: hino-ir-pass4
