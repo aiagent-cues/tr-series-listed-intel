@@ -1,15 +1,14 @@
-Sun Sep  6 03:12:00 UTC 2026
+Sun Sep  6 04:03:00 UTC 2026
 checked:
-200 https://global.toyota/jp/sustainability/report/sdb/
-200 https://global.toyota/en/sustainability/report/sdb/
-200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
-200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_en.pdf
-200 https://global.toyota/jp/sustainability/report/archives/
-theme: sdb-environment-2026-06
-jp_pdf_bytes: 11691278
-en_pdf_bytes: 9687236
-jp_pdf_last_modified: Mon, 29 Jun 2026 04:00:04 GMT
-pdf_creation_jp: 2026-06-10T04:37:07Z
-pdf_mod_jp: 2026-06-22T06:42:51Z
-pdfinfo_pages: 155
-listed_pages: 153
+200 https://global.toyota/en/ir/library/sec/
+200 https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf
+200 https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001094517&type=20-F&owner=exclude&count=10
+theme: 20f-notes-fy2026-06
+pdf_bytes: 5259321
+pdf_pages: 264
+pdf_last_modified: Thu, 11 Jun 2026 01:00:01 GMT
+pdf_creation: 2026-06-10T05:52:15Z
+pdf_mod: 2026-06-10T06:33:11Z
+sec_filed: 2026-06-10
+sec_accession: 0001193125-26-264811
+period_end: 2026-03-31
