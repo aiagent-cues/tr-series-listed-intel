@@ -15,6 +15,7 @@ sources:
   - https://www.hino.co.jp/corp/for_investors/shareholders/meeting.html
   - https://www.hino.co.jp/corp/for_investors/integrated_report.html
   - https://tdnet-pdf.kabutan.jp/20260514/140120260514534623.pdf
+  - https://global.toyota/jp/newsroom/corporate/40349720.html
 tags: [hub, toyota, training]
 ---
 
@@ -58,6 +59,7 @@ FRシリーズ（ファーストリテイリング）と対をなす、上場企
 - [[sources/integrated-report-2025-pass7]]
 - [[sources/integrated-report-2025-pass8]]
 - [[sources/integrated-report-2025-pass9]]
+- [[sources/integrated-report-2025-pass10]]
 - [[sources/sdb-2026]]
 - [[sources/sdb-2026-env-narrative]]
 - [[sources/sdb-2026-env-plant]]
