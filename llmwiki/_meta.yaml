@@ -7,7 +7,7 @@ edinet: E02144
 isin: JP3633400001
 accounting_standard: IFRS
 currency: JPY
-updated: "2026-09-06T23:15:00+09:00"
+updated: "2026-09-06T23:25:00+09:00"
 language: ja
 license_note: "公開情報の要約・メタデータ・リンク集。元文書の字句再現はしない。"
 retrieval:
@@ -17,5 +17,5 @@ retrieval:
 team_size: 16
 min_work_hours: 10
 workflow: .github/workflows/collect.yml
-last_theme: sdb-2026-env-plant
-last_theme_at: "2026-09-06T23:15:00+09:00"
+last_theme: 20f-2026-notes-pass4
+last_theme_at: "2026-09-06T23:25:00+09:00"
