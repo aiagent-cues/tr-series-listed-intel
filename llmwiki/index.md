@@ -5,6 +5,7 @@ title: TRシリーズ LLM Wiki
 updated: 2026-09-06
 sources:
   - https://global.toyota/jp/ir/library/annual/
+  - https://global.toyota/jp/sustainability/report/sdb/
 tags: [hub, toyota, training]
 ---
 
@@ -41,6 +42,7 @@ FRシリーズ（ファーストリテイリング）と対をなす、上場企
 - [[sources/ir-hp]]
 - [[sources/integrated-report]]
 - [[sources/integrated-report-2025]]
+- [[sources/sdb-2026]]
 - [[sources/news-2026]]
 
 ## 訓練

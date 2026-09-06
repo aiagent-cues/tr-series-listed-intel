@@ -2,11 +2,13 @@
 id: toyota-7203
 type: company
 title: トヨタ自動車
-updated: 2026-09-04
+updated: 2026-09-06
 sources:
   - https://global.toyota/jp/company/profile/overview/
   - https://global.toyota/en/company/profile/overview/index.html
   - https://global.toyota/jp/ir/library/annual/index.html
+  - https://global.toyota/jp/sustainability/report/sdb/
+  - https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
   - https://car.watch.impress.co.jp/docs/news/2107163.html
 tags: [entity, listed, 7203, ifrs]
 ---
@@ -30,6 +32,8 @@ tags: [entity, listed, 7203, ifrs]
 | 資本金 | 6,354億円（2026-03-31） |
 | 従業員（単独） | 73,133人（2026-03-31） |
 | 従業員（連結） | 390,927人（2026-03-31） |
+| 連結子会社 | 602社（2026-03末、SDB2026 p5） |
+| 持分法適用会社 | 159社（2026-03末、SDB2026 p5） |
 | 主要事業 | 自動車の生産・販売、金融サービス、その他 |
 | 会計基準 | IFRS |
 | 決算期 | 3月31日 |
@@ -40,7 +44,7 @@ tags: [entity, listed, 7203, ifrs]
 
 | 指標 | 実績 | 前期比 |
 |---|---|---|
-| 営業収益 | 50兆6,849億円 | +5.5% |
+| 営業収益 | 50兆106,849億円 | +5.5% |
 | 営業利益 | 3兆6,662億円 | -21.5% |
 | 税引前利益 | 5兆1,529億円 | -19.7% |
 | 親会社所有者帰属当期利益 | 3兆8,480億円 | -19.2% |
@@ -65,3 +69,4 @@ tags: [entity, listed, 7203, ifrs]
 ### 解釈ノート
 - 増収減益の主因は米国関税影響（公開資料上 約1.38兆円スケール）。
 - 電動車が初の500万台超え。マルチパスウェイ（ICE/HEV/PHEV/BEV/FCEV）が中核戦略。
+- SDB2026環境データの2025年列HEV/PHEV/BEV千台は上表と数字一致。GHGは [[sources/sdb-2026]]。
