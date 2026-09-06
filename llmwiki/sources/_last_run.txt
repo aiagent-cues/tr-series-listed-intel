@@ -1,13 +1,20 @@
-Sun Sep  6 08:20:00 UTC 2026
+Sun Sep  6 09:01:00 UTC 2026
 checked:
-200 https://global.toyota/en/ir/library/sec/
-200 https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf
-theme: 20f-2026-notes-pass2
-pdf_bytes: 5259321
-pdf_last_modified: Thu, 11 Jun 2026 01:00:01 GMT
-etag: b0e64e363ef4dc1f9b21441333eb0c8d-2
-s3_version: KsbQIrdqL4z.4I6gq4Qditi8YSQkRnQk
-pages: 264
+200 https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2026_03.pdf
+200 https://pressroom.toyota.com.au/PressRelease?pr-code=95a90e5f-ead4-4d88-83ab-b3e928253d01
+200 https://pressroom.toyota.com.au/PressRelease?pr-code=6c96ef03-a14c-4ec9-b2a4-d2e3399dab24
+200 https://www.toyota.com.au/-/media/toyota/main-site/home-page/files/tmca-anti-modern-slavery-statement-2025.pdf
+200 https://global.toyota/en/detail/7821002
+theme: oceania-plants-pass2
+yuho_bytes: 4241627
+yuho_last_modified: Wed, 10 Jun 2026 06:45:01 GMT
+yuho_etag: 35b62716a581d6f568dce493ec2eff11
+yuho_pages: 241
+tmca_capital_aud_thousand: 481100
+altona_tma_site_m2_1987: 750000
+coe_ha_2021: 22
+tmca_pat_fy2025_aud_million: 279
+tmca_pat_fy2026_aud_million: 380
+tmca_statutory_ppe_bs: not_on_official_ir
+thames_current_annual_units: unpublished
 pass: 2
-extracted: note3-policies, note13-ppe, note14-rou, note15-intangibles, note18-debt, note19-other-fl, note20-risks, note21-fv, note22-offset, note23-pensions, note31-sbc
-sep2026_20f_resubmit: none
