@@ -12,6 +12,7 @@ sources:
   - https://archion.co.jp/ir
   - https://pressroom.toyota.com.au/PressRelease?pr-code=6c96ef03-a14c-4ec9-b2a4-d2e3399dab24
   - https://tdnet-pdf.kabutan.jp/20260514/140120260514534623.pdf
+  - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
 tags: [group, supply-chain, 20-f, oceania, hino]
 ---
 
@@ -49,6 +50,10 @@ TRシリーズはTMCを中核に、生産・調達・金融・軟件の周辺企
 - TFAは車両会社TMCAとは別法人。toyota.com.au投資家頁の年次財務はTFA。
 - TNZ（TMC 100%）: ThamesのCKDは1998-10終了。現在は輸入販売と中古補修。
 - 調査時点で海洋州にTMC連結の完成車組立工場は無い。有報の在外主要設備表にも非掲出。
+
+## 南米（IR2025）
+- Toyota do Brasil: ポルトフェリス（PFZ、エンジン）、インダイアトゥーバ、ソロカバ。2025-09-22 PFZ被災。詳細 [[sources/integrated-report-2025-pass3]]。
+- 補完に関与: TMMIN、Astra Daihatsu Motor、ダイハツ滋賀（NRエンジン）。
 
 ## SCM教材での使い方
 ティア1（部品）→ ティア1（ユニット）→ アセンブリ → 物流 → 販売店舗 → 金融 を一本で追う。
