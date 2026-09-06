@@ -1,23 +1,24 @@
-Sun Sep  6 11:15:00 UTC 2026
+Sun Sep  6 11:35:00 UTC 2026
 checked:
-200 https://global.toyota/jp/sustainability/report/sdb/
-200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
-200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_en.pdf
-theme: sdb-2026-safety
-jp_bytes: 11691278
-en_bytes: 9687236
-last_modified: Mon, 29 Jun 2026 04:00:04 GMT
-etag_jp: 5d99d52f54b74bd6c67520210d322c83-3
-s3_version_jp: ty4iDeHrXxAZHh87VnhCFAsDcIoO1yOy
-pages: 155
-printed_pages_extracted: 97-114,130,146
-tss_cumulative_m_units: 61
-tss_as_of: 2026-03
-recall_fy2025_global_cases: 48
-recall_fy2025_global_10ku: 971
-iso9001_sites: 70
-iso9001_pct: 45.7
-patent_apps_2025: 19000
-patent_grants_2025: 10000
-sept_2026_sdb_pdf: none
-pass: safety
+200 https://global.toyota/en/ir/library/sec/
+200 https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf
+theme: 20f-2026-notes-pass3
+pdf_bytes: 5259321
+last_modified: Thu, 11 Jun 2026 01:00:01 GMT
+etag: b0e64e363ef4dc1f9b21441333eb0c8d-2
+s3_version: KsbQIrdqL4z.4I6gq4Qditi8YSQkRnQk
+pages: 264
+notes_extracted: 8,9,32,33
+finance_receivables_net_fy2026: 38966655
+unguaranteed_residual_fy2026: 823988
+other_financial_assets_fy2026: 15118244
+securities_loaned_fy2026: 2594946
+securitized_receivables_fy2026: 8267069
+secured_debt_spe_fy2026: 8664183
+unconsolidated_spe_fy2026: 1049995
+thai_ab_probe_closed: 2025-06
+cba_expiry: 2027-08-31
+hino_voting_pct_2026-03-31: 66.16
+hino_cert_cost_fy2025: 281140
+20f_amendment_sep2026: none
+pass: 3
