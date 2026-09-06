@@ -1,12 +1,15 @@
-Sun Sep  6 07:05:07 UTC 2026
+Sun Sep  6 08:07:00 UTC 2026
 checked:
-200 https://global.toyota/jp/ir/library/annual/
-200 https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
-theme: integrated-report-2025-pass2
-jp_pdf_bytes: 35488119
-jp_pdf_last_modified: Fri, 03 Apr 2026 02:00:02 GMT
-etag: 6f429b141f4b80d241e2ebd43b35c08f-7
-s3_version: H0V.jlEk4DcD64PpuCNSCAcT5bg0nluM
-pages: 168
+200 https://global.toyota/jp/sustainability/report/sdb/
+200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
+200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_en.pdf
+theme: sdb-2026-social-governance
+jp_pdf_bytes: 11691278
+jp_pdf_last_modified: Mon, 29 Jun 2026 04:00:04 GMT
+etag: 5d99d52f54b74bd6c67520210d322c83-3
+s3_version: ty4iDeHrXxAZHh87VnhCFAsDcIoO1yOy
+pages: 155
 pass: 2
-extracted: arena,woven-city-2025-09-25,board-talk,governance-2025-06-12,cert-14,capital,people,human-rights
+extracted: human-rights,dei,social-data,suppliers,recalls,speak-up-fy2025,board-2026-06
+site_footer_displayed: 2026-08-13
+sep2026_sdb_pdf: none
