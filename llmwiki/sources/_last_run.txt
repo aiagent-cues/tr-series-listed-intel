@@ -1,21 +1,23 @@
-Sun Sep  6 10:21:22 UTC 2026
+Sun Sep  6 11:15:00 UTC 2026
 checked:
-200 https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
-200 https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf
-200 https://global.toyota/jp/ir/library/annual/
-theme: integrated-report-2025-pass3
-jp_bytes: 35488119
-en_bytes: 32257390
-last_modified: Fri, 03 Apr 2026 02:00:02 GMT
-etag_jp: 6f429b141f4b80d241e2ebd43b35c08f-7
-pages: 168
-pfz_event: 2025-09-22
-idt_sor_restart: 2025-11-03
-nr_di_restart: 2026-01-26
-pfz_full_recovery_target: 2027H2
-tss_cumulative_m_units: 57
-director_comp_total_m_jpy: 4439
-akio_comp_m_jpy: 1949
-scope1_2024_10kt: 245
-scope2_2024_10kt: 252
-pass: 3
+200 https://global.toyota/jp/sustainability/report/sdb/
+200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
+200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_en.pdf
+theme: sdb-2026-safety
+jp_bytes: 11691278
+en_bytes: 9687236
+last_modified: Mon, 29 Jun 2026 04:00:04 GMT
+etag_jp: 5d99d52f54b74bd6c67520210d322c83-3
+s3_version_jp: ty4iDeHrXxAZHh87VnhCFAsDcIoO1yOy
+pages: 155
+printed_pages_extracted: 97-114,130,146
+tss_cumulative_m_units: 61
+tss_as_of: 2026-03
+recall_fy2025_global_cases: 48
+recall_fy2025_global_10ku: 971
+iso9001_sites: 70
+iso9001_pct: 45.7
+patent_apps_2025: 19000
+patent_grants_2025: 10000
+sept_2026_sdb_pdf: none
+pass: safety
