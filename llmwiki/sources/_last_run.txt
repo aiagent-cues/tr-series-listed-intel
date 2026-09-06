@@ -1,10 +1,12 @@
-Sun Sep  6 14:15:00 UTC 2026
+Sun Sep  6 15:10:00 UTC 2026
 checked:
 200 https://global.toyota/jp/ir/library/annual/
 200 https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
 200 https://global.toyota/jp/sustainability/report/sdb/
 200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
-theme: sdb-2026-env-plant
+200 https://global.toyota/en/ir/library/sec/
+200 https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf
+theme: 20f-2026-notes-pass5
 ir2025_bytes: 35488119
 ir2025_last_modified: Fri, 03 Apr 2026 02:00:02 GMT
 ir2025_etag: 6f429b141f4b80d241e2ebd43b35c08f-7
@@ -13,15 +15,19 @@ sdb26_jp_bytes: 11691278
 sdb26_last_modified: Mon, 29 Jun 2026 04:00:04 GMT
 sdb26_etag: 5d99d52f54b74bd6c67520210d322c83-3
 sdb26_s3_version: ty4iDeHrXxAZHh87VnhCFAsDcIoO1yOy
-sdb26_pages: 155
 sep2026_sdb_replacement: none
-pass: env-plant
-tahara_onsite_re_pct: 13
-tahara_wind_mw: 21.5
-lexus_jp_re_pct: 100
-offcycle_kt: 8614
-ac_recirc_kt: 749
-eco_switch_kt: 375
-bev_fy2025_sales_k: 5040
-cat11_ldv_2019_gpkm: 208.8
-cat11_ldv_2025_cut_pct: 12.2
+20f_bytes: 5259321
+20f_last_modified: Thu, 11 Jun 2026 01:00:01 GMT
+20f_etag: b0e64e363ef4dc1f9b21441333eb0c8d-2
+20f_s3_version: KsbQIrdqL4z.4I6gq4Qditi8YSQkRnQk
+20f_pages: 264
+20fa_on_library: none
+pass: notes-pass5
+tob_shares: 1192330962
+tob_price_yen: 3067
+tob_yen_approx_tn: 3.65
+retirement_shares_20260630: 1200000000
+item16e_fy_shares: 16234700
+note34_sales_assoc_fy26: 2933464
+note34_sales_jv_fy26: 1161865
+kmp_comp_fy26: 4405

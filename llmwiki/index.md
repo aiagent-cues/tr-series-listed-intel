@@ -2,7 +2,7 @@
 id: wiki-home
 type: hub
 title: TRシリーズ LLM Wiki
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - https://global.toyota/jp/ir/library/annual/
   - https://global.toyota/jp/sustainability/report/sdb/
@@ -60,6 +60,7 @@ FRシリーズ（ファーストリテイリング）と対をなす、上場企
 - [[sources/20f-2026-notes-pass2]]
 - [[sources/20f-2026-notes-pass3]]
 - [[sources/20f-2026-notes-pass4]]
+- [[sources/20f-2026-notes-pass5]]
 - [[sources/oceania-plants]]
 - [[sources/oceania-plants-pass3]]
 - [[sources/hino-ir]]
