@@ -1,17 +1,12 @@
-Sun Sep  6 06:03:00 UTC 2026
+Sun Sep  6 07:05:07 UTC 2026
 checked:
-200 https://www.hino.co.jp/corp/for_investors/
-200 https://www.hino.co.jp/corp/for_investors/financial_results/
-200 https://www.hino.co.jp/corp/for_investors/financial_results/assets/88902ee2dd396a6ce60862ec556375c5.pdf
-200 https://www.hino.co.jp/corp/for_investors/financial_results/assets/ARCHIONJP.pdf
-200 https://www.hino.co.jp/corp/for_investors/disclosure/2026.html
-200 https://archion.co.jp/ir
-theme: hino-ir-fy2026
-q3_pdf_bytes: 373503
-q3_pdf_last_modified: Mon, 16 Feb 2026 05:42:12 GMT
-archion_redirect_bytes: 241103
-archion_redirect_last_modified: Tue, 26 May 2026 10:04:07 GMT
-hino_delist_trade_last: 2026-03-27
-hino_delist_date: 2026-03-30
-archion_list_date: 2026-04-01
-archion_code: 543A
+200 https://global.toyota/jp/ir/library/annual/
+200 https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
+theme: integrated-report-2025-pass2
+jp_pdf_bytes: 35488119
+jp_pdf_last_modified: Fri, 03 Apr 2026 02:00:02 GMT
+etag: 6f429b141f4b80d241e2ebd43b35c08f-7
+s3_version: H0V.jlEk4DcD64PpuCNSCAcT5bg0nluM
+pages: 168
+pass: 2
+extracted: arena,woven-city-2025-09-25,board-talk,governance-2025-06-12,cert-14,capital,people,human-rights
