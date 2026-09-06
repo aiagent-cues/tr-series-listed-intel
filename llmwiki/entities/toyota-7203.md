@@ -2,13 +2,14 @@
 id: toyota-7203
 type: company
 title: トヨタ自動車
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - https://global.toyota/jp/company/profile/overview/
   - https://global.toyota/en/company/profile/overview/index.html
   - https://global.toyota/jp/ir/library/annual/index.html
   - https://global.toyota/jp/sustainability/report/sdb/
   - https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
+  - https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf
   - https://car.watch.impress.co.jp/docs/news/2107163.html
 tags: [entity, listed, 7203, ifrs]
 ---
@@ -48,7 +49,7 @@ tags: [entity, listed, 7203, ifrs]
 | 営業利益 | 3兆6,662億円 | -21.5% |
 | 税引前利益 | 5兆1,529億円 | -19.7% |
 | 親会社所有者帰属当期利益 | 3兆8,480億円 | -19.2% |
-| 営業利益率 | 7.4% | 下落 |
+| 営業利益率 | 7.4% | 落下 |
 | 連結販売台数 | 959.5万台 | +2.5% |
 | トヨタ・レクサス販売 | 1,047.7万台 | +2.0% |
 | グループ総販売 | 1,128.3万台 | +2.5% |
@@ -65,6 +66,15 @@ tags: [entity, listed, 7203, ifrs]
 | 金融 | 4,819,003百万円 |
 | その他 | 664,026百万円 |
 | 連結 | 50,684,952百万円 |
+
+### 株主構成（20-F Item 7.A、2026-03-31）
+詳細: [[sources/20f-2026-notes-pass5]]
+- 発行済 15,794,987,460 / 自己株式 2,761,055,486 / 残高 13,033,931,974。
+- 5%超は豊田自動織機 1,192,331千株（8議決権付株の9.17%）のみ。
+- 結算後TOB（2026-03-31–04-27）でTMCが1,192,330,962株を3,067円（約3.65兆円）買付。織機は応募し、2026-05-25汾済後の保有は1,242,720株（0.1%）。
+- 消却予定 1,200,000,000株（2026-06-30、発行済の約7.6%）。
+- ADS 355,369,125株分。米国住所記録は発行済の約12.1%。
+- FY2026配当総額 1,238.2十億円。
 
 ### 解釈ノート
 - 増収減益の主因は米国関税影響（公開資料上 約1.38兆円スケール）。
