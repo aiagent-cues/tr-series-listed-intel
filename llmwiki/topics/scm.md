@@ -6,7 +6,7 @@ updated: 2026-09-06
 sources:
   - https://global.toyota/en/detail/157075
   - https://global.toyota/jp/detail/18914942
-  - https://zaimulist.com/kigyou.php?cd=7203
+  - https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
 tags: [scm, logistics, oceania, training]
 ---
 
@@ -28,6 +28,9 @@ tags: [scm, logistics, oceania, training]
 - 2017年までAltonaはCamry系の海洋州・中東輸出拠点。2017-10-03閉鎖後は輸入販売のみ。[[sources/oceania-plants]]
 - IMV（Hilux等）の世界供給拠点はタイ・インドネシア・アルゼンチン・南ア。海洋州は販売地。
 - Altona Parts Centre: 55,000 m²、26,000点/日（TMCA 2021-12-10）。
+
+## SDBの一次サプライヤー数
+出典: [[sources/sdb-2026]] p130、TMC+海外20社。2025年度 11,489（日本部品491 / 海外部品2,893うち非日系1,638 / 日本設備物洔1,254 / 海外設備物洔6,851）。
 
 ## 教材で追うリスク
 1. 関税によるノースアメリカ生産移管
