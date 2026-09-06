@@ -10,6 +10,7 @@ sources:
   - https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2026_03.pdf
   - https://www.toyota.com.au/discover/news/toyota-opens-state-of-the-art-product-centre-at-altona-centre-of-excellence
   - https://tdnet-pdf.kabutan.jp/20260514/140120260514534623.pdf
+  - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
 tags: [tps, production, oceania, training, hino]
 ---
 
@@ -36,6 +37,9 @@ tags: [tps, production, oceania, training, hino]
 ## 日野連結の生産実績（日本基準短信、ARCHION開示）
 出典: [[sources/hino-ir]]。FY2026（2025-04-01〜2026-03-31）連結生産: トラック・バス 100,473台（前期121,218、△20,745）、トヨタ向け車両 156,748台（前期152,488、+4,260）。売上台数はT/バス105,772・トヨタ向け156,743。供給制約は小型トラック/小型バス。羽村は2026-04-01にTMC側へ分割移管。
 
+## ブラジルPFZ被災とグローバル補完（IR2025 p148-149）
+出典: [[sources/integrated-report-2025-pass3]]。エンジンマザー（下山ZR / 上郷M20 / 元町シャシー / TMMIN・ADM・DH滋賀のNR）で組立2工場を約2カ月で再稼働。教材: 単一エンジン工場への集中と、被災後の輸出補完・貸倉庫仮設・完全復興までの時間差。
+
 ## 教材モジュール
 1. TPS原論（後工程引き、標準作業、平準化）
 2. 品質不良を止めるガバナンスと自像化の関係
@@ -43,3 +47,4 @@ tags: [tps, production, oceania, training, hino]
 4. デジタルツインはTPSの代替ではなく拡張
 5. 輸出拠点の閉鎖と販売会社化（Altona 2014決定→2017終了）
 6. 親の「主要な設備」から落ちた元工場を、どう資本・損益で追うか
+7. 単一エンジン工場停止からマザー輸出で組立を立て直す（PFZ 2025-09-22）
