@@ -5,10 +5,12 @@ title: トヨタグループ（TRシリーズ拡張対象）
 updated: 2026-09-06
 sources:
   - https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf
+  - https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2026_03.pdf
   - https://global.toyota/jp/detail/18914942
   - https://global.toyota/jp/
   - https://www.hino.co.jp/corp/for_investors/
   - https://archion.co.jp/ir
+  - https://pressroom.toyota.com.au/PressRelease?pr-code=6c96ef03-a14c-4ec9-b2a4-d2e3399dab24
 tags: [group, supply-chain, 20-f, oceania, hino]
 ---
 
@@ -39,12 +41,14 @@ TRシリーズはTMCを中核に、生産・調達・金融・軟件の周辺企
 - トヨタファイナンシャルサービス / Toyota Motor Credit Corporation
 - ウーブン・バイ・トヨタ
 - プライムプラネットエナジー&ソリューションズ（電池）
+- トヨタ ファイナンス オーストラリアㅉ: 資本 千豪ドル 120,000、TMC間接100%、有報提出会社（TMC有報FY2026）
 
 ## 海洋州
-- TMCA（TMC 100%、1959-03設立）: 2017-10-03までAltonaで完成車生産。以降は販売・物流・CoE。[[sources/oceania-plants]]
+- TMCA（TMC 100%、1959-03設立、資本 千豪ドル 481,100）: 2017-10-03までAltonaで完成車生産。以降は販売・物流・CoE。ABN 64 009 686 097、本店 155 Bertie St, Port Melbourne。FY2026税引後利益 A$380 million、納車 240,633。[[sources/oceania-plants]]
+- TFAは車両会社TMCAとは別法人。toyota.com.au投資家頁の年次財務はTFA。
 - TNZ（TMC 100%）: ThamesのCKDは1998-10終了。現在は輸入販売と中古補修。
-- 調査時点で海洋州にTMC連結の完成車組立工場は無い。
+- 調査時点で海洋州にTMC連結の完成車組立工場は無い。有報の在外主要設備表にも非掲出。
 
 ## SCM教材での使い方
-ティ1（部品）→ ティ1（ユニット）→ アセンブリ → 物流 → 販売店舗 → 金融 を一本で追う。
+ティア1（部品）→ ティア1（ユニット）→ アセンブリ → 物流 → 販売店舗 → 金融 を一本で追う。
 連結範囲の時点を常に明示する（2026-03-31まで日野含む / 2026-04-01以降除外）。

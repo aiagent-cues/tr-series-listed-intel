@@ -8,6 +8,7 @@ sources:
   - https://global.toyota/jp/sustainability/report/sdb/
   - https://global.toyota/en/ir/library/sec/
   - https://global.toyota/jp/detail/18914942
+  - https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2026_03.pdf
   - https://www.hino.co.jp/corp/for_investors/
 tags: [hub, toyota, training]
 ---

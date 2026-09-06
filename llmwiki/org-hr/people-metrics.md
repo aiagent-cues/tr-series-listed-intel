@@ -8,6 +8,7 @@ sources:
   - https://global.toyota/en/sustainability/
   - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
   - https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
+  - https://www.toyota.com.au/-/media/toyota/main-site/home-page/files/tmca-anti-modern-slavery-statement-2025.pdf
 tags: [hr, human-capital]
 ---
 
@@ -62,7 +63,7 @@ tags: [hr, human-capital]
 | 管理職 / 女性管理職 | 10,762 / 432 | 単体女性管理職比4.0% |
 | グローバル女性管理職比 | 12.0% | 日本含む46社。2023年は47社11.0% |
 | 男性育休取得率 | 67.4% | 行動計画目標は85%以上 |
-| 男女賃金格差（全労働者） | 66.2% | 制度差なしと注記 |
+| 男女賀金格差（全労働者） | 66.2% | 制度差なしと注記 |
 | 障害雇用率 | 2.49% | 特例子会社含む 1,528人 |
 | 月平均残業 | 21.1時間 | 組合員。目標は30時間未満継続 |
 | 非正規雇用率 | 21.8% | |
@@ -70,3 +71,9 @@ tags: [hr, human-capital]
 | 休業災害度数率 単体 | 0.10 | グローバル0.18（TMC+海外53拠点） |
 
 労働損失: 2024-04-10〜15 TDBインダイアツーバ移転発表に伴うストライキ 4,318人・日。
+
+## 海洋州（TMCA、FY2025声明）
+出典: [[sources/oceania-plants]] / 現代奴隷声明2025。連結390,927人とは定義も範囲も違う。
+- TMCA従業員 約 1,800（6事業アーム）。製造終了時計画の約1,300人から増。
+- 販社網 200超フランチャイズ / 300拠点。
+- 2026-01-01: COOに Scott Thompson（Toyota GBから帰任）。CEO Matthew Callachor。
