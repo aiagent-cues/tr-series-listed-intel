@@ -2,16 +2,17 @@
 id: people-metrics
 type: hr
 title: 人事メトリクス
-updated: 2026-09-04
+updated: 2026-09-06
 sources:
   - https://irbank.net/E02144/notes/InformationAboutEmployeesTextBlock?f=S100Y8NY
   - https://global.toyota/en/sustainability/
+  - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
 tags: [hr, human-capital]
 ---
 
-# 人事・人的資本指標（2026-03-31）
+# 人事・人的資本指標
 
-## 連結従業員
+## 連結従業員（2026-03-31、有報系）
 | セグメント | 人数 | 臨時[外数] |
 |---|---|---|
 | 自動車 | 343,952 | 85,655 |
@@ -20,7 +21,9 @@ tags: [hr, human-capital]
 | 全社共通 | 6,819 | 1,460 |
 | 合計 | 390,927 | 99,032 |
 
-## 提出会社（TMC単独）
+統合報告2025 p163のFY2025列は連結383,853 / 単体71,515。期間が違うので並用禁止。
+
+## 提出会社（TMC単独、2026-03-31）
 | 項目 | 値 |
 |---|---|
 | 従業員 | 73,133（臨時 16,689） |
@@ -28,6 +31,19 @@ tags: [hr, human-capital]
 | 平均勤続 | 15.1年 |
 | 平均年間給与 | 10,060,464円 |
 | 給与前年比 | +2.4% |
+
+## 統合報告2025（単体・2024年度実績, p132-144）
+| 項目 | 値 | 時点 |
+|---|---|---|
+| キャリア採用比 | 10% → 48% | 2024年度実績。事務・技術は50%程度が基準 |
+| 新卒配属コース | 20 | 報告時点 |
+| Well-Being Survey 潜在能力発揮 | 肯定 40% | 人事本部長が労使協で紹介 |
+| Well-Being Survey ありのまま | 肯定 47% | 同上 |
+| 全員活躍ウィーク | 来場約2,700 / オンライン4,000超 | 報告内事例 |
+| 2025年労使協 | 2/19、本部別約100件、3/5 | 組合が総合的人への投資を申し入れ |
+| JP-MIRAI | 2020設立から参画 | 相談窓口は2022-05 |
+
+詳細: [[sources/integrated-report-2025]]
 
 ## 多様性・健康
 - PRIDE INDEX 2025 Gold（5年連続、2025-11-19更新）
