@@ -24,7 +24,21 @@ FY2026通期の生産・売上実績・BS行と羽村後発の金額は[[sources
 2025-11-28臨総会議案・株式交換比率表と HINO REPORT 第113期は[[sources/hino-ir-pass3]]。
 統合報告書2025の非財務は[[sources/hino-ir-pass4]]。
 
-第1パス本文（上場廃止・増資・3Q・通期損益サマリー）は既存コミットの本ファイル履歴を参照。本更新は索引と未処理の指示のみを更新する。
+## 書誌（調査時点のIR導線）
+| 項目 | 値 |
+|---|---|
+| 発行体 | 日野自動車株式会社 |
+| 旧証券コード | 7205（東証プライム・名証プレミア） |
+| 会計基準（日野決算短信） | 日本基準 |
+| 官方IRトップ | https://www.hino.co.jp/corp/for_investors/ |
+| 決算情報 | https://www.hino.co.jp/corp/for_investors/financial_results/ |
+| 適時開示2026 | https://www.hino.co.jp/corp/for_investors/disclosure/2026.html |
+| 適時開示2025 | https://www.hino.co.jp/corp/for_investors/disclosure/2025.shtml |
+| IRトップの常設 | 2026-04-01の三菱ふそうとの統合で上場廃止。詳細は2026-03-02「ARCHION株式会社の上場承認に関するお知らせ」 |
+| 通期決算の転送 | 2026-05-14掲載の通期情報はARCHION IRへ転送 |
+| 転送先 | https://archion.co.jp/ir |
+
+第1パスの上場廃止・公取委審査・第三者割当・FY2026 3Q/通期損益・代表異動・NZ訴訟・ARCHION予想の詳細行は既存コミット履歴（SHA 38edcb39）を正本とする。本更新で再掲しない。
 
 ## 未処理
 - FY2026通期のセグメント・製造実績・BS行は[[sources/hino-ir-pass2]]へ移行済み。
