@@ -1,23 +1,27 @@
-Sun Sep  6 13:50:00 UTC 2026
+Sun Sep  6 14:15:00 UTC 2026
 checked:
+200 https://global.toyota/jp/ir/library/annual/
+200 https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
 200 https://global.toyota/jp/sustainability/report/sdb/
 200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
-200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_en.pdf
-200 https://global.toyota/jp/ir/library/annual/
-theme: sdb-2026-env-narrative
+theme: sdb-2026-env-plant
+ir2025_bytes: 35488119
+ir2025_last_modified: Fri, 03 Apr 2026 02:00:02 GMT
+ir2025_etag: 6f429b141f4b80d241e2ebd43b35c08f-7
+sep2026_ir_replacement: none
 sdb26_jp_bytes: 11691278
 sdb26_last_modified: Mon, 29 Jun 2026 04:00:04 GMT
 sdb26_etag: 5d99d52f54b74bd6c67520210d322c83-3
 sdb26_s3_version: ty4iDeHrXxAZHh87VnhCFAsDcIoO1yOy
 sdb26_pages: 155
-sdb26_creation: 2026-06-10T04:37:07Z
 sep2026_sdb_replacement: none
-pass: env-narrative
-iso14001_cons_prod_cos: 124
-cdp_2025_climate: A
-cdp_2025_water: A-
-lc_ghg_2019_t_per_unit: 58.9
-lc_ghg_2025_cut_pct: 12
-forest_removal_fy2024_t: 6563
-tahara_credits_kt: 33
-nature_sites: 5
+pass: env-plant
+tahara_onsite_re_pct: 13
+tahara_wind_mw: 21.5
+lexus_jp_re_pct: 100
+offcycle_kt: 8614
+ac_recirc_kt: 749
+eco_switch_kt: 375
+bev_fy2025_sales_k: 5040
+cat11_ldv_2019_gpkm: 208.8
+cat11_ldv_2025_cut_pct: 12.2
