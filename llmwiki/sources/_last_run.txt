@@ -1,20 +1,20 @@
-Sun Sep  6 09:01:00 UTC 2026
+Sun Sep  6 10:07:00 UTC 2026
 checked:
-200 https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2026_03.pdf
-200 https://pressroom.toyota.com.au/PressRelease?pr-code=95a90e5f-ead4-4d88-83ab-b3e928253d01
-200 https://pressroom.toyota.com.au/PressRelease?pr-code=6c96ef03-a14c-4ec9-b2a4-d2e3399dab24
-200 https://www.toyota.com.au/-/media/toyota/main-site/home-page/files/tmca-anti-modern-slavery-statement-2025.pdf
-200 https://global.toyota/en/detail/7821002
-theme: oceania-plants-pass2
-yuho_bytes: 4241627
-yuho_last_modified: Wed, 10 Jun 2026 06:45:01 GMT
-yuho_etag: 35b62716a581d6f568dce493ec2eff11
-yuho_pages: 241
-tmca_capital_aud_thousand: 481100
-altona_tma_site_m2_1987: 750000
-coe_ha_2021: 22
-tmca_pat_fy2025_aud_million: 279
-tmca_pat_fy2026_aud_million: 380
-tmca_statutory_ppe_bs: not_on_official_ir
-thames_current_annual_units: unpublished
+200 https://tdnet-pdf.kabutan.jp/20260514/140120260514534623.pdf
+200 https://www.hino.co.jp/corp/for_investors/financial_results/assets/ARCHIONJP.pdf
+200 https://www.hino.co.jp/corp/for_investors/financial_results/
+301 https://archion.co.jp/ir -> https://archion.co.jp/ir/
+theme: hino-ir-pass2
+tdnet_bytes: 437365
+tdnet_last_modified: Thu, 14 May 2026 06:50:23 GMT
+tdnet_etag: a257f473c3695049a50c79fa2b1587b9
+tdnet_pages: 26
+hino_tb_prod_fy2026: 100473
+hino_toyota_prod_fy2026: 156748
+hino_tb_sales_units_fy2026: 105772
+hino_toyota_sales_units_fy2026: 156743
+hino_equity_ratio_fy2026: 31.9
+hamura_split_assets_m_jpy: 52124
+hamura_share_transfer_m_jpy: 150000
+hamura_transfer_gain_m_jpy_provisional: 115461
 pass: 2

@@ -7,7 +7,7 @@ edinet: E02144
 isin: JP3633400001
 accounting_standard: IFRS
 currency: JPY
-updated: "2026-09-06T18:01:00+09:00"
+updated: "2026-09-06T19:07:00+09:00"
 language: ja
 license_note: "公開情報の要約・メタデータ・リンク集。元文書の字句再現はしない。"
 retrieval:
@@ -17,5 +17,5 @@ retrieval:
 team_size: 16
 min_work_hours: 10
 workflow: .github/workflows/collect.yml
-last_theme: oceania-plants-pass2
-last_theme_at: "2026-09-06T18:01:00+09:00"
+last_theme: hino-ir-pass2
+last_theme_at: "2026-09-06T19:07:00+09:00"
