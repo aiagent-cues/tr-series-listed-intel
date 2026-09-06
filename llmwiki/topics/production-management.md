@@ -9,7 +9,8 @@ sources:
   - https://global.toyota/en/detail/7821002
   - https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2026_03.pdf
   - https://www.toyota.com.au/discover/news/toyota-opens-state-of-the-art-product-centre-at-altona-centre-of-excellence
-tags: [tps, production, oceania, training]
+  - https://tdnet-pdf.kabutan.jp/20260514/140120260514534623.pdf
+tags: [tps, production, oceania, training, hino]
 ---
 
 # 生産管理（TRシリーズ訓練トピック）
@@ -31,6 +32,9 @@ tags: [tps, production, oceania, training]
 - TMC有報FY2026の在外主要設備5拠点にTMCAは含まれない。翌期の重要新設計画にも海洋州は無い。
 - NZ Thames: 1998-10にCKD組立終了。現在は中古補修・装備。現行年台数は公式未刊。
 - 調査時点で海洋州にTMC完成車組立工場は無い。AltonaはCoE（商品開発・水素製・GEH2組立）へ転用。
+
+## 日野連結の生産実績（日本基準短信、ARCHION開示）
+出典: [[sources/hino-ir]]。FY2026（2025-04-01〜2026-03-31）連結生産: トラック・バス 100,473台（前期121,218、△20,745）、トヨタ向け車両 156,748台（前期152,488、+4,260）。売上台数はT/バス105,772・トヨタ向け156,743。供給制約は小型トラック/小型バス。羽村は2026-04-01にTMC側へ分割移管。
 
 ## 教材モジュール
 1. TPS原論（後工程引き、標準作業、平準化）

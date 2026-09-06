@@ -8,6 +8,7 @@ sources:
   - https://www.sec.gov/Archives/edgar/data/1094517/000119312526264811/0001193125-26-264811-index.htm
   - https://www.sec.gov/Archives/edgar/data/1094517/000119312525115410/d904529dex991.htm
   - https://www.hino.co.jp/corp/for_investors/financial_results/
+  - https://tdnet-pdf.kabutan.jp/20260514/140120260514534623.pdf
 tags: [ifrs, accounting, training, 20-f, hino, j-gaap]
 ---
 
@@ -31,7 +32,7 @@ TMCの連結財務は **IFRS Accounting Standards**（IASB、未留保の準拠�
 | IAS 38 | 無形ネット1,392,755。内部創出322,812（開発106,751+ソフト216,060） |
 | IFRS 9 階層 | FVTPL 2,279,925 / FVTOCI 11,137,940。L3期末1,231,673 |
 | IAS 19 | 国内割引率3.1%、資産上限718,851、FY2027拠出見込国内34,336 |
-| IFRS 2 | RS年額上限40億円・年400万株。ESOP信託FY2026開始、費用2,578 |
+| IFRS 2 | RS年額上限 40億円・年400万株。ESOP信託FY2026開始、費用2,578 |
 
 ## FY2026の読み替え（注記定義）
 - 自動車セグメント営業利益 2,777,049百万円、金融 851,722、その他 132,079。連結営業利益 3,766,216。
@@ -42,4 +43,4 @@ TMCの連結財務は **IFRS Accounting Standards**（IASB、未留保の準拠�
 - 詳細増減は[[sources/20f-2026-notes]]第2パス。
 
 ## 日野側の基準差（混同禁止）
-日野7205の決算短信は日本基準。ARCHION 543Aの連結予想はIFRS。同一事業実績をTMC 20-F（IFRS 5 売却目的）と日野短信で足してはならない。日野一次抽出は[[sources/hino-ir]]。
+日野7205の決算短信は日本基準。ARCHION 543Aの連結予想およびFY2027開示はIFRS（短信注記: 2027年3月期から任意適用、同1QからIFRS開示）。同一事業実績をTMC 20-F（IFRS 5 売却目的）と日野短信で足してはならない。日野FY2026通期の生産・売上台数・BS行は[[sources/hino-ir]]第2パス。

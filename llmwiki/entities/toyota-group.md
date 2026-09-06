@@ -11,6 +11,7 @@ sources:
   - https://www.hino.co.jp/corp/for_investors/
   - https://archion.co.jp/ir
   - https://pressroom.toyota.com.au/PressRelease?pr-code=6c96ef03-a14c-4ec9-b2a4-d2e3399dab24
+  - https://tdnet-pdf.kabutan.jp/20260514/140120260514534623.pdf
 tags: [group, supply-chain, 20-f, oceania, hino]
 ---
 
@@ -25,7 +26,7 @@ TRシリーズはTMCを中核に、生産・調達・金融・軟件の周辺企
 - ダイハツ工業（子会社）
 - 日野自動車: 2026-03-31までTMC連結子会社。2026-04-01のMFTBC統合発効で非連結（Form 20-F FY2026 注記11・36）
 - 日野IR自体: 7205は2026-03-30上場廃止、売買最終 2026-03-27。統合会社ARCHION（543A、東証プライム、2026-04-01上場）が完全親会社。日野決算短信は日本基準。詳細[[sources/hino-ir]]
-- トヨタ自動車羽村: 日野羽村工場を統合直前にTMC連結化（FY2027）
+- トヨタ自動車羽村: 日野羽村工場を統合直前にTMC連結化（FY2027）。日野FY2026短信後発: 2026-04-01吸収分割（承継資産52,124百万円・精査中）のうえ株式1株を150,000百万円でTMCへ譲渡、譲渡利益115,461百万円（精査中）。[[sources/hino-ir]]
 
 ## モノづくり・部品
 - トヨタ車体
@@ -41,7 +42,7 @@ TRシリーズはTMCを中核に、生産・調達・金融・軟件の周辺企
 - トヨタファイナンシャルサービス / Toyota Motor Credit Corporation
 - ウーブン・バイ・トヨタ
 - プライムプラネットエナジー&ソリューションズ（電池）
-- トヨタ ファイナンス オーストラリアㅉ: 資本 千豪ドル 120,000、TMC間接100%、有報提出会社（TMC有報FY2026）
+- トヨタ ファイナンス オーストラリア: 資本 千豪ドル 120,000、TMC間接100%、有報提出会社（TMC有報FY2026）
 
 ## 海洋州
 - TMCA（TMC 100%、1959-03設立、資本 千豪ドル 481,100）: 2017-10-03までAltonaで完成車生産。以降は販売・物流・CoE。ABN 64 009 686 097、本店 155 Bertie St, Port Melbourne。FY2026税引後利益 A$380 million、納車 240,633。[[sources/oceania-plants]]
