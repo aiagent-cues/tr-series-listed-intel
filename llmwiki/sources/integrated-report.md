@@ -2,29 +2,31 @@
 id: sources-irpt
 type: source-index
 title: 統合報告
-updated: 2026-09-04
+updated: 2026-09-06
 sources:
-  - https://global.toyota/jp/ir/library/annual/index.html
+  - https://global.toyota/jp/ir/library/annual/
+  - https://global.toyota/en/ir/library/annual/
+  - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
+  - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf
 tags: [integrated-report]
 ---
 
 # 統合報告
 
 ## トヨタ自動車 統合報告2025
-- 頂き: 2026-02-27公開
-- 体裁: 168ページ / 約34MB
-- 目的: 目指す未来を実現する方針・戦略をステークホルダーに伝える
-- 参考: IFRS財団 国際統合報告フレームワーク
-- 登録: https://global.toyota/jp/ir/library/annual/index.html
-- 英語: https://global.toyota/en/ir/library/annual/index.html
+- 登録頁: https://global.toyota/jp/ir/library/annual/ （日、33.9MB / 168p）
+- 英登録頁: https://global.toyota/en/ir/library/annual/ （31.5MB / 168p）
+- 日PDF: https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
+- 英PDF: https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf
+- 抽出: [[sources/integrated-report-2025]]
 
-## 教材として抽出すべき章
-1. トップメッセージ
-2. 価値創造プロセス
-3. 5ブランド戦略 / TO YOU / マルチパスウェイ
-4. SDV / Woven City
-5. マテリアリティ6項
-6. 財務・非財務ハイライト
+## 時点（2026-09-06 JST確認）
+- 登録頁表示: 統合報告2025、PDF 33.9MB / 全168ページ。統合報告2026は未掲載。
+- 志面発行表示: 発行日 2026年2月（p2近傍の注記ラン）。
+- PDFメタ: Title `統合報告 2025` / Author Toyota Motor Corporation / CreationDate 2026-04-02T19:49:35+09:00 / ModDate 2026-04-03T09:51:23+09:00 / Creator Adobe InDesign 20.5。
+- HTTP Last-Modified（日英共通）: Fri, 03 Apr 2026 02:00:02 GMT。日 35,488,119 bytes、英 32,257,390 bytes。
+- 解釈: 5fd7面は2026年2月発行。配布バイナリは2026-04-02作成・04-03修正で、p88以降の2026-02-06社長交代発表を含む。
 
 ## 注意
 元PDFの文言をWikiに転載しない。要約とページ番号、URLのみ記す。
+FY2026（2025-04〜2026-03）連結実績は本報の主表ではない。本報の財務ハイライトは主にFY2025（2024-04〜2025-03）。

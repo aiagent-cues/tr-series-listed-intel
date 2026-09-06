@@ -1,6 +1,12 @@
-Sat Sep  5 18:53:00 UTC 2026
+Sun Sep  6 02:04:00 UTC 2026
 checked:
-200 https://global.toyota/jp/ir/library/annual/index.html
-200 https://global.toyota/jp/newsroom/
-200 https://global.toyota/jp/company/profile/overview/
-200 https://global.toyota/en/sustainability/
+200 https://global.toyota/jp/ir/library/annual/
+200 https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
+200 https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf
+200 https://global.toyota/en/ir/library/annual/
+theme: integrated-report-2025
+jp_pdf_bytes: 35488119
+en_pdf_bytes: 32257390
+jp_pdf_last_modified: Fri, 03 Apr 2026 02:00:02 GMT
+pdf_creation: 2026-04-02T19:49:35+09:00
+pdf_mod: 2026-04-03T09:51:23+09:00
