@@ -110,6 +110,7 @@ FRシリーズ（ファーストリテイリング）と対をなす、上場企
 - [[sources/20f-2026-notes-pass19]]
 - [[sources/20f-2026-notes-pass20]]
 - [[sources/20f-2026-notes-pass21]]
+- [[sources/20f-2026-notes-pass22]]
 - [[sources/form-sd-2026]]
 - [[sources/oceania-plants]]
 - [[sources/oceania-plants-pass3]]
