@@ -15,6 +15,7 @@ sources:
   - https://www.hino.co.jp/corp/for_investors/shareholders/meeting.html
   - https://www.hino.co.jp/corp/for_investors/integrated_report.html
   - https://tdnet-pdf.kabutan.jp/20260514/140120260514534623.pdf
+  - https://archion.co.jp/ir/
   - https://global.toyota/jp/newsroom/corporate/40349720.html
   - https://www.ttri.or.jp/
   - https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/research/organizations/index.html
@@ -94,6 +95,7 @@ FRシリーズ（ファーストリテイリング）と対をなす、上場企
 - [[sources/hino-ir-pass2]]
 - [[sources/hino-ir-pass3]]
 - [[sources/hino-ir-pass4]]
+- [[sources/hino-ir-pass5]]
 - [[sources/news-2026]]
 
 ## 訓練
