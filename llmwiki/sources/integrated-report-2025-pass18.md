@@ -100,7 +100,7 @@ tags: [integrated-report, primary, fy2025, pass18, climate-policy, industry-asso
 | 自工会 | 佐藤恒治 副会長（代表取締役社長） |
 | 経団連 | 佐藤恒治 副会長（代表取締役社長） |
 | 中部経済連合会 | 宮崎洋一 副会長（代表取締役副社長） |
-| 経済同友会 | 島淪豊 幹事（Fellow） |
+| 経済同友会 | 島崎豊 幹事（Fellow） |
 | JH2A | 佐藤恒治 会長（代表取締役社長） |
 | 日本自動車会議所 | 豊田章男 会長（代表取締役会長） |
 | WBCSD | 佐藤恒治 Executive Committee（2026年1月就任予定） |
@@ -110,7 +110,7 @@ tags: [integrated-report, primary, fy2025, pass18, climate-policy, industry-asso
 | ACEA | Didier Leroy（Chairman of the Board, TME） |
 | Hydrogen Council | Stephan Herbst（Technical Head of H2 Business & Value Chain, TME） |
 | Hydrogen Europe | Stephan Herbst（同、TME） |
-| SMMT | Luigi Luca：Member SMMT car section（President, Toyota Great Britain） |
+| SMMT | Luigi Luca: Member SMMT car section（President, Toyota Great Britain） |
 | TBCSD | Kalin Sarasin（Chairman of the Board, TMT） |
 | RTC | Tim Hilgeman（General Manager, TMNA） |
 
