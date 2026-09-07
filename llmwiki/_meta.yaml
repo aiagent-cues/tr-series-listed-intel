@@ -16,6 +16,6 @@ retrieval:
   cite_policy: source_url_required
 team_size: 16
 min_work_hours: 10
-workflow: .github/workflows.collect.yml
+workflow: .github/workflows/collect.yml
 last_theme: 20f-2026-notes-pass10
 last_theme_at: "2026-09-07T20:08:00+09:00"
