@@ -22,6 +22,7 @@ sources:
   - https://www.toyota-ts.co.jp/
   - https://global.toyota/en/sustainability/esg/environmental-policy/
   - https://global.toyota/pages/global_toyota/sustainability/esg/environmental/climate_public_policies_2025_jp.pdf
+  - https://global.toyota/pages/global_toyota/sustainability/esg/environmental/climate_public_policies_2025_en.pdf
 tags: [hub, toyota, training]
 ---
 
@@ -74,6 +75,7 @@ FRシリーズ（ファーストリテイリング）と対をなす、上場企
 - [[sources/integrated-report-2025-pass16]]
 - [[sources/integrated-report-2025-pass17]]
 - [[sources/integrated-report-2025-pass18]]
+- [[sources/integrated-report-2025-pass19]]
 - [[sources/sdb-2026]]
 - [[sources/sdb-2026-env-narrative]]
 - [[sources/sdb-2026-env-plant]]

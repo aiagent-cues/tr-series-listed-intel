@@ -9,14 +9,9 @@ sources:
   - https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
   - https://global.toyota/jp/ir/library/annual/
   - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
-  - https://global.toyota/jp/newsroom/corporate/40349720.html
-  - https://global.toyota/jp/newsroom/corporate/43951695.html
-  - https://www.ttri.or.jp/
-  - https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/research/organizations/index.html
-  - https://www.toyota.co.jp/jpn/company/history/75years/text/taking_on_the_automotive_business/chapter2/section6/item1_c.html
-  - https://www.toyota-ts.co.jp/
   - https://global.toyota/en/sustainability/esg/environmental-policy/
   - https://global.toyota/pages/global_toyota/sustainability/esg/environmental/climate_public_policies_2025_jp.pdf
+  - https://global.toyota/pages/global_toyota/sustainability/esg/environmental/climate_public_policies_2025_en.pdf
 tags: [esg, sustainability, training]
 ---
 
@@ -24,47 +19,19 @@ tags: [esg, sustainability, training]
 
 ## 公式フレーム
 - 豊田綱領→ トヨタフィロソフィー → 「幸せの量産」
-- 統合報告2025はIFRS財団の国際統合報告フレームワークを参考
-- Sustainability Data Bookは主に年 2 回更新。最新配布は sdb26（登録頁 2026-06 更新、HTTP Last-Modified 2026-06-29）。2026-09-07時点9月定例PDFは未掲
+- Sustainability Data Bookは主に年 2 回更新。最新配布は sdb26（登録頁 2026-06更新、HTTP Last-Modified 2026-06-29）。2026-09-07時点9月定例PDFは未掲
 
-## 6つのマテリアリティ（統合報告2025 p5）
-1. 移動価値の拡張 — Mobility Concept、モータースポーツとクルマ文化
-2. 安全・安心 — 交通事故ゼロ化、製品安全性・品質、プライバシー・情報セキュリティ
-3. 人類と地球の共生 — CN、サーキュラー、ネイチャーポジティブ
-4. くらしと雇用を守る — 人権、産業雇用、バリューチェーン
-5. 全員活躍 — 人づくり、多様な活躍、Well-being
-6. 強固な経営基盤 — リスク・コンプラ、商品軸・地域軸、ガバナンス、DX
+## 統合報告2025 第19パス（Climate Policies 2025 詳細出典）
+出典: [[sources/integrated-report-2025-pass19]]（2026-09-07 13:07 JST）。
+- 2024年版からの変更3点: 評価根拠リンク明示、気候科学クライテリア説明追加、15→16団体。
+- JAMA: 2035乗用新車電動車100%。BEV+PHEV+HEV+CN燃料シナリオをIPCC 1.5整合と自己位置づけ。
+- JH2A: 第6次エネ基の2030供給1%水素・アンモニア。政策提言PDFはSharePoint。
+- ACEA: 2050クライメートニュートラル。2035新車CO2ゼロ支持。2030 EV50%に充電約6,000万。CPは遅くとも2027。
+- Hydrogen Council: 設立趣旨は2℃。AR6の2100年1.8℃シナリオとEU RED 42.5%グリーン水素。
+- NAM: 約14,000会員。短中期GHG目標なしが部分的整合の根拠。
+- TBCSD: 43社以上。タイ2050 CN / 2065ネットゼロ。
+- RTC: 2030年熱排出30%減。1,000万ドルの2030 Climate Challenge。
+- p32レビュー対象外: BASC、中部圏水素利用協議会（公式HPなし）、CHAdeMO、FCCJ、WWF Japan、CEBA、FCHEA、HFCP、RFF、SPE、Tandem Global、CSR Europe、CEP、DWV、H2 Mobility、PFA、UKH2 Mobility、Thai RE100。
 
-詳細: [[sources/integrated-report-2025]]
-
-## 統合報告2025 第16パスまで
-第12-16パスの要約は既存セクションを継続。詳細は各passファイル。
-
-## 統合報告2025 第18パス（Climate Policies 2025 セル）
-出典: [[sources/integrated-report-2025-pass18]]（2026-09-07 12:20 JST）。統合報告PDF差替なし。Climate Policies 2025 も HEAD不変（日 6,581,865 / 2025-12-29）。
-- レビュー作成期間: 2025-07-21〜2025-12-01。16団体×6項目。不整合0。部分的整合はNAMの排出量削減目標のみ。公開確認不可11セル。
-- TBCSDのカーボンプライシングのみ前年改善（冊子*）。
-- 英要約表p23のNAM炭素価格はAligned。英詳細p28と日冊は公開確認不可。
-- WBCSD: 佐藤恒治が2026-01に Executive Committee 就任予定。JH2A会長は佐藤、自動車会議所会長は豊田章男。
-- TMTバンポー Cheewa Panavet が2025-06-06に国外初OECM候補（約10ha、植物119種、動物528種、教育累計6.2万人以上）。
-- TMPが2025-07-01に国内2号ELV解体（約850台/年、SEA5件目、Global 100 Dismantlers）。
-- 年号なし `climate_public_policies_jp.pdf` は2024-05-22の旧バイナリ。
-
-## 統合報告2025 第17パスで追加したTCFD会議体と渉外冊子2025
-出典: [[sources/integrated-report-2025-pass17]]（2026-09-07 12:07 JST）。統合報告PDF差替なし。
-- TCFD会議体（2025-06時点、2024年度開催）: サステナビリティ会議5 / サステナビリティ分科会3 / CN戦略分科会2 / GRC分科会5。最終は取締役会。
-- 円建てTCFD影響額表は未掲。定性は大/中/小（英 High/Medium/Slight）。
-- CDP: 本冊は2025-07に気候A・水B。SDB（2026-06）は2025年度欄で気候A・水A-。ISO14001は本冊126社（2024）対SDB 124社（2025）。EMS対象は本冊519+8（2024）対SDB目標共有527+8。
-- 本冊引用のClimate Public Policiesは2024年版。公式は2025年版を2025-12-29配布（32p）。https://global.toyota/pages/global_toyota/sustainability/esg/environmental/climate_public_policies_2025_jp.pdf
-- 第8次環境取組プラン（2030年目標）は2025-10公表、2026-04開始。
-- GX-ETS第1フェーズ2023年度〜。改正GX推進法2025-05-28、2026-04から直接排出10万トン以上が義務。
-- 閣議2025-02-18: 第7次エネルギー基本計画 / GX2040 / 温暖化対策計画。乗用車電動車100%は2035。低炭素ガソリン10%（2030年度）→20%（2040年度〜）。
-- EPA提案へ2025-09-22コメント。TMNAグリーンサプライヤー要件2025更新・年5.5%。レビュー16団体（追加RTC）。電動車累計3,175万台（2025-03末）。GOAは1995年設定。
-
-## 統合報告2025 第12-16パス（既存）
-詳細は [[sources/integrated-report-2025-pass12]] 〜 [[sources/integrated-report-2025-pass16]]。本ファイルでは再掲しない。
-
-## 公式ドキュメント
-- 統合報告2025: 168ページ。発行2026-02、配布PDF修正2026-04-03。
-- SDB sdb26: 登録頁153p / 実バイナリ約155p。2026-06更新。詳細は [[sources/sdb-2026]] 系。
-- Climate Public Policies 2025: 32ページ。作成2025-12-19、配布Last-Modified 2025-12-29。
+## 既存パス
+第12-18パスの詳細は各 pass ファイル。本ファイルでは再掲しない。
