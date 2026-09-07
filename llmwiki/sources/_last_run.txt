@@ -1,4 +1,4 @@
-Mon Sep  7 12:05:00 UTC 2026
+Mon Sep  7 13:03:00 UTC 2026
 checked:
 200 https://global.toyota/jp/ir/library/annual/ 統合報告書2025（PDF：33.9MB／全168ページ） dateStr 2026年02月27日 2026未掲
 404 https://global.toyota/pages/global_toyota/ir/library/annual/2026_001_integrated_jp.pdf
@@ -14,4 +14,4 @@ checked:
 404 https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final_amendment.pdf
 404 https://global.toyota/pages/global_toyota/ir/library/sec/20-FA_202603_final.pdf
 200 https://global.toyota/pages/global_toyota/ir/library/sec/form_sd_202605_final.pdf 305060 Last-Modified Fri, 29 May 2026 10:30:01 GMT ETag ae928554d4f65b0ef3c90f861817af2f
-theme: 20f-2026-notes-pass11
+theme: 20f-2026-notes-pass12
