@@ -16,9 +16,10 @@ sources:
   - https://www.hino.co.jp/corp/for_investors/integrated_report.html
   - https://tdnet-pdf.kabutan.jp/20260514/140120260514534623.pdf
   - https://global.toyota/jp/newsroom/corporate/40349720.html
-  - https://global.toyota/jp/newsroom/corporate/43951695.html
   - https://www.ttri.or.jp/
   - https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/research/organizations/index.html
+  - https://www.toyota.co.jp/jpn/company/history/75years/text/taking_on_the_automotive_business/chapter2/section6/item1_c.html
+  - https://www.toyota-ts.co.jp/
 tags: [hub, toyota, training]
 ---
 
@@ -68,6 +69,7 @@ FRシリーズ（ファーストリテイリング）と対をなす、上場企
 - [[sources/integrated-report-2025-pass13]]
 - [[sources/integrated-report-2025-pass14]]
 - [[sources/integrated-report-2025-pass15]]
+- [[sources/integrated-report-2025-pass16]]
 - [[sources/sdb-2026]]
 - [[sources/sdb-2026-env-narrative]]
 - [[sources/sdb-2026-env-plant]]
