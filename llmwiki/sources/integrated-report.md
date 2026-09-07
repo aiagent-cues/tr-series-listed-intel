@@ -25,46 +25,15 @@ tags: [integrated-report]
 - 英PDF: https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf
 - 抽出: [[sources/integrated-report-2025]] 〜 [[sources/integrated-report-2025-pass19]]
 
+## 時点（2026-09-08 02:21 JST確認）
+- 同日 02:21 は(1)(2)新事実なしのため(3) 20-F注記33組織残セルと注記34相手区分へ移行。[[sources/20f-2026-notes-pass19]]
+- 登録頁表示: 統合報告2025、PDF 33.9MB / 全168ページ。dateStr 2026年02月27日。統合報告2026は未掲載。2026_001_integrated_jp.pdf は 404。
+- HTTP Last-Modified（日英共通）: Fri, 03 Apr 2026 02:00:02 GMT。日 35,488,119 bytes、英 32,257,390 bytes。差替なし。TCFD円額未掲。
+
 ## 時点（2026-09-08 02:08 JST確認）
 - 同日 02:08 は(1)(2)新事実なしのため(3) 20-F注記3税金表示単位と注記22へ移行。[[sources/20f-2026-notes-pass18]]
 - 登録頁表示: 統合報告2025、PDF 33.9MB / 全168ページ。dateStr 2026年02月27日。統合報告2026は未掲載。2026_001_integrated_jp.pdf は 404。
 - HTTP Last-Modified（日英共通）: Fri, 03 Apr 2026 02:00:02 GMT。日 35,488,119 bytes、英 32,257,390 bytes。差替なし。TCFD円額未掲。
-
-## 時点（2026-09-08 01:32 JST確認）
-- 同日 01:32 は(1)(2)新事実なしのため(3) 20-F注記3リースと注記14残セルへ移行。[[sources/20f-2026-notes-pass17]]
-- 登録頁表示: 統合報告2025、PDF 33.9MB / 全168ページ。dateStr 2026年02月27日。統合報告2026は未掲載。2026_001_integrated_jp.pdf は 404。
-- HTTP Last-Modified（日英共通）: Fri, 03 Apr 2026 02:00:02 GMT。日 35,488,119 bytes、英 32,257,390 bytes。差替なし。TCFD円額未掲。
-
-## 時点（2026-09-08 01:18 JST確認）
-- 同日 01:18 は(1)(2)新事実なしのため(3) 20-F注記1–2と注記3連結範囲・ECL測定単位へ移行。[[sources/20f-2026-notes-pass16]]
-- 登録頁表示: 統合報告2025、PDF 33.9MB / 全168ページ。dateStr 2026年02月27日。統合報告2026は未掲載。2026_001_integrated_jp.pdf は 404。
-- HTTP Last-Modified（日英共通）: Fri, 03 Apr 2026 02:00:02 GMT。日 35,488,119 bytes、英 32,257,390 bytes。差替なし。TCFD円額未掲。
-
-## 時点（2026-09-08 00:01 JST確認）
-- 同日 00:01 は(1)(2)新事実なしのため(3) 20-F注記3 外貨・給付・株式報酬の認識単位へ移行。[[sources/20f-2026-notes-pass15]]
-- 登録頁表示: 統合報告2025、PDF 33.9MB / 全168ページ。dateStr 2026年02月27日。OGP integrated_ogp_2025_jp.jpg。統合報告2026は未掲載。2026_001_integrated_jp.pdf は 404。
-- HTTP Last-Modified（日英共通）: Fri, 03 Apr 2026 02:00:02 GMT。日 35,488,119 bytes、英 32,257,390 bytes。差替なし。TCFD円額未掲。
-
-## 時点（2026-09-07 23:21 JST確認）
-- 同日 23:21 は(1)(2)新事実なしのため(3) 20-F注記3 PPE・減損・引当の認識単位と注記25残セルへ移行。[[sources/20f-2026-notes-pass14]]
-- 登録頁表示: 統合報告2025、PDF 33.9MB / 全168ページ。dateStr 2026年02月27日。統合報告2026は未掲載。2026_001_integrated_jp.pdf は 404。
-- HTTP Last-Modified（日英共通）: Fri, 03 Apr 2026 02:00:02 GMT。日 35,488,119 bytes、英 32,257,390 bytes。差替なし。TCFD円額未掲。
-
-## 時点（2026-09-07 22:22 JST確認）
-- 同日 22:22 は(1)(2)新事実なしのため(3) 20-F注記3税金方針と注記16残セルへ移行。[[sources/20f-2026-notes-pass13]]
-- 登録頁表示: 統合報告2025、PDF 33.9MB / 全168ページ。dateStr 2026年02月27日。統合報告2026は未掲載。2026_001_integrated_jp.pdf は 404。
-- HTTP Last-Modified（日英共通）: Fri, 03 Apr 2026 02:00:02 GMT。日 35,488,119 bytes、英 32,257,390 bytes。差替なし。TCFD円額未掲。
-- 同日 22:03 は(1)(2)新事実なしのため(3) 20-F注記3品質保証10年パターンと注記24残セルへ移行。[[sources/20f-2026-notes-pass12]]
-- 同日 21:05 は(1)(2)(4)新事実なしのため(3) 20-F注記3分類/ECL/収益と注記27未履行へ移行。[[sources/20f-2026-notes-pass11]]
-- 同日 20:08 は(1)(2)(4)新事実なしのため(3) 20-F注記26(6)(7)と Item 16C へ移行。[[sources/20f-2026-notes-pass10]]
-- 同日 19:12 は(1)(2)(4)新事実なしのため(3) 20-F注記26・32残セルと Item 16E へ移行。[[sources/20f-2026-notes-pass9]]
-- 同日 18:13 は(1)(2)(4)新事実なしのため(3) 20-F注記23・31残セルへ移行。[[sources/20f-2026-notes-pass8]]
-- 同日 17:20 は(1)(2)(4)新事実なしのため(3) 20-F注記17–22残セルへ移行。[[sources/20f-2026-notes-pass7]]
-- 同日 16:24 は(1)(2)(4)新事実なしのため(3) 20-F注記13–15と Form SD へ移行。[[sources/20f-2026-notes-pass6]] / [[sources/form-sd-2026]]
-- 同日 16:11 は(1)–(4)新事実なしのため(5) ARCHION 8/26統合プラットフォームへ移行。[[sources/hino-ir-pass6]]
-- 同日 15:14 は(1)–(4)新事実なしのため(5) ARCHION 1Qへ移行。[[sources/hino-ir-pass5]]
-- 同日 14:11 パスは(1)新事実なしのため(2) SDB環境残セルへ移行。[[sources/sdb-2026-env-plan-review]]
-- 第19パス: Climate Policies 2025詳細頁p24-31の注[1]-[83]URLと評価根拠。[[sources/integrated-report-2025-pass19]]
 
 ## 注意
 元PDFの文言をWikiに転載しない。要約とページ番号、URLのみ記す。
