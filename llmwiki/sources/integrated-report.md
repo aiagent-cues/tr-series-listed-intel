@@ -25,9 +25,10 @@ tags: [integrated-report]
 - 英PDF: https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf
 - 抽出: [[sources/integrated-report-2025]] 〜 [[sources/integrated-report-2025-pass19]]
 
-## 時点（2026-09-07 15:14 JST確認）
+## 時点（2026-09-07 16:11 JST確認）
 - 登録頁表示: 統合報告2025、PDF 33.9MB / 全168ページ。統合報告2026は未掲載。
 - HTTP Last-Modified（日英共通）: Fri, 03 Apr 2026 02:00:02 GMT。日 35,488,119 bytes、英 32,257,390 bytes。差替なし。TCFD円額未掲。
+- 同日 16:11 は(1)–(4)新事実なしのため(5) ARCHION 8/26統合プラットフォームへ移行。[[sources/hino-ir-pass6]]
 - 同日 15:14 は(1)–(4)新事実なしのため(5) ARCHION 1Qへ移行。[[sources/hino-ir-pass5]]
 - 同日 14:11 パスは(1)新事実なしのため(2) SDB環境残セルへ移行。[[sources/sdb-2026-env-plan-review]]
 - 第19パス: Climate Policies 2025詳細頁p24-31の注[1]-[83]URLと評価根拠。[[sources/integrated-report-2025-pass19]]
