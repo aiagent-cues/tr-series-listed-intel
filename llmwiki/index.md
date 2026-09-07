@@ -26,6 +26,8 @@ sources:
   - https://global.toyota/pages/global_toyota/sustainability/esg/environmental/climate_public_policies_2025_jp.pdf
   - https://global.toyota/pages/global_toyota/sustainability/esg/environmental/climate_public_policies_2025_en.pdf
   - https://global.toyota/pages/global_toyota/ir/library/sec/form_sd_202605_final.pdf
+  - https://www.hino.co.jp/corp/news/2026/20260907-004742.shtml
+  - https://www.hino.co.jp/corp/news/2026/20260821-004726.shtml
 tags: [hub, toyota, training]
 ---
 
@@ -114,6 +116,7 @@ FRシリーズ（ファーストリテイリング）と対をなす、上場企
 - [[sources/hino-ir-pass4]]
 - [[sources/hino-ir-pass5]]
 - [[sources/hino-ir-pass6]]
+- [[sources/hino-ir-pass7]]
 - [[sources/news-2026]]
 
 ## 訓練
