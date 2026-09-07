@@ -76,11 +76,11 @@ tags: [integrated-report, primary, fy2025, pass13, five-brand]
 |LSコンセプト|6輪。床面積最大化・乗降・プライベート空間が設計意図|32|
 |派生コンセプト|Lexus Sport Concept（没入走行） / Lexus LS Coupe Concept（運転と後席快適の両立）|33|
 |ブランド年齢|創業から36年（本冊時点）|33|
-|陸・海・空|Joby Aviationとの協業を空の延長として掲出。海上は自律カタマラン（双胶船）を開発中と本冊。JMS2025に模型展示|33|
+|陸・海・空|Joby Aviationとの協業を空の延長として掲出。海上は自律カタマラン（autonomous catamaran）を開発中と本冊。JMS2025に模型展示|33|
 
 ### GR GT / GR GT3 / Lexus LFA Concept（印刷p34-37）
 
-会場: 2025-12-05、静岡県裸野市 Woven City インベンターガレージ。3車種ワールドプレミア。英本文は会場を「トヨタ東富士工場（東日本）」とも呼び、元プレス工場と注記。初代センチュリー1967年の開発現場と同一敷地系譜。
+会場: 2025-12-05、Shizuoka Susono-shi Woven City Inventor Garage。3車種ワールドプレミア。英本文は会場を Toyota Higashi-Fuji Plant (East Japan) とも呼び、元プレス工場と注記。初代センチュリー1967年の開発現場と同一敷地系譜。
 
 |事実|本冊の一次層|頁|
 |---|---|---|
