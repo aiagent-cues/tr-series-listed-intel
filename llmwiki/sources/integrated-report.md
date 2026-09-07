@@ -25,13 +25,18 @@ tags: [integrated-report]
 - 英PDF: https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf
 - 抽出: [[sources/integrated-report-2025]] 〜 [[sources/integrated-report-2025-pass19]]
 
+## 時点（2026-09-08 03:02 JST確認）
+- 同日 03:02 は(1)(2)新事実なし。(3)認識中止は第11パス既出、(4)TMCA PPE未掲のため(5)日野メルフア/路線バスへ移行。[[sources/hino-ir-pass7]]
+- 登録頁表示: 統合報告2025、PDF 33.9MB / 全168ページ。dateStr 2026年02月27日。統合報告2026は未掲載。2026_001_integrated_jp.pdf は 404。
+- HTTP Last-Modified（日英共通）: Fri, 03 Apr 2026 02:00:02 GMT。日 35,488,119 bytes、英 32,257,390 bytes。差替なし。TCFD円額未掲。
+
 ## 時点（2026-09-08 02:21 JST確認）
-- 同日 02:21 は(1)(2)新事実なしのため(3) 20-F注記33組織残セルと注記34相手区分へ移行。[[sources/20f-2026-notes-pass19]]
+- 同日 02:21 は(1)(2)新事実なしのため(3) 20-F注33組織残セルと注34相手区分へ移行。[[sources/20f-2026-notes-pass19]]
 - 登録頁表示: 統合報告2025、PDF 33.9MB / 全168ページ。dateStr 2026年02月27日。統合報告2026は未掲載。2026_001_integrated_jp.pdf は 404。
 - HTTP Last-Modified（日英共通）: Fri, 03 Apr 2026 02:00:02 GMT。日 35,488,119 bytes、英 32,257,390 bytes。差替なし。TCFD円額未掲。
 
 ## 時点（2026-09-08 02:08 JST確認）
-- 同日 02:08 は(1)(2)新事実なしのため(3) 20-F注記3税金表示単位と注記22へ移行。[[sources/20f-2026-notes-pass18]]
+- 同日 02:08 は(1)(2)新事実なしのため(3) 20-F注3税金表示単位と注22へ移行。[[sources/20f-2026-notes-pass18]]
 - 登録頁表示: 統合報告2025、PDF 33.9MB / 全168ページ。dateStr 2026年02月27日。統合報告2026は未掲載。2026_001_integrated_jp.pdf は 404。
 - HTTP Last-Modified（日英共通）: Fri, 03 Apr 2026 02:00:02 GMT。日 35,488,119 bytes、英 32,257,390 bytes。差替なし。TCFD円額未掲。
 
