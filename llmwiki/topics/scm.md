@@ -10,6 +10,8 @@ sources:
   - https://www.toyota.com.au/-/media/toyota/main-site/home-page/files/tmca-anti-modern-slavery-statement-2025.pdf
   - https://www.toyota.com.au/-/media/project/toyota/toyota/explore/corporate/past-reports/files/20260630_tfal---fy-march-2026_financial-report-final.pdf
   - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
+  - https://archion.co.jp/media/2026-08/20260826_archion_newsrelease_JP.pdf?publishdate=202610
+  - https://assets.mitsubishi-fuso.com/fusoassets/2026/08/%E3%81%B5%E3%81%9D%E3%81%860826_%E6%96%B0%E5%9E%8B%E4%B8%AD%E5%9E%8B%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%80%8C%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%80%8D%E3%82%92%E7%99%BA%E5%A3%B2.pdf
 tags: [scm, logistics, oceania, training]
 ---
 
@@ -69,6 +71,12 @@ tags: [scm, logistics, oceania, training]
 - 販売店本部の業務確認: 2024-04〜。プライバシーガイドブック配付は2022-04。
 - OMUSVIは仕様書の共通言語化で販売店の声を企画へ戻す。生産仕様数の絞り込みと仕入先負担軽減を期待とする。
 
+## ARCHION OEM相互供給（2026-08-26）
+出典: [[sources/hino-ir-pass6]]。
+- 2026-02-26に日野がふそう向け中型OEM開発着手とふそうPDFが注記。8/26に国内MDTとして実装。
+- 部品共通化と仕入先協創を中長期の統合PF開発に接続。シナジー円額は非掲。
+- CJPT-Asiaは日野参画の代替でARCHIONがタイ法人へ参加（2026-08-25）。出資額非掲。
+
 ## 教材で追うリスク
 1. 関税によるノースアメリカ生産移管
 2. 電池サプライチェーンの縦割
@@ -82,6 +90,7 @@ tags: [scm, logistics, oceania, training]
 10. グリーン調達ガイドライン不遵守は取引見直しあり得る（2021年改訂仕入先GL）
 11. GXグリーン鉄と4社+東京製鐵を並列採用することで材料CNを多系列化する
 12. 販売店の指定整備違反と個人情報不整が製造品質と別系のバリューチェーンリスクになる
+13. 統合後のOEM相互供給は工場投資を共有するが、工場別PPEは一次未掲のまま残る
 
 ## 電池回収・スイープ蓄電（IR2025 p77）
 出典: [[sources/integrated-report-2025-pass8]]（2026-09-07 05:24 JST）。

@@ -14,6 +14,7 @@ sources:
   - https://tdnet-pdf.kabutan.jp/20260514/140120260514534623.pdf
   - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
   - https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
+  - https://archion.co.jp/media/2026-08/20260826_archion_newsrelease_JP.pdf?publishdate=202610
 tags: [tps, production, oceania, training, hino]
 ---
 
@@ -86,6 +87,13 @@ tags: [tps, production, oceania, training, hino]
 - 次世代BEVモノづくり: 車体3モジュール＋ギガキャスト。組付人数1/2、生準リードタイム1/2。上海レクサス新エネは2027年以降・約10万台。
 - 日野FC量産大型トラック 2025-10。先行実証4台。
 
+## ARCHION統合プラットフォーム（2026-08-26）
+出典: [[sources/hino-ir-pass6]]（2026-09-07 16:11 JST）。(1)–(4)新事実なしのため(5)へ移行。
+- 早期: 中型は日野既存PFをふそうへ供給（レンジャー一部改良＋ファイター新型）。電気小型はふそう既存PFを日野へ供給し、2026年度内生産開始予定。
+- 中長期: LDT/MDT/HDTの統合PFを新規開発。ブランドは継承。共通化対象はパワートレイン・シャシー/キャブ・エレクトロニクス。
+- ファイター動力はA05C 5.1L直4・全車177kW。組立工場名は非掲。MFTBC会社説明の生産拠点は日本とポルトガル。
+- 工場別PPE・投資額・SKU削減は公式未掲。
+
 ## 教材モジュール
 1. TPS原論（後工程引き、標準作業、平準化）
 2. 品質不良を止めるガバナンスと自働化の関係
@@ -100,6 +108,7 @@ tags: [tps, production, oceania, training, hino]
 11. オンサイト再エネ13%と購入電力100%を混同しない（田原 vs 国内レクサス生産）
 12. TPSの目的は効率ではなく异常管理（IR2025 p16-17、G型織機）
 13. 第7次物流のLNG3隻と叙事の航路2隻を混同しない
+14. 統合PFの相互供給向き（MDTは日野→ふそう、eLDTは逆）と工場名非掲を混同しない
 
 ## 電池3Rと蓄電の工場外利用（IR2025 p77）
 出典: [[sources/integrated-report-2025-pass8]]（2026-09-07 05:24 JST）。
