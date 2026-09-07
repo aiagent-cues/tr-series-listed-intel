@@ -60,6 +60,11 @@ TMCの連結財務は **IFRS Accounting Standards**（IASB、未留保の準拠�
 | IFRS 2 注記3 | 見出しはESOP信託。付与日の普通株式FVを権利確定期間で費用化。RS/RSUの上限・株数は注記31 |
 | IFRS 5 判定 | 1年以内売却が高確率・現状で即時売却可能・適切な経営層が計画にコミット。分類後は償却停止。CAとFVLCTSの低い方 |
 | IAS 2 NRV | 見積売価−完成までの見積原価−見積販売費。評価減円額は注記3・注記10とも非掲 |
+| IAS 1 測定基礎 | 歴史的原価。例外はFV測定の一部金融と確定給付関連。表示通貨は円、百万円四捨五入 |
+| IFRS 10 支配 | 変動リターンのエクスポージャー/権利と、パワーでリターンに影響する能力の同時充足。対象にストラクチャード・エンティティ。支配喪失なき持分変動は資本取引 |
+| IAS 28 | 関連＝重要影響かつ非支配。JV＝契約上の共同支配＋全員一致。持分法中止は関連/JVでなくなった日。処分損益はP/L |
+| IFRS 9 ECL測定 | 対象にローンコミットと金融保証。金額は契約CFと見込CFの差額のPV。戻入もP/L。分類変更・条件変更の独立見出しは注記3に無い |
+| IFRS 9 ポートフォリオ管理 | 小売は共通リスク＋信用類似＋量的重要性。FLは共通リスク＋信用類似。卸は対象債権のリスク特性 |
 
 ## FY2026の読み替え（注記定義）
 - 自動車セグメント営業利益 2,777,049百万円、金融 851,722、その他 132,079。連結営業利益 3,766,216。
@@ -80,7 +85,7 @@ TMCの連結財務は **IFRS Accounting Standards**（IASB、未留保の準拠�
 - 品質保証: リコール等は当期＋過去10事業年度の販売を合算。包括は地域×一定期間の複数モデル。個別モデルは発生可能性と合理的見積可能性がある場合のみ。FY2026リコール等戻入 8,562、割引巻戻し等 38,722はリコール等に全額。
 - IAS 21: 在外営業の収益費用は原則期中平均。為替が大きく変動する場合は平均を使わない。部分処分の追加規定は注記3本見出しに無い。
 - IAS 19再測定はOCIに残留させず直ちに利益剰余金へ振替。注記3のIFRS 2見出しはESOP信託のみ。
-- 詳細増減は[[sources/20f-2026-notes]]、第2パス、[[sources/20f-2026-notes-pass3]]、[[sources/20f-2026-notes-pass4]]、[[sources/20f-2026-notes-pass5]]、[[sources/20f-2026-notes-pass6]]、[[sources/20f-2026-notes-pass7]]、[[sources/20f-2026-notes-pass8]]、[[sources/20f-2026-notes-pass9]]、[[sources/20f-2026-notes-pass10]]、[[sources/20f-2026-notes-pass11]]、[[sources/20f-2026-notes-pass12]]、[[sources/20f-2026-notes-pass13]]、[[sources/20f-2026-notes-pass14]]、[[sources/20f-2026-notes-pass15]]。
+- 詳細増減は[[sources/20f-2026-notes]]、第2パス、[[sources/20f-2026-notes-pass3]]、[[sources/20f-2026-notes-pass4]]、[[sources/20f-2026-notes-pass5]]、[[sources/20f-2026-notes-pass6]]、[[sources/20f-2026-notes-pass7]]、[[sources/20f-2026-notes-pass8]]、[[sources/20f-2026-notes-pass9]]、[[sources/20f-2026-notes-pass10]]、[[sources/20f-2026-notes-pass11]]、[[sources/20f-2026-notes-pass12]]、[[sources/20f-2026-notes-pass13]]、[[sources/20f-2026-notes-pass14]]、[[sources/20f-2026-notes-pass15]]、[[sources/20f-2026-notes-pass16]]。
 
 ## 日野側の基準差（混同禁止）
 日野7205の決算短信は日本基準。ARCHION 543Aの連結予想およびFY2027開示はIFRS（短信注記: 2027年3月期から任意適用、同1QからIFRS開示）。同一事業実績をTMC 20-F（IFRS 5 売却目的）と日野短信で足してはならない。日野FY2026通期の生産・売上台数・BS行は[[sources/hino-ir]]第2パス。20-F Item 4.Bの認証訴訟時系列とFY2025費用281,140は[[sources/20f-2026-notes-pass3]]。
