@@ -10,6 +10,7 @@ sources:
   - https://global.toyota/jp/ir/library/annual/
   - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
   - https://global.toyota/jp/newsroom/corporate/40349720.html
+  - https://global.toyota/jp/newsroom/corporate/43951695.html
   - https://www.ttri.or.jp/
   - https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/research/organizations/index.html
 tags: [esg, sustainability, training]
@@ -52,9 +53,18 @@ tags: [esg, sustainability, training]
 出典: [[sources/integrated-report-2025-pass14]]（2026-09-07 10:36 JST）。PDF差替なし。
 - 欧州: Toyota Motor Europe NV/SAがFC開発・生産・外販。Daimler Truck Holding AG 2023-05、BMW 2024-09、Hyliko累計6万km+パリ2024五輪。
 - 中国: Beijing SinoHytecが2024-08生産開始。GLP中国2024-11。FOR-U / Shenzhen Dekun で2025年からFC大型50台（海外初幹線トライアル）。
-- 国内: CJPT（2021年、いすゅ/日野/スズキ/ダイハツ）。METI 2025-05で重点地域5（日は福岡含む、英METI文は福岡落ち）。FCトラック2025-12末約200 / FCバス約180。
+- 国内: CJPT（2021年、いす゚/日野/スズキ/ダイハツ）。METI 2025-05で重点地域5（日は福岡含む、英METI文は福岡落ち）。FCトラック2025-12末約200 / FCバス約180。
 - つくる: 本社工場水素パーク2026、5–20MW水電解、デンソー福島0.4MW。
-- TTRI=公益財団法人豊田都市交通研究所（https://www.ttri.or.jp/）。TTDC=トヨタテクニカルディベロップメント（2006-04設立、病心史）。
+- TTRI=公益財団法人豊田都市交通研究所（https://www.ttri.or.jp/）。TTDC=トヨタテクニカルディベロップメント（2006-04設立、75年史）。
+
+## 統合報告2025 第15パスで追加した社長交代本文
+出典: [[sources/integrated-report-2025-pass15]]（2026-09-07 11:07 JST）。PDF差替なし。印刷p88-94。
+- 聞き手: トヨタイムズニュース 富川悠太。同伴NR: https://global.toyota/jp/newsroom/corporate/43951695.html （2026-02-06）。
+- 自工会会長議論は秋口、就任は昨年末にほぼ確定。佐藤が最終決断し取締役会へ提案。会長は意思決定非関与。
+- 役員人事案策定会議が実権。NR上の構成は社外岡本・藤沢+社内宮崎。宮崎は2026-04-01付CFO。
+- 佐藤の取締役退任理由: 取締役会の多様性・人数維持、業界横断での社長バッジ阻害。
+- 分岐台数は直近1-2年上昇。商品リードタイム約10年。書初め「場」。石田退三を番頭と位置づけ。
+- 英差: today's board meeting / 会長69歳で今年70 / intentional pause / 綱領第一条は意訳。英p71の福岡落ちは未訂正。
 
 ## 公式ドキュメント
 - 統合報告2025: 168ページ。発行2026-02、配布PDF修正2026-04-03。

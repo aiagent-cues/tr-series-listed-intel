@@ -7,6 +7,7 @@ sources:
   - https://global.toyota/jp/newsroom/corporate/44505396.html
   - https://www.sec.gov/Archives/edgar/data/1094517/000119312526273360/d153396dex991.htm
   - https://global.toyota/jp/newsroom/corporate/43951695.html
+  - https://global.toyota/jp/newsroom/corporate/43951544.html
   - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
   - https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf
 tags: [officers, governance]
@@ -52,7 +53,7 @@ tags: [officers, governance]
 - CIO（Chief Industry Officer）は2026-04-01新設。統合報p88。
 
 ## 2025-06時点の取締役会スナップ（IR2025 p111）
-機関設計移行決議日は2025-06-12。年齢・出席率はこの志面の値。
+機関設計移行決議日は2025-06-12。年齢・出席率はこの誌面の値。
 
 | 氏名 | 満年齢 | 在任 | 取締役会出席 |
 |---|---|---|---|
@@ -71,13 +72,14 @@ tags: [officers, governance]
 
 ## 20-F FY2026 のKMP・16G（2026-09-07 00:10 JST）
 詳細: [[sources/20f-2026-notes-pass5]]
-- 注記34のKMP報酬（TMC、百万円）: FY2026 基本1,206 / 賞与1,206 / 株式1,993 / 計4,405。名簽別なし。
+- 注記34のKMP報酬（TMC、百万円）: FY2026 基本1,206 / 賞与1,206 / 株式1,993 / 計4,405。名鑑別なし。
 - Item 16G: 社外取締役5名。監査等委員会4名のうち社外3。
 - 独立性自家基準の数値: 取引は連結売上2%超、借入は連結総資産2%超、専門家・寄付は年USD120,000超、大株主は保有比率10位以内、社外在任12年超。
 - 倫理規範 Exhibit 11.1 は2025-11-01施行。内部者取引規程 Exhibit 19.1 は2026-01改正（秘書部 / Disclosure Committee）。
-- 20-F簽名は会計グループ Chief Officer 東 孝紀（2026-06-10）。
+- 20-F署名は会計グループ Chief Officer 東 孝紀（2026-06-10）。
 
 ## 継承の要点
 - 2026-02-06発表 / 2026-04-01発効: 佐藤恒治が社長から副会長CIOへ。近健太が社長CEO。
 - CIOの展開はChief Industry Officer（産業連携）であり、Chief Information Officerではない。
-- 役員人事案は役員人事案策定会議が提案。
+- 役員人事案は役員人事案策定会議が提案。NR 43951695 の構成は独立社外2（岡本薫明・藤沢久美）+社内1（宮崎洋一）。
+- 本冊p88-94の対話一次: [[sources/integrated-report-2025-pass15]]。自工会会長は昨年末にほぼ確定、佐藤が最終決断。会長は意思決定非関与。宮崎は2026-04-01付でCFO肩書を追加。
