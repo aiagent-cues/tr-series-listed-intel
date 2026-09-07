@@ -22,17 +22,9 @@ tags: [20-f, notes, ifrs, primary, fy2026, pass-12, ias-37, warranty]
 
 ## 優先テーマの差替確認（本時点）
 
-| テーマ | 公式物件 | HTTP / サイズ / Last-Modified | 判定 |
-|---|---|---|---|
-| (1) 統合報告2025 | https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf | 200 / 35,488,119 / Fri, 03 Apr 2026 02:00:02 GMT / ETag 6f429b141f4b80d241e2ebd43b35c08f-7 / S3 version H0V.jlEk4DcD64PpuCNSCAcT5bg0nluM | 登録頁「統合報告書2025（PDF：33.9MB／全168ページ）」。2026_001_integrated_jp.pdf は 404。TCFD円額未掲 |
-| (1) 英PDF | https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf | 200 / 32,257,390 / Fri, 03 Apr 2026 02:00:02 GMT / ETag 38c6c7536f07e5864b11e71518d075f2-7 / S3 version _H1V.omeW_Sb_LTXDClA5n2QVz2JkFrj | 差替なし |
-| (2) SDB 2026 | https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf | 200 / 11,691,278 / Mon, 29 Jun 2026 04:00:04 GMT / ETag 5d99d52f54b74bd6c67520210d322c83-3 / S3 version ty4iDeHrXxAZHh87VnhCFAsDcIoO1yOy | 登録頁「主な更新箇所（2026年6月）」。本文「主に年2回（6月および9月）更新」。sdb27_jp.pdf は 404。9月定例未掲 |
-| (2) 英SDB | https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_en.pdf | 200 / 9,687,236 / Mon, 29 Jun 2026 04:00:04 GMT / ETag 22a9d9db33aa448a137fcdb2a4e484a7-2 / S3 version staEiHcf3aZRTRajvHOtLV8.oTtLJJb8 | 差替なし |
-| (3) 20-F FY2026 | https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf | 200 / 5,259,321 / Thu, 11 Jun 2026 01:00:01 GMT / ETag b0e64e363ef4dc1f9b21441333eb0c8d-2 / S3 version KsbQIrdqL4z.4I6gq4Qditi8YSQkRnQk | 264頁。Creation 2026-06-10 05:52:15 UTC / Mod 2026-06-10 06:33:11 UTC。20-F_202603_final_amendment.pdf / 20-FA_202603_final.pdf / 20-F_202603_A.pdf は 404 |
-| (4) 海洋州 | — | — | TMCA車両会社PPEは公式IRライブラリ未掲のまま |
-| (5) 日野IR | https://www.hino.co.jp/corp/for_investors/ | 200 | 本パスは(3)残セル優先。工場別PPE・羽村精査確定は未処理 |
+登録頁とPDF HEADは前パスから差替なし。統合報告2026未掲、SDB 9月定例未掲、20-F/A未掲。詳細URLとETagは本パス本文の前次コミットを参照。
 
-本パス: 第11パスが残していた注記3の品質保証見積式（販売後10年の支払パターン）と、注記24ロールフォワードの未分解行。
+本パス: 注記3の品質保証見積式（販売後10年の支払パターン）と、注記24ロールフォワードの未分解行。
 
 ## 注記3 製品保証の見積単位（F-21）
 
@@ -52,7 +44,7 @@ BSに載るリコール等負債の一部は、「リコール等費用の期待
 
 1台当たり期待平均修理費 = 「1台当たり支払済修理費累計」÷「支払発生パターン」。
 
-支払発生パターンは、過去10年以内に販売した台数について、実際支払を10年間に配分した発生比率。修理費の構成は本文が部品と工賀を例示。
+支払発生パターンは、過去10年以内に販売した台数について、実際支払を10年間に配分した発生比率。修理費の構成は本文が部品と労務費を例示。
 
 包括計上額と個別案件の実績が乖離し得る要因として本文が列挙するのは次の2点。
 
@@ -79,7 +71,7 @@ BSに載るリコール等負債の一部は、「リコール等費用の期待
 
 合算理由は2層。いずれも車両欠陥の修理・交換費用であること、およびリコール等の発生額が製品保証の発生額に相互影響し得ること。リコール等の繰入根拠は「過去実績から見積もった金額」。
 
-FY2026の「その他」行は、為替換算、所有持分変動に伴う連結・非連結、売却目的直接関連負債への振替を主因とする（第1パスの「売却目的を含む」を本文列挙で確定）。
+FY2026の「その他」行は、為替換算、所有持分変動に伴う連結・非連結、売却目的直接関連負債への振替を主因とする。
 
 リコール等サブ表（品質保証の内数、百万円、FY2026のみ掲記）:
 
