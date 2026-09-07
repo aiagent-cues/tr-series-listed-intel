@@ -28,6 +28,7 @@ sources:
   - https://global.toyota/pages/global_toyota/ir/library/sec/form_sd_202605_final.pdf
   - https://www.hino.co.jp/corp/news/2026/20260907-004742.shtml
   - https://www.hino.co.jp/corp/news/2026/20260821-004726.shtml
+  - https://www.hino.co.jp/corp/news/2026/20260903-004725.shtml
 tags: [hub, toyota, training]
 ---
 
@@ -108,6 +109,7 @@ FRシリーズ（ファーストリテイリング）と対をなす、上場企
 - [[sources/20f-2026-notes-pass18]]
 - [[sources/20f-2026-notes-pass19]]
 - [[sources/20f-2026-notes-pass20]]
+- [[sources/20f-2026-notes-pass21]]
 - [[sources/form-sd-2026]]
 - [[sources/oceania-plants]]
 - [[sources/oceania-plants-pass3]]

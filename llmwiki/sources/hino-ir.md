@@ -16,19 +16,21 @@ sources:
   - https://www.hino.co.jp/corp/for_investors/shareholders/meeting.html
   - https://www.hino.co.jp/corp/news/2026/20260907-004742.shtml
   - https://www.hino.co.jp/corp/news/2026/20260821-004726.shtml
+  - https://www.hino.co.jp/corp/news/2026/20260903-004725.shtml
 tags: [hino, 7205, ir, archion, 543A, primary, j-gaap]
 ---
 
 # 日野自動車IR（一次抽出）
 
-調査時点: 2026-09-08 03:02 JST。公式一次情報の要約のみ。字句再現はしない。
+調査時点: 2026-09-08 04:16 JST。公式一次情報の要約のみ。字句再現はしない。
 TMC Form 20-F注11・36の統合・羽村・非連結の定義は[[sources/20f-2026-notes]]に譲り、本種は日野自体のIR番号・決算・上場廃止・増資実績に限定する。
 FY2026通期の生産・売上実績・BS行と羽村後発の金額は[[sources/hino-ir-pass2]]。
 2025-11-28臨総会議案・株式交換比率表と HINO REPORT 第113期は[[sources/hino-ir-pass3]]。
 統合報告書2025の非財務は[[sources/hino-ir-pass4]]。
 ARCHION 2027年3月期1Q（IFRS、2026-08-12）は[[sources/hino-ir-pass5]]。
 ARCHION 統合プラットフォーム戦略（2026-08-26）とレンジャー／ファイターは[[sources/hino-ir-pass6]]。
-メルフア一部改良（2026-09-07）と路線バスシリーズ（2026-08-21）は[[sources/hino-ir-pass7]]。
+メルファ一部改良（2026-09-07）と路線バスシリーズ（2026-08-21）は[[sources/hino-ir-pass7]]。
+2026-09-03の国際物流総合展出展は工場・IR数値なし。確認記録は[[sources/20f-2026-notes-pass21]]。
 
 ## 書誌（調査時点のIR導線）
 | 項目 | 値 |
@@ -45,7 +47,8 @@ ARCHION 統合プラットフォーム戦略（2026-08-26）とレンジャー�
 | 転送先 | https://archion.co.jp/ir |
 | 1Q FY2027 | ARCHIONが2026-08-12にIFRS 1Qを公表。日野適時開示2026頁に9月の新規行なし |
 | 8/26商品 | ARCHION News。日野適時開示2026頁には非掲（ニュース頁） |
-| 9/7メルフア | 日野ニュース。適時開示2026頁には非掲 |
+| 9/3展示 | 日野ニュース。適時開示2026頁には非掲 |
+| 9/7メルファ | 日野ニュース。適時開示2026頁には非掲 |
 
 第1パスの上場廃止・公取委審査・第三者割当・FY2026 3Q/通期損益・代表異動・NZ訴訟・ARCHION予想の詳細行は既存コミット履歴（SHA 38edcb39）を正本とする。本更新で再掲しない。
 
@@ -55,7 +58,7 @@ ARCHION 統合プラットフォーム戦略（2026-08-26）とレンジャー�
 - 統合報告書2025の非財務は[[sources/hino-ir-pass4]]へ移行済み。
 - ARCHION 1Qは[[sources/hino-ir-pass5]]へ移行済み。
 - 統合プラットフォーム8/26は[[sources/hino-ir-pass6]]へ移行済み。
-- メルフア・路線バスは[[sources/hino-ir-pass7]]へ移行済み。
-- 古河・新田・中津・富山・川崎の帳簿上固定資産明細（HINO REPORT第113期・通期短信・統合報告2025・ARCHION 1Q・8/26一次・メルフア/路線バスにも非掲）。
+- メルファ・路線バスは[[sources/hino-ir-pass7]]へ移行済み。
+- 古河・新田・中津・富山・川崎の帳簿上固定資産明細（HINO REPORT第113期・通期短信・統合報告2025・ARCHION 1Q・8/26一次・メルファ/路線バスにも非掲）。
 - 羽村分割・株式譲渡の「精査中」金額の確定値（2026適時開示頁に後続なし）。
 - eLDT相互供給の車名・工場・確定日（8/26 PRは「2026年度内予定」のみ）。
