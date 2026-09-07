@@ -36,7 +36,7 @@ pdfinfo: 264頁 / Creation 2026-06-10 05:52:15 UTC / Mod 2026-06-10 06:33:11 UTC
 | 20-F_202603_final.pdf | 200 | 5,259,321 / Last-Modified Thu, 11 Jun 2026 01:00:01 GMT / ETag b0e64e363ef4dc1f9b21441333eb0c8d-2 / S3 version KsbQIrdqL4z.4I6gq4Qditi8YSQkRnQk |
 | 20-FA_202603_final.pdf / 20-F_202603_final_amendment.pdf | 404 | 未掲。英登録頁 dateStr Jun. 11, 2026、表示 2026 Form 20-F（PDF: 5.01 MB / 264 pp.）。日登録頁 dateStr 2026年06月11日 |
 | TMCA Past Financial Reports | 403 (Cloudflare challenge) | toyota.com.au は調査時点チャレンジ頁。TMCA車両会社PPEの新見は無 |
-| 日野ニュース2026-09-08朝 | 200 | 09-08朝の新規URLなし。直近は09-07メルファ、09-03展示、08-31ダカール2027参戦。適時開示2026頁に9月の新規行なし |
+| 日野ニュース2026-09-08朝 | 200 | 09-08朝の新規URLなし。直近は09-07メルフア、09-03展示、08-31ダカール2027参戦。適時開示2026頁に9月の新規行なし |
 
 登録頁: https://global.toyota/jp/ir/library/annual/ 、https://global.toyota/jp/sustainability/report/sdb/ 、https://global.toyota/en/ir/library/sec/ 、https://global.toyota/jp/ir/library/sec/
 
@@ -52,9 +52,9 @@ pdfinfo: 264頁 / Creation 2026-06-10 05:52:15 UTC / Mod 2026-06-10 06:33:11 UTC
 | Negotiable certificate of deposit and other | 2,637,713 | 3,582,193 |
 | 計 | 8,982,404 | 12,659,622 |
 
-増加の主塀は預金領より預金・預金類（+2,732,737）。NCD等は +944,480。注記3の現金同等物定義（要求払預金・取得日から3ヶ月以内）は第11パス既出。
+増加の主塀は預金額（+2,732,737）。NCD等は +944,480。注記3の現金同等物定義（要求払預金・取得日から3ヶ月以内）は第11パス既出。
 
-第20パスの分割SFP現金（非金融 9,885,097 / 金融 2,774,524）の合計は 12,659,621。注記6総額と百万円四捨五入で1の差。分割表に預金/譲渡性預金証書の内訳は無い。
+第20パスの分割SFP現金（非金融 9,885,097 / 金融 2,774,524）の合計は 12,659,621。注記6総額と百万円四捨五入で1の差。分割表に預金/NCDの内訳は無い。
 
 ## 注記28 研究開発費（百万円）
 
