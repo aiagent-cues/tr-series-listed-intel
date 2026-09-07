@@ -1,4 +1,4 @@
-Mon Sep  7 05:12:22 UTC 2026
+Mon Sep  7 06:14:00 UTC 2026
 checked:
 200 https://global.toyota/jp/ir/library/annual/ 統合報告書 2025（PDF：33.9MB／全168ページ） 2026未掲
 200 https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf 35488119 Last-Modified Fri, 03 Apr 2026 02:00:02 GMT ETag 6f429b141f4b80d241e2ebd43b35c08f-7
@@ -8,4 +8,5 @@ checked:
 200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_en.pdf 9687236 Last-Modified Mon, 29 Jun 2026 04:00:04 GMT ETag 22a9d9db33aa448a137fcdb2a4e484a7-2
 200 https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf 5259321 Last-Modified Thu, 11 Jun 2026 01:00:01 GMT
 404 https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final_amendment.pdf
-theme: sdb-2026-env-plan-review
+200 https://archion.co.jp/media/2026-08/20260812_archion_newsrelease_JP.pdf?publishdate=202610 1045506 Last-Modified Wed, 12 Aug 2026 03:22:24 GMT
+theme: hino-ir-pass5
