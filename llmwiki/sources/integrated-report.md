@@ -19,8 +19,8 @@ tags: [integrated-report]
 - 英PDF: https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf
 - 抽出: [[sources/integrated-report-2025]] 〜 [[sources/integrated-report-2025-pass19]]
 
-## 時点（2026-09-08 05:20 JST確認）
-- 同日 05:20 は(1)(2)新事実なし。(3)20-F/A未掲、現金内訳は第22パス既出のため 注記13/14/15 ロールフォワードへ移行。[[sources/20f-2026-notes-pass23]]
+## 時点（2026-09-08 06:13 JST確認）
+- 同日 06:13 は(1)(2)新事実なし。(3)20-F/A未掲、注記13–15ロールは第23パス既出のため Item 4.D 主要設備・注記18比較年へ移行。[[sources/20f-2026-notes-pass24]]
 - 登録頁表示: 統合報告2025、PDF 33.9MB / 全168ページ。dateStr 2026年02月27日。統合報告2026は未掲載。2026_001_integrated_jp.pdf は 404。
 - HTTP Last-Modified（日英共通）: Fri, 03 Apr 2026 02:00:02 GMT。日 35,488,119 bytes、英 32,257,390 bytes。差替なし。TCFD円額未掲。
 
