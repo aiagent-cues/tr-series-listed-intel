@@ -2,7 +2,7 @@
 id: sources-irpt
 type: source-index
 title: 統合報告
-updated: 2026-09-07
+updated: 2026-09-08
 sources:
   - https://global.toyota/jp/ir/library/annual/
   - https://global.toyota/en/ir/library/annual/
@@ -24,6 +24,11 @@ tags: [integrated-report]
 - 日PDF: https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
 - 英PDF: https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf
 - 抽出: [[sources/integrated-report-2025]] 〜 [[sources/integrated-report-2025-pass19]]
+
+## 時点（2026-09-08 00:01 JST確認）
+- 同日 00:01 は(1)(2)新事実なしのため(3) 20-F注記3 外貨・給付・株式報酬の認識単位へ移行。[[sources/20f-2026-notes-pass15]]
+- 登録頁表示: 統合報告2025、PDF 33.9MB / 全168ページ。dateStr 2026年02月27日。OGP integrated_ogp_2025_jp.jpg。統合報告2026は未掲載。2026_001_integrated_jp.pdf は 404。
+- HTTP Last-Modified（日英共通）: Fri, 03 Apr 2026 02:00:02 GMT。日 35,488,119 bytes、英 32,257,390 bytes。差替なし。TCFD円額未掲。
 
 ## 時点（2026-09-07 23:21 JST確認）
 - 同日 23:21 は(1)(2)新事実なしのため(3) 20-F注記3 PPE・減損・引当の認識単位と注記25残セルへ移行。[[sources/20f-2026-notes-pass14]]
