@@ -1,13 +1,11 @@
-Mon Sep  7 04:07:45 UTC 2026
+Mon Sep  7 05:12:22 UTC 2026
 checked:
-200 https://global.toyota/jp/ir/library/annual/ 統合報告書 2025（PDF：33.9MB／全168ページ） dateStr 2026年02月27日 2026未掲
+200 https://global.toyota/jp/ir/library/annual/ 統合報告書 2025（PDF：33.9MB／全168ページ） 2026未掲
 200 https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf 35488119 Last-Modified Fri, 03 Apr 2026 02:00:02 GMT ETag 6f429b141f4b80d241e2ebd43b35c08f-7
-200 https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf 32257390 Last-Modified Fri, 03 Apr 2026 02:00:02 GMT ETag 38c6c7536f07e5864b11e71518d075f2-7
-200 https://global.toyota/jp/sustainability/report/sdb/ 主な更新箇所（2026年6月） dateStr 2026年06月29日 9月定例未掲
+200 https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf 32257390 Last-Modified Fri, 03 Apr 2026 02:00:02 GMT
+200 https://global.toyota/jp/sustainability/report/sdb/ 主な更新箇所（2026年6月） dateStr フッタ2026-08-13 9月定例未掲
 200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf 11691278 Last-Modified Mon, 29 Jun 2026 04:00:04 GMT ETag 5d99d52f54b74bd6c67520210d322c83-3
-200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_en.pdf 9687236 Last-Modified Mon, 29 Jun 2026 04:00:04 GMT
-200 https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf 5259321 Last-Modified Thu, 11 Jun 2026 01:00:01 GMT ETag b0e64e363ef4dc1f9b21441333eb0c8d-2
-200 https://global.toyota/pages/global_toyota/sustainability/esg/environmental/climate_public_policies_2025_jp.pdf 6581865 Last-Modified Mon, 29 Dec 2025 04:00:01 GMT ETag f8df34a013e76841969a736aa9391ce3-2
-200 https://global.toyota/pages/global_toyota/sustainability/esg/environmental/climate_public_policies_2025_en.pdf 6483426 Last-Modified Mon, 29 Dec 2025 04:00:01 GMT ETag e543f9507cffa17923786d10be1a16fa-2
-200 https://global.toyota/en/sustainability/esg/environmental-policy/ 年次版 2025/2024/2023/2022/2021 並掲
-theme: integrated-report-2025-pass19
+200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_en.pdf 9687236 Last-Modified Mon, 29 Jun 2026 04:00:04 GMT ETag 22a9d9db33aa448a137fcdb2a4e484a7-2
+200 https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf 5259321 Last-Modified Thu, 11 Jun 2026 01:00:01 GMT
+404 https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final_amendment.pdf
+theme: sdb-2026-env-plan-review
