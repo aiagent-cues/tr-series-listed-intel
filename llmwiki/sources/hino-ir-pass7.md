@@ -1,7 +1,7 @@
 ---
 id: sources-hino-ir-pass7
 type: source-extract
-title: Hino IR pass7（メルファ2026-09-07 / 路線バス2026-08-21）
+title: Hino IR pass7（メルフア2026-09-07 / 路線バス2026-08-21）
 updated: 2026-09-08
 period: FY2027-Q2-event
 sources:
@@ -47,7 +47,7 @@ tags: [hino, 7205, archion, 543A, melpha, blue-ribbon, rainbow, bus, primary, pa
 | 路線バスURL | https://www.hino.co.jp/corp/news/2026/20260821-004726.shtml |
 | 適時開示2026 | 本2件は非掲（商品ニュース） |
 
-## 37. 中型観光バス「日野メルフア」一部改良（F-none、本パスの核）
+## 37. 中型観光バス「日野メルフア」一部改良（本パスの核）
 
 対象は中型観光バス「日野メルフア」。本日発売。
 
@@ -63,7 +63,7 @@ tags: [hino, 7205, archion, 543A, melpha, blue-ribbon, rainbow, bus, primary, pa
 |---|---|---|---:|---:|---:|
 | 日野メルフア 中型観光 スーパーデラックス RR2AJDV-E X UDAQC | A05C 162 kW（220 PS） | 6速AT | 41人（仕様により異なる） | 23,615,000 | 25,976,500 |
 
-工場名・生産台数・販売台数は非掲。統合プラットフォームやeLDT交互供給との関係行も非掲。エンジン型式 A05Cは8/26レンジャー/ファイター例示と同一系列だが、出力は本代表が 162 kW、レンジャー例示は 177 kW。
+工場名・生産台数・販売台数は非掲。統合プラットフォームやeLDT相互供給との関係行も非掲。エンジン型式 A05Cは8/26レンジャー/ファイター例示と同一系列だが、出力は本代表が 162 kW、レンジャー例示は 177 kW。
 
 ## 38. 路線バスシリーズ改良（ブルーリボン / レインボー）
 
@@ -87,7 +87,7 @@ tags: [hino, 7205, archion, 543A, melpha, blue-ribbon, rainbow, bus, primary, pa
 
 工場名・生産台数は非掲。海洋州組立・用地取得行は無い。
 
-## 672c未処理
+## 未処理
 
 - 20-F/A（探した amendment URL は 404）。
 - 2026統合報告・TCFD円額、SDB 9月定例PDF。
