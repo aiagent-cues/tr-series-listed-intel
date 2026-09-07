@@ -10,6 +10,8 @@ sources:
   - https://global.toyota/jp/ir/library/annual/
   - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
   - https://global.toyota/jp/newsroom/corporate/40349720.html
+  - https://www.ttri.or.jp/
+  - https://www.toyota.co.jp/jpn/company/history/75years/data/automotive_business/products_technology/research/organizations/index.html
 tags: [esg, sustainability, training]
 ---
 
@@ -42,10 +44,18 @@ tags: [esg, sustainability, training]
 出典: [[sources/integrated-report-2025-pass13]]（2026-09-07 10:18 JST）。PDF差替なし。
 - センチュリー: 開発開始1963、初代完成1967。開発現場は関東自動車工業東富士。TMCサブブランドではなく独立育成、レクサスの「上」。
 - トヨタ: 「あなた目掛けて」。IMV Originはアフリカ農村向け未完成出荷。
-- ダイハツ: ミゼットX、K-OPEN（軽FRオープン）、KAYOIBAKO小型。会長がダイハツマスタードライバーに就任すると本冊が再録。
+- ダイハツ: ミジェットX、K-OPEN（軽FRオープン）、KAYOIBAKO小型。会長がダイハツマスタードライバーに就任すると本冊が再録。
 - レクサス: LSをLuxury Spaceへ再定義（1989初代）。LSコンセプトは6輪。海上は自律カタマランを開発中。
 - GR: 2025-12-05 裸野Woven CityでGR GT / GR GT3 / LFA Concept WP。初のオールアルミ骨格。GR系はe-fuel対応、LFA Conceptは電動。
 
+## 統合報告2025 第14パスで追加した水素パートナー
+出典: [[sources/integrated-report-2025-pass14]]（2026-09-07 10:36 JST）。PDF差替なし。
+- 欧州: Toyota Motor Europe NV/SAがFC開発・生産・外販。Daimler Truck Holding AG 2023-05、BMW 2024-09、Hyliko累計6万km+パリ2024五輪。
+- 中国: Beijing SinoHytecが2024-08生産開始。GLP中国2024-11。FOR-U / Shenzhen Dekun で2025年からFC大型50台（海外初幹線トライアル）。
+- 国内: CJPT（2021年、いすゅ/日野/スズキ/ダイハツ）。METI 2025-05で重点地域5（日は福岡含む、英METI文は福岡落ち）。FCトラック2025-12末約200 / FCバス約180。
+- つくる: 本社工場水素パーク2026、5–20MW水電解、デンソー福島0.4MW。
+- TTRI=公益財団法人豊田都市交通研究所（https://www.ttri.or.jp/）。TTDC=トヨタテクニカルディベロップメント（2006-04設立、病心史）。
+
 ## 公式ドキュメント
 - 統合報告2025: 168ページ。発行2026-02、配布PDF修正2026-04-03。
-- SDB sdb26: 登録頁153p / 実バイナリ約155p。2026-06更新。詳細は [[sources/sdb-2026]] 系および [[sources/integrated-report-2025-pass13]]。
+- SDB sdb26: 登録頁153p / 実バイナリ約155p。2026-06更新。詳細は [[sources/sdb-2026]] 系および [[sources/integrated-report-2025-pass14]]。
