@@ -41,3 +41,12 @@
 - 実施: 貞宝工場「森と桜池」1.9ha・2026-06認定・6サイト目。下山/士別/堤/トヨタの森は2025-09、宮川1,689.28haは2026-03。法は地域生物多様性増進法。OECM国際DBへ順次登録と本文。ハブに2024年TN LEAD/ENCORE調査。
 - 出力: `llmwiki/sources/sdb-2026-env-nature-sites.md`。index / WORKLOG / _meta / sources/integrated-report / topics/esg / _last_run 更新。
 - 次: (1)2026統合報・TCFD円額、(2)9月SDB PDF、(3)20-F/A、(4)TMCA PPE、OECMレコードID、(5)羽村精査確定値・FY2026有報工場別PPE・ARCHION工場PPE。
+
+## 2026-09-09 JST 08:06 タイムボックス（1h分）
+- 選定: (1)統合報2025。日PDF 35,488,119 / Last-Modified Fri, 03 Apr 2026 02:00:02 GMT / ETag不変。2026未掲。TCFD円額未掲。新事実なしのため(2)へ。
+- (2) SDB6月PDF差替なし（sdb26_jp 11,691,278 / Last-Modified Mon, 29 Jun 2026 04:00:04 GMT）。登録頁表示は12MB/全153ページのまま。sdb27 / sdb26_jp_09 404。貞宝6サイトは07:03既出。新事実なしのため(3)へ。
+- (3) 20-F_202603_final 5,259,321 / Last-Modified Thu, 11 Jun 2026 01:00:01 GMT。20-F/A 404。新事実なしのため(4)へ。
+- (4) toyota.com.au 403。TMCA PPE未掲。(5)へ。
+- 実施: 羽村公式HPの確定値（資本金85億円・従業員5,060名・敷地75万㎡・2024年度生産191,472台・現行品目LC250/ダイナ/デュトロ/ZEV）と、ARCHION第1回招集（4,451,688 bytes / Last-Modified 2026-07-30）の吸収分割（契約2025-11-27・承継2,744名・LC250移管）・工場一覧・訂正（AIB総会日2025-11-04）。
+- 出力: `llmwiki/sources/hino-ir-pass23.md`。index / WORKLOG / _meta / sources/hino-ir / topics/ifrs / topics/production-management / _last_run 更新。
+- 次: (1)2026統合報・TCFD円額、(2)9月SDB PDF、(3)20-F/A、(4)TMCA PPE、(5)分割対価・工場別PPE・5,060と2,744の差分・NZオークランド承認確定日・PL888・公取委措置本文。
