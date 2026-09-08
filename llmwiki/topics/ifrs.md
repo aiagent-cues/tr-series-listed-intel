@@ -8,6 +8,7 @@ sources:
   - https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202403_final.pdf
   - https://www.sec.gov/Archives/edgar/data/1094517/000119312526264811/0001193125-26-264811-index.htm
   - https://www.hino.co.jp/corp/for_investors/financial_results/
+  - https://www.hino.co.jp/corp/for_investors/financial_results/assets/88902ee2dd396a6ce60862ec556375c5.pdf
   - https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf
   - https://www.hino.co.jp/corp/for_investors/financial_statements/assets/334290270feed1e224ecffe5833cc9f4.pdf
   - https://www.toyota-hamura.co.jp/company/profile/
@@ -35,3 +36,4 @@ TMCの連結財務は **IFRS Accounting Standards**（IASB、未留保の準拠�
 HCS年商 22,897百万円（2025年度）と資本金 30百万円は子会社単体の公式会社概要であり、TMC連結IFRSの注記金額ではない。[[sources/hino-ir-pass9]]。
 工場別PPEの最新確定一次は日野FY2025有報（2025-03-31、提出 2025-06-24）。提出会社合計列は日野 18,669 / 羽村 38,237 / 新田 33,036 / 古河 41,678（百万円）。日本基準の帳簿であり、TMC 20-Fの有形固定資産注記と足さない。[[sources/hino-ir-pass10]]。
 FY2026半期報（2025-09-30）の連結有形合計は 431,821百万円。工場別表は非掲。米刑事 521.76百万USD・米民事 442.50百万USD・加州民事 236.50百万USD・カナダ 55百万CAD・豪州 87百万AUDは日本基準の注記額であり、TMC IFRSの引当金と足さない。[[sources/hino-ir-pass11]]。
+FY2026 3Q短信（2025-12-31、レビュー完了版 2026-02-05）の連結有形合計は 431,568百万円。認証関連損失引当金 26,043。NZ集団訴訟和解金 959・PL訴訟和解金 888は日本基準の特別損失であり、TMC IFRSの引当と足さない。グローバル・ミニマム課税の四半期法人税は実務対応報告第46号第7項により非計上。[[sources/hino-ir-pass12]]。
