@@ -6,6 +6,7 @@ updated: 2026-09-09
 sources:
   - https://global.toyota/jp/ir/library/annual/
   - https://global.toyota/jp/sustainability/report/sdb/
+  - https://global.toyota/jp/sustainability/
   - https://global.toyota/en/ir/library/sec/
   - https://www.hino.co.jp/corp/for_investors/
   - https://www.hino.co.jp/corp/for_investors/financial_statements.html
@@ -44,6 +45,7 @@ tags: [hub, toyota, training]
 - [[sources/integrated-report]]
 - [[sources/integrated-report-2025]]
 - [[sources/sdb-2026]]
+- [[sources/sdb-2026-env-nature-sites]]
 - [[sources/20f-2026-notes]]
 - [[sources/20f-2026-notes-pass35]]
 - [[sources/oceania-plants]]

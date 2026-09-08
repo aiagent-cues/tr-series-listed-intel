@@ -2,9 +2,10 @@
 id: topic-esg
 type: topic
 title: ESG / サステナビリティ
-updated: 2026-09-07
+updated: 2026-09-09
 sources:
   - https://global.toyota/en/sustainability/
+  - https://global.toyota/jp/sustainability/
   - https://global.toyota/jp/sustainability/report/sdb/
   - https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
   - https://global.toyota/jp/ir/library/annual/
@@ -20,18 +21,25 @@ tags: [esg, sustainability, training]
 
 ## 公式フレーム
 - 豊田綱領→ トヨタフィロソフィー → 「幸せの量産」
-- Sustainability Data Bookは主に年 2 回更新。最新配布は sdb26（登録頁 2026-06更新、HTTP Last-Modified 2026-06-29）。2026-09-07時点9月定例PDFは未掲
+- Sustainability Data Bookは主に年 2 回更新。最新配布は sdb26（登録頁 2026-06更新、HTTP Last-Modified 2026-06-29）。2026-09-09時点9月定例PDFは未掲
+
+## 自然共生サイト6件（2026-09-09 07:03 JST）
+出典: [[sources/sdb-2026-env-nature-sites]]。全社サステナ頁トピックス更新表示 2026-08-31。
+- 貞宝工場「森と桜池」: 愛知豊田 1.9ha、2026-06 自然共生サイト認定（地域生物多様性増進法、主務大臣）。6サイト目。
+- 下山 385ha / 士別 832ha / びおとーぷ堤 0.74ha / トヨタの森 45ha は2025-09。宮川山林 1,689.28ha は2026-03。
+- SDB6月PDFの5サイト表（2026-03時点）に貞宝は無い。30by30アライアンス参画、OECM国際DBへ順次登録と本文。
+- 2024年に直接所有拠点を TN LEAD / ENCORE で調査。重要度の高い要素は水利用と土地改変。
 
 ## Form SD 紛争鉱物（2026-09-07 16:24 JST）
 出典: [[sources/form-sd-2026]]。SEC登録頁の Form SD 2025（ファイル form_sd_202605_final.pdf、提出2026-05-29、対象暦年2025）。
 - 対象サプライヤー回答率 96.6%。DRC conflict free の断定なし。
-- TMNAが2025年に製錠所124先へ接触。AnnexのRMAP突合は226行（2026-03-23リスト）。
+- TMNAが2025年に製錵所124先へ接触。AnnexのRMAP突合は226行（2026-03-23リスト）。
 - JaCERの苦情プラットフォームに加入。民間セクター監査なし。
 
 ## SDB 第7次プラン残行 / p41（2026-09-07 14:11 JST）
 出典: [[sources/sdb-2026-env-plan-review]]。(1)統合報告2025・TCFD円額は公式未掲のため(2)へ移行。
 - 運搬船LNG切替: 目標2隻 / 2025年度実績3隻。
-- 販売店No.7: 対象72国・新篁100%・改篁一部未達で整体未達（叙事p59の71国達成と層差）。
+- 販売店No.7: 対象72国・新築200%・改築一部未達で整体未達（叙事p59の71国達成と層差）。
 - Dismantlers: 目標15ヵ所 → 22ヵ所。Today for Tomorrowは2020年度終了。
 - 環境異常: 生産8件（日本3/他地域5）+非生産2件（日本2）。重大違反なし。
 - 第8次: 工場廃棄物・取水原単位は2019年度以下（電池会社連結化で水使用増と注記）。
