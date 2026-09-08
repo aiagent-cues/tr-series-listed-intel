@@ -2,7 +2,7 @@
 id: toyota-group
 type: group
 title: トヨタグループ（TRシリーズ拡張対象）
-updated: 2026-09-07
+updated: 2026-09-08
 sources:
   - https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf
   - https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2026_03.pdf
@@ -11,12 +11,13 @@ sources:
   - https://www.hino.co.jp/corp/for_investors/
   - https://www.hino.co.jp/corp/for_investors/shareholders/meeting.html
   - https://archion.co.jp/ir
+  - https://www.toyota-hamura.co.jp/company/profile/
   - https://pressroom.toyota.com.au/PressRelease?pr-code=6c96ef03-a14c-4ec9-b2a4-d2e3399dab24
   - https://www.toyota.com.au/-/media/project/toyota/toyota/explore/corporate/past-reports/files/20260630_tfal---fy-march-2026_financial-report-final.pdf
   - https://tdnet-pdf.kabutan.jp/20260514/140120260514534623.pdf
   - https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
   - https://global.toyota/jp/newsroom/corporate/40349720.html
-tags: [group, supply-chain, 20-f, oceania, hino]
+tags: [group, supply-chain, 20-f, oceania, hino, hamura]
 ---
 
 # トヨタグループマップ（教材用）
@@ -31,7 +32,7 @@ TRシリーズはTMCを中核に、生産・調達・金融・輩件の周辺企
 - 日野自動車: 2026-03-31までTMC連結子会社。2026-04-01のMFTBC統合発効で非連結（Form 20-F FY2026 注11・36）
 - 日野IR自体: 7205は2026-03-30上場廃止、売買最終 2026-03-27。統合会社ARCHION（543A、東証プライム、2026-04-01上場）が完全親会社。日野決算短信は日本基準。詳細[[sources/hino-ir]]
 - 2025-11-28臨総会で定款変更・第三者割当・AIBとの株式交換（1:1）を可決。ふそう株式交付は1:310（価値比 1.00:1.70、基準日 2024-12-31）。持分調整後の議決権目標はトヨタ19.9% / ダイムラートラック26.7%。[[sources/hino-ir-pass3]]
-- トヨタ自動車羽村: 日野羽村工場を統合直前にTMC連結化（FY2027）。日野FY2026短信後発: 2026-04-01吸収分割（承継資産52,124百万円・精査中）のうえ株式1株を150,000百万円でTMCへ譲渡、譲渡利益115,461百万円（精査中）。[[sources/hino-ir]]
+- トヨタ自動車羽村株式会社: 創立 2026-04-01、資本金 85億円、TMC 100%、従業員 5,060名（2026-04、派遣含む）、敷地 750,000㎡、代表 青木 是篤。現行車種はLC250・高機動車・1.5tトラック・ダイナ・デュトロ・デュトロZEV。2024年度生産 191,472台。日野FY2026短信後発の承継資産・対価・譲渡利益は精査中のまま。[[sources/hino-ir-pass8]]
 
 ## モノづくり・部品
 - トヨタ車体
