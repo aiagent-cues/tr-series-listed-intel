@@ -1,4 +1,4 @@
-Tue Sep  8 23:41:00 JST 2026
+Wed Sep  9 00:38:00 JST 2026
 checked:
 200 https://global.toyota/jp/ir/library/annual/ 統合報告書2025（PDF：33.9MB／全168ページ）2026未掲
 404 https://global.toyota/pages/global_toyota/ir/library/annual/2026_001_integrated_jp.pdf
@@ -17,8 +17,10 @@ checked:
 403 https://www.toyota.com.au/explore/corporate/investors/past-reports Cloudflare challenge
 200 https://www.hino.co.jp/corp/news/2026/ 20260908-* 404 最新 20260907-004742 次行 20260903-004725
 200 https://www.hino.co.jp/corp/for_investors/disclosure/2026.html 9月新規行なし 最新行 2026-03-27 15:30
-200 https://www.hino.co.jp/corp/for_investors/financial_results/assets/0aae43d01462b4445e69afcce88c427a_18.pdf 1359670 Last-Modified Mon, 16 Feb 2026 05:42:04 GMT 24p FY2026 3Q briefing p2/p8/p18/p21-22 extracted
-200 https://www.hino.co.jp/corp/news/assets/20260826_archion_newsrelease_JP.pdf 1300582 Last-Modified Tue, 25 Aug 2026 23:42:10 GMT
-200 https://www.hino.co.jp/corp/news/assets/20260825_archion_newsrelease_JP.pdf 761355 Last-Modified Mon, 24 Aug 2026 23:37:02 GMT
-200 https://archion.co.jp/ir/library/securities-reports/ 工場別PPE PDF未掲
-theme: hino-ir-pass15
+200 https://www.hino.co.jp/corp/news/2026/20260907-004742.shtml メルファ一部改良
+200 https://www.hino.co.jp/corp/news/2026/20260903-004725.shtml HCS Logita 国際物流総合展
+200 https://www.hino.co.jp/corp/news/2026/20260831-004735.shtml ダカール2027
+200 https://www.hino.co.jp/corp/news/2026/20260821-004726.shtml ブルーリボン/レインボー
+200 https://www.hino.co.jp/corp/for_investors/pdf/integrated_report/integrated_report_2025_jp.pdf 26543734 Last-Modified Mon, 16 Feb 2026 05:46:23 GMT
+200 https://www.hino.co.jp/corp/sustainability/parts/pdf/environment_TCFD.pdf 1424592 Last-Modified Mon, 16 Feb 2026 05:22:12 GMT
+theme: hino-ir-pass16
