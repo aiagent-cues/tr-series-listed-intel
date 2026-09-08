@@ -19,8 +19,8 @@ tags: [integrated-report]
 - 英PDF: https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf
 - 抽出: [[sources/integrated-report-2025]] 〜 [[sources/integrated-report-2025-pass19]]
 
-## 時点（2026-09-08 08:00 JST確認）
-- 同日 08:00 は(1)(2)新事実なし。(3)20-F/A未掲、注記16–19・21・23は第25パス既出のため 注記20感受度・注記22相殺・注記31株式報酬 へ移行。[[sources/20f-2026-notes-pass26]]
+## 時点（2026-09-08 09:00 JST確認）
+- 同日 09:00 は(1)(2)新事実なし。(3)20-F/A未掲、注記20・22・31は第26パス既出のため 注記3方針・注記26資本・Item 5関税 へ移行。[[sources/20f-2026-notes-pass27]]
 - 登録頁表示: 統合報告2025、PDF 33.9MB / 全168ページ。dateStr 2026年02月27日。統合報告2026は未掲載。2026_001_integrated_jp.pdf は 404。
 - HTTP Last-Modified（日英共通）: Fri, 03 Apr 2026 02:00:02 GMT。日 35,488,119 bytes、英 32,257,390 bytes。差替なし。TCFD円額未掲。
 
