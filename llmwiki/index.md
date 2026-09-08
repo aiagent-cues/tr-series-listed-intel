@@ -12,6 +12,7 @@ sources:
   - https://www.hino.co.jp/corp/for_investors/financial_results/
   - https://www.hino.co.jp/corp/for_investors/financial_results/assets/88902ee2dd396a6ce60862ec556375c5.pdf
   - https://www.hino.co.jp/corp/for_investors/financial_results/assets/0aae43d01462b4445e69afcce88c427a_18.pdf
+  - https://www.hino.co.jp/corp/news/assets/20260826_archion_newsrelease_JP.pdf
   - https://www.hino.co.jp/corp/for_investors/financial_statements/assets/334290270feed1e224ecffe5833cc9f4.pdf
   - https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf
   - https://www.toyota-hamura.co.jp/company/profile/
@@ -49,8 +50,8 @@ tags: [hub, toyota, training]
 - [[sources/20f-2026-notes-pass35]]
 - [[sources/oceania-plants]]
 - [[sources/hino-ir]]
-- [[sources/hino-ir-pass13]]
 - [[sources/hino-ir-pass14]]
+- [[sources/hino-ir-pass15]]
 - [[sources/news-2026]]
 
 ## 訓練

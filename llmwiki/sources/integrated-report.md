@@ -19,8 +19,8 @@ tags: [integrated-report]
 - 英PDF: https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf
 - 抽出: [[sources/integrated-report-2025]] 〜 [[sources/integrated-report-2025-pass19]]
 
-## 時点（2026-09-08 22:15 JST確認）
-- 同日 22:15 は(1)(2)(3)(4)新事実なし。(5)日野FY2026 3Q説明会p6/p14–19図表セルを一次抽出。[[sources/hino-ir-pass14]]
+## 時点（2026-09-08 23:41 JST確認）
+- 同日 23:41 は(1)(2)(3)(4)新事実なし。(5)日野FY2026 3Q説明会p2/p8/p18/p21–22とARCHION 2026-08-26統合PFを一次抽出。[[sources/hino-ir-pass15]]
 - 登録頁表示: 統合報告2025、PDF 33.9MB / 全168ページ。統合報告2026は未掲載。2026_001_integrated_jp.pdf / _en.pdf は 404。
 - HTTP Last-Modified（日英共通）: Fri, 03 Apr 2026 02:00:02 GMT。日 35,488,119 bytes、英 32,257,390 bytes。差替なし。TCFD円額未掲。
 
