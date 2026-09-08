@@ -19,8 +19,8 @@ tags: [integrated-report]
 - 英PDF: https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf
 - 抽出: [[sources/integrated-report-2025]] 〜 [[sources/integrated-report-2025-pass19]]
 
-## 時点（2026-09-09 06:09 JST確認）
-- 同日 06:09 は(1)(2)(3)(4)新事実なし。(5)日野の公取委通知・自己株式消却・4/1役員・NLJ解散・HOTAI譲渡価格を一次抽出。[[sources/hino-ir-pass21]]
+## 時点（2026-09-09 06:22 JST確認）
+- 同日 06:22 は(1)(2)(3)(4)新事実なし。(5)日野の上場承認日程・貸借銘柄・払込完了円額・有報個別工場別増加を一次抽出。[[sources/hino-ir-pass22]]
 - 登録頁表示: 統合報告2025、PDF 33.9MB / 全168ページ。統合報告2026は未掲載。2026_001_integrated_jp.pdf / _en.pdf は 404。
 - HTTP Last-Modified（日英共通）: Fri, 03 Apr 2026 02:00:02 GMT。日 35,488,119 bytes、英 32,257,390 bytes。差替なし。TCFD円額未掲。
 
