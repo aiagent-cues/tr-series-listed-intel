@@ -8,9 +8,9 @@ sources:
   - https://global.toyota/jp/sustainability/report/sdb/
   - https://global.toyota/en/ir/library/sec/
   - https://www.hino.co.jp/corp/for_investors/
-  - https://www.hino.co.jp/corp/news/2026/20260903-004725.shtml
-  - https://www.hino.co.jp/corp/hinotopics/interview/014-1.html
-  - https://www.hino-cs.com/company/
+  - https://www.hino.co.jp/corp/for_investors/financial_statements.html
+  - https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf
+  - https://www.hino.co.jp/corp/for_investors/hino_report/pdf/20250626IR_3.pdf
   - https://www.toyota-hamura.co.jp/company/profile/
 tags: [hub, toyota, training]
 ---
@@ -45,8 +45,8 @@ tags: [hub, toyota, training]
 - [[sources/20f-2026-notes-pass35]]
 - [[sources/oceania-plants]]
 - [[sources/hino-ir]]
-- [[sources/hino-ir-pass8]]
 - [[sources/hino-ir-pass9]]
+- [[sources/hino-ir-pass10]]
 - [[sources/news-2026]]
 
 ## 訓練

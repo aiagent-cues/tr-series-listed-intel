@@ -8,6 +8,7 @@ sources:
   - https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202403_final.pdf
   - https://www.sec.gov/Archives/edgar/data/1094517/000119312526264811/0001193125-26-264811-index.htm
   - https://www.hino.co.jp/corp/for_investors/financial_results/
+  - https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf
   - https://www.toyota-hamura.co.jp/company/profile/
   - https://www.hino-cs.com/company/
 tags: [ifrs, accounting, training, 20-f, hino, j-gaap]
@@ -28,6 +29,7 @@ TMCの連結財務は **IFRS Accounting Standards**（IASB、未留保の準拠�
 倫理規範・閉鎖期間・名簿保管は [[sources/20f-2026-notes-pass34]] を正本とする。本更新で再掲しない。
 
 ## 日野側の基準差（混同禁止）
-日野7205の決算短信は日本基準。ARCHION 543A のFY2027開示はIFRS。TMC 20-F（IFRS 5）と足してはならない。
+日野7205の決算短信・有報は日本基準。ARCHION 543A のFY2027開示はIFRS。TMC 20-F（IFRS 5）と足してはならない。
 羽村移管後法人の資本金・人員・敷地は日野短信の「精査中」額と別物。法人公式は[[sources/hino-ir-pass8]]。
 HCS年商 22,897百万円（2025年度）と資本金 30百万円は子会社単体の公式会社概要であり、TMC連結IFRSの注記金額ではない。[[sources/hino-ir-pass9]]。
+工場別PPEの最新確定一次は日野FY2025有報（2025-03-31、提出 2025-06-24）。提出会社合計列は日野 18,669 / 羽村 38,237 / 新田 33,036 / 古河 41,678（百万円）。日本基準の帳簿であり、TMC 20-Fの有形固定資産注記と足さない。[[sources/hino-ir-pass10]]。
