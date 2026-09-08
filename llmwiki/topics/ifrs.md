@@ -12,18 +12,16 @@ tags: [ifrs, accounting, training, 20-f, hino, j-gaap]
 
 # IFRS（TRシリーズ訓練トピック）
 
-TMCの連結財務は **IFRS Accounting Standards**（IASB、未留保の準拠表明）。一次テキストは Form 20-F FY2026 注記（[[sources/20f-2026-notes]] 〜 [[sources/20f-2026-notes-pass33]]）。
+TMCの連結財務は **IFRS Accounting Standards**（IASB、未留保の準拠表明）。一次テキストは Form 20-F FY2026 注記（[[sources/20f-2026-notes]] 〜 [[sources/20f-2026-notes-pass34]]）。
 
-## 教材で押さえる要素（FY2026追記）
+## 教材で押さえる要素（FY2026追記・pass34）
 | 要素 | TMCでの出方 |
 |---|---|
-| 日本国外ポートフォリオ譲渡 | 非居住者の普通株式/ADS売却益は原則として日本の所得税・法人税の対象外。Eligible U.S. Holderは必要提出を行えば条約免除 |
-| 相続税・贈与税 | 取得者・被相続人・贈与者が非居住でも課され得る。税率表は20-F非掲 |
-| PFIC | TMCはFY2026についてPFICではないと考える。子会社のリース・金融のため保証しない |
-| Item 11 市場リスク | 本文に数値表なし。注記3・20・21参照。認識リスクは為替・金利・一定の商品・株式 |
-| ADSプログラム | 預託機関 BNY Mellon。FY2026にTMC/指示先へ $980,058.75。将来の預託機関負担上限 年$300,000 |
+| 倫理規範 Exhibit 11.1 | 施行 2025-11-01。取締役と執行役員（社長・副社長・フェローを含む）。社外法律事務所の SPEAK-UP。免除は取締役会決議のみ |
+| 内部者取引 Exhibit 19.1 | 2026-01改正。閉鎖期間は4/7/10/1月1日から約5週間。取締役売買は翌月15日までに内閣総理大臣へ報告。内部者名簿は5年保管しFCA提出可 |
+| Exhibit 15.1 | PwC Japan LLCが Form F-3 No. 333-288168 への組込同意（名古屋、2026-06-10） |
 
-配当源泉・Specified Foreign Investor・注記1–36は [[sources/20f-2026-notes]] 〜 pass32 を正本とする。本更新で再掲しない。
+配当源泉・Specified Foreign Investor・ADS手数料・注記1–36は [[sources/20f-2026-notes]] 〜 pass33 を正本とする。本更新で再掲しない。
 
 ## 日野側の基準差（混同禁止）
 日野7205の決算短信は日本基準。ARCHION 543A のFY2027開示はIFRS。TMC 20-F（IFRS 5）と足してはならない。
