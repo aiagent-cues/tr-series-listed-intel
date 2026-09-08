@@ -32,7 +32,7 @@ pdfinfo: 264頁 / Creation 2026-06-10 05:52:15 UTC / Mod 2026-06-10 06:33:11 UTC
 | 2026_001_integrated_jp.pdf | 404 | 未掲。登録頁 dateStr 2026年02月27日。表示は統合報告書2025（33.9MB／168ページ） |
 | sdb26_jp.pdf | 200 | 11,691,278 / Last-Modified Mon, 29 Jun 2026 04:00:04 GMT / ETag 5d99d52f54b74bd6c67520210d322c83-3 / S3 version ty4iDeHrXxAZHh87VnhCFAsDcIoO1yOy |
 | sdb26_en.pdf | 200 | 9,687,236 / 同日 Last-Modified / ETag 22a9d9db33aa448a137fcdb2a4e484a7-2 / S3 version staEiHcf3aZRTRajvHOtLV8.oTtLJJb8 |
-| sdb27_jp.pdf | 404 | 未掲。登録頁 dateStr 2026年06月29日。表示は主な更新箇所（2026年6月）。年2回（6月および3月） |
+| sdb27_jp.pdf | 404 | 未掲。登録頁 dateStr 2026年06月29日。表示は主な更新箇所（2026年6月）。年2回（6月および9月） |
 | 20-F_202603_final.pdf | 200 | 5,259,321 / Last-Modified Thu, 11 Jun 2026 01:00:01 GMT / ETag b0e64e363ef4dc1f9b21441333eb0c8d-2 / S3 version KsbQIrdqL4z.4I6gq4Qditi8YSQkRnQk |
 | 20-FA_202603_final.pdf / 20-F_202603_final_amendment.pdf | 404 | 未掲。英登録頁 dateStr Jun. 11, 2026、表示 2026 Form 20-F（PDF: 5.01 MB / 264 pp.）。日登録頁 dateStr 2026年06月11日 |
 | TMCA Past Financial Reports | 403 (Cloudflare challenge) | toyota.com.au は調査時点チャレンジ頁。TMCA車両会社PPEの新見は無 |
