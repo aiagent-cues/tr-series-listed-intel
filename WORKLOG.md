@@ -34,8 +34,15 @@
 - 出力: `llmwiki/sources/hino-ir-pass17.md`。
 
 ## 2026-09-09 JST 03:09 タイムボックス（1h分）
-- 選定: 優先(1)統合報告2025。登録頁に2026未掲。日PDF HEAD不変（35,488,119 / Last-Modified Fri, 03 Apr 2026 02:00:02 GMT / ETag 6f429b141f4b80d241e2ebd43b35c08f-7）。TCFD円額未掲。(2) SDB登録頁は主な更新箇所（2026年6月）。頁メタ dateStr 2026年06月29日（足元8月日付はニュースウィジェット）。sdb26_jp HEAD不変 11,691,278 / Last-Modified Mon, 29 Jun 2026 04:00:04 GMT。sdb27 / sdb26_jp_09 は404。9月定例未掲。(3) 20-F/Aは404。(4) toyota.com.au は403。
+- 選定: 優先(1)統合報告2025。登録頁に2026未掲。日PDF HEAD不変（35,488,119 / Last-Modified Fri, 03 Apr 2026 02:00:02 GMT / ETag 6f429b141f4b80d241e2ebd43b35c08f-7）。TCFD円額未掲。(2) SDB登録頁は主な更新箇所（2026年6月）。頁メタ dateStr 2026年06月29日（踊元sdb8月日付はニュースウィジェット）。sdb26_jp HEAD不変 11,691,278 / Last-Modified Mon, 29 Jun 2026 04:00:04 GMT。sdb27 / sdb26_jp_09 は404。9月定例未掲。(3) 20-F/Aは404。(4) toyota.com.au は403。
 - 実施: (5) 前パス未転記の公式ニュース2026-05-20–07-29（リエッセⅡ / プロフィア / セレガ / デュトロ Z EV / ダブル連結コミュニティ）。
 - 新事実の核: リエッセⅡ EX GDB110M-ZRTQH 税抜9,865,000円 / GX GDB110M-ZRTEY 税抜8,396,100円。プロフィア 2WG-FW1AHG 25t・2WG-SH1EDGJ 11.5t。セレガ RU1ASDY-FRDDAC 税込50,952,110円。デュトロ Z EV ZAB-XED100V-AAAAA WLTC184km / 46.7kWh / 累計販売2000台以上。ダブル連結コミュニティ発足2026-07-23・11社。
 - 出力: `llmwiki/sources/hino-ir-pass18.md`。index / WORKLOG / _meta / sources/integrated-report / topics/ifrs / sources/hino-ir / _last_run 更新。
 - 次: (1)2026統合報・TCFD円額、(2)9月SDB、(3)20-F/Aは公式未掲。(4)TMCA PPE未掲。(5)羽村精査確定値・FY2026有報工場別PPE・ARCHION工場PPE・電気小型のふそう供給侧車名・NZ訴訟裁判所承認確定日・PL888管轄。
+
+## 2026-09-09 JST 04:09 タイムボックス（1h分）
+- 選定: (1)–(4)差替なし。日統合報PDF 35,488,119 / Last-Modified Fri, 03 Apr 2026 02:00:02 GMT。sdb26_jp 11,691,278 / Last-Modified Mon, 29 Jun 2026 04:00:04 GMT。sdb27 / sdb26_jp_09 / 20-FA 404。toyota.com.au 403。
+- 実施: (5) FY2026半期報・3Q短信のNZ集団訴訟注記と、2026-07-01国交省L4支援事業・2026-07-16日野市包括連携。
+- 新事実の核: NZ高等裁判所パーマストンノース支部提起2025-03-03、2025-08-05オークランド支部へ移送。裁判所承認は3Q時点未了（取締約2025-12-25取締役会承認後、オークランドへ提出予定）。PL888は半期・3Qとも888百万円・管轄注記なし。国交省事業で日野+ふそうが高速自動運転トラック輸送オペレーション協議会、日野がL4物流トレーラー協議会と豊田通商コンソーシアムに協力。日野市市長 古賀壮志。
+- 出力: `llmwiki/sources/hino-ir-pass19.md`。index / WORKLOG / _meta / sources/integrated-report / topics/ifrs / sources/hino-ir / _last_run 更新。
+- 次: (1)2026統合報・TCFD円額、(2)9月SDB、(3)20-F/A未掲。(4)TMCA PPE未掲。(5)羽村精査確定値・FY2026有報工場別PPE・ARCHION工場PPE・電気小型車名・NZオークランド承認確定日・現地通貨総額・PL888管轄。

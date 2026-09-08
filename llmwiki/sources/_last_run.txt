@@ -1,11 +1,11 @@
-Wed Sep  9 03:09:00 JST 2026
+Wed Sep  9 04:09:00 JST 2026
 checked:
 200 https://global.toyota/jp/ir/library/annual/ 統合報告書2025（PDF：33.9MB／全168ページ）2026未掲
 404 https://global.toyota/pages/global_toyota/ir/library/annual/2026_001_integrated_jp.pdf
 404 https://global.toyota/pages/global_toyota/ir/library/annual/2026_001_integrated_en.pdf
 200 https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf 35488119 Last-Modified Fri, 03 Apr 2026 02:00:02 GMT ETag 6f429b141f4b80d241e2ebd43b35c08f-7
 200 https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf 32257390 Last-Modified Fri, 03 Apr 2026 02:00:02 GMT ETag 38c6c7536f07e5864b11e71518d075f2-7
-200 https://global.toyota/jp/sustainability/report/sdb/ 主な更新箇所（2026年6月） dateStr 2026年06月29日 年2回（6月およみ09月） 9月定例未掲
+200 https://global.toyota/jp/sustainability/report/sdb/ 主な更新箇所（2026年6月） 年2回（6月および09月） 9月定例未掲
 404 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb27_jp.pdf
 404 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp_09.pdf
 200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf 11691278 Last-Modified Mon, 29 Jun 2026 04:00:04 GMT ETag 5d99d52f54b74bd6c67520210d322c83-3
@@ -17,10 +17,10 @@ checked:
 403 https://www.toyota.com.au/explore/corporate/investors/past-reports Cloudflare challenge
 200 https://www.hino.co.jp/corp/news/2026/ 20260908-* 404 最新 20260907-004742 次行 20260903-004725
 200 https://www.hino.co.jp/corp/for_investors/disclosure/2026.html 9月新規行なし 最新行 2026-03-27 15:30
-200 https://www.hino.co.jp/corp/news/2026/20260729-004717.shtml リエッセII
-200 https://www.hino.co.jp/corp/news/2026/20260716-004711.shtml プロフィア
-200 https://www.hino.co.jp/corp/news/2026/20260723-004716.shtml ダブル連結コミュニティ
-200 https://www.hino.co.jp/corp/news/2026/20260520-004697.shtml セレガ
-200 https://www.hino.co.jp/corp/news/2026/20260602-004699.shtml デュトロ Z EV
+200 https://www.hino.co.jp/corp/for_investors/financial_statements/assets/334290270feed1e224ecffe5833cc9f4.pdf 372838 Last-Modified Mon, 16 Feb 2026 05:44:10 GMT
+200 https://www.hino.co.jp/corp/for_investors/disclosure/assets/b5b76d7ff472dd2953732cf6bd91a92d.pdf 271160 3Q短信
+200 https://www.hino.co.jp/corp/news/assets/20260701_archion_newsrelease_JP.pdf 832576 Last-Modified Tue, 30 Jun 2026 09:27:31 GMT
+200 https://www.hino.co.jp/corp/news/2026/20260716-004713.shtml 日野市包括連携
+200 https://www.hino.co.jp/corp/news/assets/20260730_archion_newsrelease_JP.pdf 1158466 Last-Modified Thu, 30 Jul 2026 00:08:36 GMT
 200 https://www.hino.co.jp/corp/for_investors/pdf/integrated_report/integrated_report_2025_jp.pdf 26543734 Last-Modified Mon, 16 Feb 2026 05:46:23 GMT
-theme: hino-ir-pass18
+theme: hino-ir-pass19
