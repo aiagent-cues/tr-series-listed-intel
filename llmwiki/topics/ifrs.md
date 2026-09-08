@@ -9,6 +9,7 @@ sources:
   - https://www.sec.gov/Archives/edgar/data/1094517/000119312526264811/0001193125-26-264811-index.htm
   - https://www.hino.co.jp/corp/for_investors/financial_results/
   - https://www.toyota-hamura.co.jp/company/profile/
+  - https://www.hino-cs.com/company/
 tags: [ifrs, accounting, training, 20-f, hino, j-gaap]
 ---
 
@@ -29,3 +30,4 @@ TMCの連結財務は **IFRS Accounting Standards**（IASB、未留保の準拠�
 ## 日野側の基準差（混同禁止）
 日野7205の決算短信は日本基準。ARCHION 543A のFY2027開示はIFRS。TMC 20-F（IFRS 5）と足してはならない。
 羽村移管後法人の資本金・人員・敷地は日野短信の「精査中」額と別物。法人公式は[[sources/hino-ir-pass8]]。
+HCS年商 22,897百万円（2025年度）と資本金 30百万円は子会社単体の公式会社概要であり、TMC連結IFRSの注記金額ではない。[[sources/hino-ir-pass9]]。

@@ -19,8 +19,8 @@ tags: [integrated-report]
 - 英PDF: https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf
 - 抽出: [[sources/integrated-report-2025]] 〜 [[sources/integrated-report-2025-pass19]]
 
-## 時点（2026-09-08 17:00 JST確認）
-- 同日 17:00 は(1)(2)新事実なし。(3)20-F/A未掲。(5)羽村移管後公式サイトへ移行。[[sources/hino-ir-pass8]]
+## 時点（2026-09-08 18:09 JST確認）
+- 同日 18:09 は(1)(2)(3)(4)新事実なし。(5)古河自然共生サイトとHCS物流展を一次抽出。[[sources/hino-ir-pass9]]
 - 登録頁表示: 統合報告2025、PDF 33.9MB / 全168ページ。統合報告2026は未掲載。2026_001_integrated_jp.pdf / _en.pdf は 404。
 - HTTP Last-Modified（日英共通）: Fri, 03 Apr 2026 02:00:02 GMT。日 35,488,119 bytes、英 32,257,390 bytes。差替なし。TCFD円額未掲。
 
