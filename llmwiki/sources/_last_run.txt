@@ -1,4 +1,4 @@
-Tue Sep  8 08:00:00 JST 2026
+Tue Sep  8 09:00:00 JST 2026
 checked:
 200 https://global.toyota/jp/ir/library/annual/ 統合報告書2025（PDF：33.9MB／全168ページ） dateStr 2026年02月27日 2026未掲
 404 https://global.toyota/pages/global_toyota/ir/library/annual/2026_001_integrated_jp.pdf
@@ -16,4 +16,4 @@ checked:
 403 https://www.toyota.com.au/explore/corporate/investors/past-reports Cloudflare challenge
 200 https://www.hino.co.jp/corp/news/2026/ 直近 2026-09-07 メルファ / 2026-09-03 展示 / 2026-08-31 ダカール2027 工場非掲
 200 https://www.hino.co.jp/corp/for_investors/disclosure/2026.html 9月新規行なし
-theme: 20f-2026-notes-pass26
+theme: 20f-2026-notes-pass27
