@@ -27,6 +27,15 @@
 ## 2026-09-09 JST 00:38 タイムボックス（1h分）
 - 選定: 優先(1)統合報告2025。登録頁に2026未掲。日PDF HEAD不変（35,488,119 / Last-Modified Fri, 03 Apr 2026 02:00:02 GMT / ETag 6f429b141f4b80d241e2ebd43b35c08f-7）。TCFD円額未掲。第17パスがp112-113/p145-155再抽出不要と明示。(2) SDB登録頁は主な更新箇所（2026年6月）。sdb26_jp HEAD不変 11,691,278 / Last-Modified Mon, 29 Jun 2026 04:00:04 GMT。sdb27 / sdb26_jp_09 は404。9月定例未掲。(3) 20-F/Aは404。Exhibitはpass35まで処理済。(4) toyota.com.au は403。
 - 実施: (5) 前パス未処理の公式ニュース2026-08-18〜09-07を一次抽出（メルファ / ブルーリボン・レインボー / HCS Logita約50万台 / ダカール2027 / バス協会AI実証）。
-- 新事実の核: メルファ例示型式 RR2AJDV-E X UDAQC、A05C 162kW/220PS、税込25,976,500円。ブルーリボン 2WG-KV290Q5-QN7 税込33,159,390円 / レインボー 2WG-KR290J6-PN7 税込29,768,200円。HCS Logitaは日野・ふそうコネクティッド全国約50万台。ダカール2027は2027-01-01〜15・HINO600ベース・販売会社選抜32社67名累計。バス協会AI実証は2026-09〜12、6社スケジュール。
-- 出力: `llmwiki/sources/hino-ir-pass16.md`。index / WORKLOG / _meta / sources/integrated-report / topics/ifrs / sources/hino-ir / _last_run 更新。
-- 次: (1)2026統合報・TCFD円額、(2)9月SDB、(3)20-F/Aは公式未掲。(4)TMCA PPE未掲。(5)羽村精査確定値・FY2026有報工場別PPE・ARCHION工場PPE・電気小型日野側車名・NZ訴訟裁判所承認確定日・PL888管轄・HINO統合報告2025本文PPE。
+- 出力: `llmwiki/sources/hino-ir-pass16.md`。
+
+## 2026-09-09 JST 01:13 タイムボックス（1h分）
+- 選定: (1)–(4)差替なし。(5) HINO統合報告2025本文のp16国内3工場集約2028年末・p61連結PPE。
+- 出力: `llmwiki/sources/hino-ir-pass17.md`。
+
+## 2026-09-09 JST 03:09 タイムボックス（1h分）
+- 選定: 優先(1)統合報告2025。登録頁に2026未掲。日PDF HEAD不変（35,488,119 / Last-Modified Fri, 03 Apr 2026 02:00:02 GMT / ETag 6f429b141f4b80d241e2ebd43b35c08f-7）。TCFD円額未掲。(2) SDB登録頁は主な更新箇所（2026年6月）。頁メタ dateStr 2026年06月29日（足元8月日付はニュースウィジェット）。sdb26_jp HEAD不変 11,691,278 / Last-Modified Mon, 29 Jun 2026 04:00:04 GMT。sdb27 / sdb26_jp_09 は404。9月定例未掲。(3) 20-F/Aは404。(4) toyota.com.au は403。
+- 実施: (5) 前パス未転記の公式ニュース2026-05-20–07-29（リエッセⅡ / プロフィア / セレガ / デュトロ Z EV / ダブル連結コミュニティ）。
+- 新事実の核: リエッセⅡ EX GDB110M-ZRTQH 税抜9,865,000円 / GX GDB110M-ZRTEY 税抜8,396,100円。プロフィア 2WG-FW1AHG 25t・2WG-SH1EDGJ 11.5t。セレガ RU1ASDY-FRDDAC 税込50,952,110円。デュトロ Z EV ZAB-XED100V-AAAAA WLTC184km / 46.7kWh / 累計販売2000台以上。ダブル連結コミュニティ発足2026-07-23・11社。
+- 出力: `llmwiki/sources/hino-ir-pass18.md`。index / WORKLOG / _meta / sources/integrated-report / topics/ifrs / sources/hino-ir / _last_run 更新。
+- 次: (1)2026統合報・TCFD円額、(2)9月SDB、(3)20-F/Aは公式未掲。(4)TMCA PPE未掲。(5)羽村精査確定値・FY2026有報工場別PPE・ARCHION工場PPE・電気小型のふそう供給侧車名・NZ訴訟裁判所承認確定日・PL888管轄。
