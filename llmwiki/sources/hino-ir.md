@@ -14,8 +14,8 @@ tags: [hino, 7205, ir, archion, 543A, primary, j-gaap]
 
 # 日野自動車IR（一次抽出）
 
-調査時点: 2026-09-08 13:10 JST。詳細は[[sources/hino-ir-pass2]]〜[[sources/hino-ir-pass7]]。
-適時開示2026頁に9月新規行なし（最新日付行は2026-03-27）。ニュース直近は 2026-09-07 メルファ、 2026-09-03 展示（工場・PPE非掲）。20260908-* は404。
+調査時点: 2026-09-08 14:06 JST。詳細は[[sources/hino-ir-pass2]]〜[[sources/hino-ir-pass7]]。
+適時開示2026頁に9月新規行なし（最新日付行は2026-03-27 15:30）。ニュース20260908-004740〜004754は404。
 
 TMC Form 20-F Item 4.B Legal Proceedings: 2026-03-31の議決権持分 66.16%。FY2025に関連費用 281,140百万円。効力 2026-04-01 にMFTBC統合で連結除外。確認記録は[[sources/20f-2026-notes-pass32]]。時系列の提起・解和日は[[sources/20f-2026-notes-pass3]]。
 

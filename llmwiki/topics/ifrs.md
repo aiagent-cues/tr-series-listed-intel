@@ -12,17 +12,18 @@ tags: [ifrs, accounting, training, 20-f, hino, j-gaap]
 
 # IFRS（TRシリーズ訓練トピック）
 
-TMCの連結財務は **IFRS Accounting Standards**（IASB、未留保の準拠表明）。一次テキストは Form 20-F FY2026 注記（[[sources/20f-2026-notes]] 〜 [[sources/20f-2026-notes-pass32]]）。
+TMCの連結財務は **IFRS Accounting Standards**（IASB、未留保の準拠表明）。一次テキストは Form 20-F FY2026 注記（[[sources/20f-2026-notes]] 〜 [[sources/20f-2026-notes-pass33]]）。
 
 ## 教材で押さえる要素（FY2026追記）
 | 要素 | TMCでの出方 |
 |---|---|
-| 日野認証の連結費用 | Item 4.B: FY2025に 281,140百万円（米当局・カナダ解和・豪州解和の見積可能分） |
-| Specified Foreign Investor | 外国政府の情報収集に協力義務を負う主体。Specified Core Business Operator への取得は同等主体でもFEFTA事前届出免除不可 |
-| 非居住者配当源泉 | 上場株は原則15.315%（3%以上保有個人等は20.42%）。全体率は2047-12-31まで。2026年税制改正（公布2026-03-31）で2027-01-01から防衛増税を導入し復興増税を縮小 |
-| 米日条約 | Eligible U.S. Holderのポートフォリオ配当は原則10%。年金基金は一定条件で免除 |
+| 日本国外ポートフォリオ譲渡 | 非居住者の普通株式/ADS売却益は原則として日本の所得税・法人税の対象外。Eligible U.S. Holderは必要提出を行えば条約免除 |
+| 相続税・贈与税 | 取得者・被相続人・贈与者が非居住でも課され得る。税率表は20-F非掲 |
+| PFIC | TMCはFY2026についてPFICではないと考える。子会社のリース・金融のため保証しない |
+| Item 11 市場リスク | 本文に数値表なし。注記3・20・21参照。認識リスクは為替・金利・一定の商品・株式 |
+| ADSプログラム | 預託機関 BNY Mellon。FY2026にTMC/指示先へ $980,058.75。将来の預託機関負担上限 年$300,000 |
 
-前パスの注記1–36・関税・4.D設備・SOX 404・Item 3.D・定款・単位株は [[sources/20f-2026-notes]] 〜 pass31 を正本とする。本更新で再掲しない。
+配当源泉・Specified Foreign Investor・注記1–36は [[sources/20f-2026-notes]] 〜 pass32 を正本とする。本更新で再掲しない。
 
 ## 日野側の基準差（混同禁止）
 日野7205の決算短信は日本基準。ARCHION 543A のFY2027開示はIFRS。TMC 20-F（IFRS 5）と足してはならない。

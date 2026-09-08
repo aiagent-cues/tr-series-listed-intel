@@ -38,3 +38,10 @@
 - 新事実の核: タカタ集団訴訟の係属地はブラジル・アルゼンチン。豪州DPFは High Court 2024-11-06 が価値低下額計算を一審差戻し、その他請求は一審係属、見積流出は重要性なし。タイ子会社贈賄は2020-04自己申告、2025-06にDOJ・SECが調査終了。日野関連のTMC連結費用は FY2025 281,140百万円。Specified Foreign Investor は外国政府の情報収集に協力義務を負う主体。Specified Core Business Operator への取得は同等主体でも免除不可。不適格は制裁歴・一定の国有企業・SFI。2026年税制改正（公布2026-03-31）で防衛増税を導入し復興増税を縮小、上場配当の非居住者源泉は全体15.315%/20.42%を2047-12-31まで維持（内訳切替は2027-01-01）。米日条約のポートフォリオ配当は原則10%。10.F/G/I/Jは Not applicable。
 - 出力: `llmwiki/sources/20f-2026-notes-pass32.md`。index / WORKLOG / _meta / sources/integrated-report / topics/ifrs / sources/hino-ir / _last_run 更新。
 - 次: (1)2026統合報・TCFD円額、(2)9月SDB、(3)20-F/Aは公式未掲。残は Item 10.E 譲渡益・ADS・相続と Item 11 本文表。(4)TMCA PPE未掲（サイト帰還待ち）。(5)羽村精査確定・eLDT車名工場・工場別PPE。
+
+## 2026-09-08 JST 14:06 タイムボックス（1h分）
+- 選定テーマ: 優先(1) 統合報告2025。登録頁に2026未掲。2026_001 日英とも404。日PDF HEAD不変（35,488,119 / Last-Modified 2026-04-03 02:00:02 GMT / ETag 6f429b141f4b80d241e2ebd43b35c08f-7）。英 32,257,390 / 同日。TCFD円額未掲。(2) SDB sdb26_jp HEAD不変（11,691,278 / 2026-06-29 04:00:04 GMT）。sdb27 / sdb26_jp_09 は404。9月定例未掲。
+- 実施: (3) 20-F/Aは404。英登録頁 Amendment 列は No。未転記だった Item 10.E 譲渡益・ADS・相続と Item 11を一次抽出。Item 11本文に数値表は無く注記20参照のみのため Item 12.D ADS手数料も抽出。(4) toyota.com.au は403。(5) 日野適時開示2026頁に9月新規行なし。20260908-004740〜004754は404。
+- 新事実の核: 日本国外でのポートフォリオ売却益は原則非課税。Eligible U.S. Holderは必要提出を行えば条約免除。相続税・贈与税は取得者・被相続人・贈与者が非居住でも課され得る。ADS条約軽減は配当支払前と1通と基準日から8か月以内の1通。TMCはFY2026についてPFICではないと考えるが保証しない。backup withholding 現行24%。branch profits tax 原則30%。Item 11の数値表は注記20が正本。預託機関 BNY Mellon。FY2026に預託機関がTMC/指示先へ支払った合計 $980,058.75。将来の預託機関負担上限 年$300,000。Item 12.A–C / 13 / 14 は Not applicable または None。
+- 出力: `llmwiki/sources/20f-2026-notes-pass33.md`。index / WORKLOG / _meta / sources/integrated-report / topics/ifrs / sources/hino-ir / _last_run 更新。
+- 次: (1)2026統合報・TCFD円額、(2)9月SDB、(3)20-F/Aは公式未掲。残は Item 15以降の未転記があれば別パス。(4)TMCA PPE未掲（サイト帰還待ち）。(5)羽村精査確定・eLDT車名工場・工場別PPE。
