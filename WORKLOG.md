@@ -38,7 +38,7 @@
 - 実施: (5) 前パス未転記の公式ニュース2026-05-20–07-29（リエッセⅡ / プロフィア / セレガ / デュトロ Z EV / ダブル連結コミュニティ）。
 - 新事実の核: リエッセⅡ EX GDB110M-ZRTQH 税抜9,865,000円 / GX GDB110M-ZRTEY 税抜8,396,100円。プロフィア 2WG-FW1AHG 25t・2WG-SH1EDGJ 11.5t。セレガ RU1ASDY-FRDDAC 税込50,952,110円。デュトロ Z EV ZAB-XED100V-AAAAA WLTC184km / 46.7kWh / 累計販売2000台以上。ダブル連結コミュニティ発足2026-07-23・11社。
 - 出力: `llmwiki/sources/hino-ir-pass18.md`。index / WORKLOG / _meta / sources/integrated-report / topics/ifrs / sources/hino-ir / _last_run 更新。
-- 次: (1)2026統合報・TCFD円額、(2)9月SDB、(3)20-F/Aは公式未掲。(4)TMCA PPE未掲。(5)羽村精査確定値・FY2026有報工場別PPE・ARCHION工場PPE・電気小型のふそう供給侧車名・NZ訴訟裁判所承認確定日・PL888管轄。
+- 次: (1)2026統合報・TCFD円額、(2)9月SDB、(3)20-F/Aは公式未掲。(4)TMCA PPE未掲。(5)羽村精査確定値・FY2026有報工場別PPE・ARCHION工場PPE・電気小型のふそう供給侨車名・NZ訴訟裁判所承認確定日・PL888管轄。
 
 ## 2026-09-09 JST 04:09 タイムボックス（1h分）
 - 選定: (1)–(4)差替なし。日統合報PDF 35,488,119 / Last-Modified Fri, 03 Apr 2026 02:00:02 GMT。sdb26_jp 11,691,278 / Last-Modified Mon, 29 Jun 2026 04:00:04 GMT。sdb27 / sdb26_jp_09 / 20-FA 404。toyota.com.au 403。
@@ -53,3 +53,10 @@
 - 新事実の核: 古河工場 2026-01-23 1日停止（部品供給不足・台数非掲）。リエッセⅡ 2026-01-22 税抜 EX 9,490,000円 / GX 8,025,000円（7月改良後は9,865,000 / 8,396,100）。ふそう製小型電動OEMは車両総重量3.5トン超・国内・2026年度中生産開始予定・日野側車名非掲。中型OEMは2026年内生産開始予定。古河市協定の市長は針谷力。
 - 出力: `llmwiki/sources/hino-ir-pass20.md`。index / WORKLOG / _meta / sources/integrated-report / topics/ifrs / sources/hino-ir / _last_run 更新。
 - 次: (1)2026統合報・TCFD円額、(2)9月SDB、(3)20-F/A未掲。(4)TMCA PPE未掲。(5)羽村精査確定値・FY2026有報工場別PPE・ARCHION工場PPE・小型電動の日野側車名・NZオークランド承認確定日・現地通貨総額・PL888管轄。
+
+## 2026-09-09 JST 06:09 タイムボックス（1h分）
+- 選定: (1)–(4)差替なし。日統合報PDF 35,488,119 / Last-Modified Fri, 03 Apr 2026 02:00:02 GMT。sdb26_jp 11,691,278 / Last-Modified Mon, 29 Jun 2026 04:00:04 GMT。sdb27 / sdb26_jp_09 / 20-FA 404。toyota.com.au 403。
+- 実施: (5) 前パス未転記の適時開示・公式PDF（2026-02-26 公取委通知 / 2026-02-27 自己株式消却 / 2026-03-30 4/1役員 / 2026-04-01 ARCHION本社住所 / 2026-03-24 NLJ解散 / 2026-01-16 HOTAI譲渡価格）。
+- 新事実の核: 公取委は問題解消措置を条件に排除措置命令なし。自己株式は2026-04-01基準時に全部消却（2025-09-30 426,984株 / 0.07%）。日野4/1取締役はアーリャ / 佐藤直樹 / 中野靖 / デュルスト。ARCHION本社は西品川1-1-1 住友不動産大崎ガーデンタワー（設立2025-06-02）。NLJ解散・混載運行は鈴与へ。HOTAI譲渡価格 31,384百万円（持分2.0%、TWD/JPYは三菱UFJ平均）。
+- 出力: `llmwiki/sources/hino-ir-pass21.md`。index / WORKLOG / _meta / sources/integrated-report / topics/ifrs / sources/hino-ir / _last_run 更新。
+- 次: (1)2026統合報・TCFD円額、(2)9月SDB、(3)20-F/A未掲。(4)TMCA PPE未掲。(5)羽村精査確定値・FY2026有報工場別PPE・ARCHION工場PPE・小型電動の日野側車名・NZオークランド承認確定日・現地通貨総額・PL888管轄・公取委問題解消措置本文。
