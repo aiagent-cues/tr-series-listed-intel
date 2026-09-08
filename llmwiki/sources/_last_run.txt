@@ -1,4 +1,4 @@
-Tue Sep  8 15:10:00 JST 2026
+Tue Sep  8 16:00:00 JST 2026
 checked:
 200 https://global.toyota/jp/ir/library/annual/ 統合報告書2025（PDF：33.9MB／全168ページ） 2026未掲
 404 https://global.toyota/pages/global_toyota/ir/library/annual/2026_001_integrated_jp.pdf
@@ -13,9 +13,10 @@ checked:
 200 https://global.toyota/en/ir/library/sec/ Year Ended Mar 31, 2026 Form 20-F 5.01 MB / 264 pp. Amendment No
 200 https://global.toyota/jp/ir/library/sec/
 200 https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf 5259321 Last-Modified Thu, 11 Jun 2026 01:00:01 GMT ETag b0e64e363ef4dc1f9b21441333eb0c8d-2
+200 https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202403_final.pdf 4164579 Last-Modified Tue, 25 Jun 2024 11:40:01 GMT ETag 93d75bc1fab953f854902fbbf09ac5d6
 404 https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final_amendment.pdf
 404 https://global.toyota/pages/global_toyota/ir/library/sec/20-FA_202603_final.pdf
 403 https://www.toyota.com.au/explore/corporate/investors/past-reports Cloudflare challenge
-200 https://www.hino.co.jp/corp/news/2026/ 20260908-004740-004755 404 工場非掲
+200 https://www.hino.co.jp/corp/news/2026/ 20260908-004740-004760 404 最新 20260907-004742
 200 https://www.hino.co.jp/corp/for_investors/disclosure/2026.html 9月新規行なし 最新行 2026-03-27 15:30
-theme: 20f-2026-notes-pass34
+theme: 20f-2026-notes-pass35
