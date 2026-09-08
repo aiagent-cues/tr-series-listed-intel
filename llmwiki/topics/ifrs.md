@@ -8,7 +8,8 @@ sources:
   - https://www.hino.co.jp/corp/for_investors/financial_results/
   - https://www.hino.co.jp/corp/for_investors/financial_statements/assets/334290270feed1e224ecffe5833cc9f4.pdf
   - https://www.hino.co.jp/corp/for_investors/disclosure/assets/b5b76d7ff472dd2953732cf6bd91a92d.pdf
-  - https://www.hino.co.jp/corp/news/assets/20260311_JP_1.pdf
+  - https://www.hino.co.jp/corp/for_investors/disclosure/assets/631362651067f14f3a9ee9ce26119b99.pdf
+  - https://www.hino.co.jp/corp/for_investors/disclosure/assets/7370bc2d02efaebd3335641dd65f725c.pdf
 tags: [ifrs, accounting, training, 20-f, hino, j-gaap, archion]
 ---
 
@@ -24,3 +25,4 @@ ARCHION 2026-08-26公式の統合プラットフォーム供給は商品方針�
 2026-05-20–07-29の公式商品ニュース（リエッセⅡ／プロフィア／セレガ／デュトロ Z EV／ダブル連結コミュニティ）も商品事実であり、TMC IFRS注記および日野連結PPEと足さない。[[sources/hino-ir-pass18]]。
 FY2026半期報・3Q短信のNZ訴訟解和金959百万円・PL訴訟解和金888百万円は日本基準の特別損失であり、TMC 20-Fの固定資産注記と足さない。裁判所承認は3Q時点未了。[[sources/hino-ir-pass19]]。
 2026-01-22古河運転停止・2026-03-11 小型電動OEM（車両総重量3.5トン超・2026年度中）は運用・商品事実であり、TMC IFRS注記および日野連結PPEと足さない。[[sources/hino-ir-pass20]]。
+2026-02-26公取委通知・2026-04-01自己株式消却・HOTAI譲渡価格31,384百万円は日本基準の資本・特別利益に係る事実であり、TMC IFRS注記および日野連結PPEと足さない。[[sources/hino-ir-pass21]]。

@@ -1,10 +1,12 @@
-Wed Sep  9 05:06:00 JST 2026
+Wed Sep  9 06:09:00 JST 2026
 checked:
 200 https://global.toyota/jp/ir/library/annual/index.html
 200 https://global.toyota/jp/sustainability/report/sdb/
 200 https://global.toyota/en/ir/library/sec/
 200 https://www.hino.co.jp/corp/news/2026/
-200 https://www.hino.co.jp/corp/news/assets/20260311_JP_1.pdf
+200 https://www.hino.co.jp/corp/for_investors/disclosure/assets/631362651067f14f3a9ee9ce26119b99.pdf
+200 https://www.hino.co.jp/corp/news/assets/20260330_JP.pdf
+200 https://www.hino.co.jp/corp/news/assets/20260401_JP.pdf
 404 https://global.toyota/pages/global_toyota/ir/library/annual/2026_001_integrated_jp.pdf
 404 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb27_jp.pdf
 403 https://www.toyota.com.au/explore/corporate/investors/past-reports
