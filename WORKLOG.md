@@ -31,3 +31,10 @@
 - 新事実の核: 認証事案は日野2022-03・ダイハツ2023-04。TMCはMLIT指示2024-01-26、報告2024-05-31（7車種・2014年以降）、春正命令2024-07、新規8件/7車種、再発防止2024-08。米国関税は2025年引き上げ後提出日時点も存続。発行可能 50,000,000,000 / 発行済 15,794,987,460（2026-03-31）。自己株 1,200,000,000株を 2026-06-30 消却発表（約 7.6%）。単位株 100株。振替代理 三菱UFJ信託。FEFTAは財務省リスト 2025-07-15 でコア業種指定業（2025-04-04公布 / 2025-05-19施行）。
 - 出力: `llmwiki/sources/20f-2026-notes-pass31.md`。index / WORKLOG / _meta / sources/integrated-report / topics/ifrs / sources/hino-ir / _last_run 更新。
 - 次: (1)2026統合報・TCFD円額、(2)9月SDB、(3)20-F/Aは公式未掲。残は Item 4.B Legal Proceedings 本文と Item 10.D Specified Foreign Investor 以降・Item 10.E–H。(4)TMCA PPE未掲（サイト帰還待ち）。(5)羽村精査確定・eLDT車名工場・工場別PPE。
+
+## 2026-09-08 JST 13:10 タイムボックス（1h分）
+- 選定テーマ: 優先(1) 統合報告2025。登録頁に2026未掲。2026_001 日英とも404。日PDF HEAD不変（35,488,119 / Last-Modified 2026-04-03 02:00:02 GMT / ETag 6f429b141f4b80d241e2ebd43b35c08f-7）。英 32,257,390 / 同日。TCFD円額未掲。(2) SDB sdb26_jp HEAD不変（11,691,278 / 2026-06-29 04:00:04 GMT）。sdb27 / sdb26_jp_09 は404。9月定例未掲。
+- 実施: (3) 20-F/Aは404。英登録頁 Amendment 列は No。未転記だった Item 4.B Legal Proceedings 本文と Item 10.D Specified Foreign Investor 以降・Item 10.E–J を一次抽出。(4) toyota.com.au は403。(5) 日野適時開示2026頁に9月新規行なし。20260908-* は404。
+- 新事実の核: タカタ集団訴訟の係属地はブラジル・アルゼンチン。豪州DPFは High Court 2024-11-06 が価値低下額計算を一審差戻し、その他請求は一審係属、見積流出は重要性なし。タイ子会社贈賄は2020-04自己申告、2025-06にDOJ・SECが調査終了。日野関連のTMC連結費用は FY2025 281,140百万円。Specified Foreign Investor は外国政府の情報収集に協力義務を負う主体。Specified Core Business Operator への取得は同等主体でも免除不可。不適格は制裁歴・一定の国有企業・SFI。2026年税制改正（公布2026-03-31）で防衛増税を導入し復興増税を縮小、上場配当の非居住者源泉は全体15.315%/20.42%を2047-12-31まで維持（内訳切替は2027-01-01）。米日条約のポートフォリオ配当は原則10%。10.F/G/I/Jは Not applicable。
+- 出力: `llmwiki/sources/20f-2026-notes-pass32.md`。index / WORKLOG / _meta / sources/integrated-report / topics/ifrs / sources/hino-ir / _last_run 更新。
+- 次: (1)2026統合報・TCFD円額、(2)9月SDB、(3)20-F/Aは公式未掲。残は Item 10.E 譲渡益・ADS・相続と Item 11 本文表。(4)TMCA PPE未掲（サイト帰還待ち）。(5)羽村精査確定・eLDT車名工場・工場別PPE。
