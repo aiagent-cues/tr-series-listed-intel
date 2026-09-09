@@ -12,7 +12,8 @@ sources:
   - https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf
   - https://archion.co.jp/media/20260601_archion_ir_convocation_jp.pdf
   - https://www.toyota-hamura.co.jp/company/profile/
-tags: [ifrs, accounting, training, 20-f, hino, j-gaap, archion]
+  - https://www.jftc.go.jp/houdou/pressrelease/2026/jun/260619_kiketsu_hm_shosai.pdf
+tags: [ifrs, accounting, training, 20-f, hino, j-gaap, archion, jftc]
 ---
 
 # IFRS（TRシリーズ訓練トピック）
@@ -26,3 +27,6 @@ TMCの連結財務は **IFRS Accounting Standards**（IASB、未留保の準拠�
 ## 羽村分割の層（2026-09-09 08:06 JST）
 出典: [[sources/hino-ir-pass23]]。ARCHION招集の日野参考情報は日本基準側の後発事象。招集冒頭のARCHION 2026年度見通し（売上2兆24,250億円・営利1,100億円）はIFRSプロフォーマ。足さない。
 羽村公式の資本金85億円は承継会社・TMC100%子の確定値。分割対価・PPE帳簿は未掲。
+
+## 公取委措置と持分（2026-09-09 09:09 JST）
+出典: [[sources/hino-ir-pass24]]。トヨタのARCHION議決権を実行後すみやかに20%未満へ引下げる措置は競争法上の結合関係の弱めであり、TMC 20-Fの子会社一覧と自動的に等置しない。完了日・売却代金は公取委PDFに非掲。
