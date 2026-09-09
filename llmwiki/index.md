@@ -29,6 +29,8 @@ sources:
   - https://tdnet-pdf.kabutan.jp/20260722/140120260722597166.pdf
   - https://f.irbank.net/pdf/E02144/hoyu/S100YXR7.pdf
   - https://f.irbank.net/pdf/E41594/hoyu/S100YY0Y.pdf
+  - https://www.hino.co.jp/corp/for_investors/financial_results/assets/88902ee2dd396a6ce60862ec556375c5.pdf
+  - https://www.hino-global.com/corp/for_investors/disclosure/assets/de63e57c29b6d9ee8048a9a5ccc329f6.pdf
   - https://www.jftc.go.jp/houdou/pressrelease/2026/feb/260226kiketsu_hm.html
   - https://www.jftc.go.jp/houdou/pressrelease/2026/jun/260619_kiketsu_hm_shosai.pdf
   - https://www.ccs.gov.sg/case-register/public-register/mergers-and-acquisitions/proposed-merger-between-hino-motors-limited-and-mitsubishi-fuso-truck-and-bus-corporation/
@@ -76,6 +78,7 @@ tags: [hub, toyota, training]
 - [[sources/hino-ir-pass27]]
 - [[sources/hino-ir-pass28]]
 - [[sources/hino-ir-pass29]]
+- [[sources/hino-ir-pass30]]
 - [[sources/news-2026]]
 
 ## 訓練

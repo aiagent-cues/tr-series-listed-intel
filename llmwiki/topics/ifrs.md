@@ -14,8 +14,10 @@ sources:
   - https://tdnet-pdf.kabutan.jp/20260722/140120260722597166.pdf
   - https://f.irbank.net/pdf/E02144/hoyu/S100YXR7.pdf
   - https://f.irbank.net/pdf/E41594/hoyu/S100YY0Y.pdf
+  - https://www.hino.co.jp/corp/for_investors/financial_results/assets/88902ee2dd396a6ce60862ec556375c5.pdf
+  - https://www.hino-global.com/corp/for_investors/disclosure/assets/de63e57c29b6d9ee8048a9a5ccc329f6.pdf
   - https://www.jftc.go.jp/houdou/pressrelease/2026/jun/260619_kiketsu_hm_shosai.pdf
-tags: [ifrs, accounting, training, 20-f, hino, j-gaap, archion, jftc, ppa, offering, greenshoe]
+tags: [ifrs, accounting, training, 20-f, hino, j-gaap, archion, jftc, ppa, offering, greenshoe, settlement]
 ---
 
 # IFRS（TRシリーズ訓練トピック）
@@ -24,6 +26,9 @@ TMCの連結財務は **IFRS Accounting Standards**。一次は Form 20-F FY2026
 
 ## 日野側の基準差（混同禁止）
 日野7205の決算短信・有報・半期報は日本基準。ARCHION 543A のFY2027開示はIFRS。TMC 20-Fと足してはならない。
+
+## PL訴訟888とNZ959（2026-09-09 14:21 JST）
+出典: [[sources/hino-ir-pass30]]。日野FY2026 Q3短信（日本基準）の特別損失。PL訴訟和解金 888百万円（英: product liability）とNZ訴訟和解金 959百万円は別行。NZの原則和解金は NZD 10.9 million（開示概算980百万円）。超等裁判所承認前の計上。羽村1,500億円・負ののれん・売出代金と足さない。
 
 ## グリーンシュー全株行使（2026-09-09 13:13 JST）
 出典: [[sources/hino-ir-pass29]]。EDINET変更報告書No.2（S100YXR7 / S100YY0Y）。上限118,178,300株を全株行使。トヨタ59,089,100株×249.6円、ダイムラー59,089,200株×249.60円。決済2026-08-19。発行済ベース各25.00%。議決権19.9%/26.7%はA種を除いた層で不変。売却代金はARCHIONには入らない。
