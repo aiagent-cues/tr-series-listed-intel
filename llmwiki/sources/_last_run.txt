@@ -1,29 +1,6 @@
-Wed Sep  9 14:21:00 JST 2026
+Wed Sep  9 19:37:49 UTC 2026
 checked:
-200 https://global.toyota/jp/ir/library/annual/
-200 https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
-200 https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf
-200 https://global.toyota/jp/sustainability/report/sdb/
-200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
-200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_en.pdf
-200 https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf
-404 https://global.toyota/pages/global_toyota/ir/library/annual/2026_001_integrated_jp.pdf
-404 https://global.toyota/pages/global_toyota/ir/library/annual/2026_001_integrated_en.pdf
-404 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb27_jp.pdf
-404 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp_09.pdf
-404 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp_202609.pdf
-404 https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_A.pdf
-cf-html-366699 https://www.toyota.com.au/
-200 https://www.hino.co.jp/corp/for_investors/financial_statements.html
-200 https://www.hino.co.jp/corp/for_investors/disclosure/2026.html
-200 https://www.hino.co.jp/corp/news/2026/
-404 https://www.hino.co.jp/corp/news/2026/20260908-004743.shtml
-404 https://www.hino.co.jp/corp/news/2026/20260909-004744.shtml
-200 https://www.hino.co.jp/corp/for_investors/financial_results/
-200 https://www.hino.co.jp/corp/for_investors/financial_results/assets/88902ee2dd396a6ce60862ec556375c5.pdf
-200 https://www.hino-global.com/corp/for_investors/financial_results/assets/7af459b264169edb4dacf5238ae674ed.pdf
-200 https://www.hino-global.com/corp/for_investors/disclosure/assets/de63e57c29b6d9ee8048a9a5ccc329f6.pdf
-200 https://archion.co.jp/ir/
-200 https://archion.co.jp/ir/library/
-200 https://tdnet-pdf.kabutan.jp/20260722/140120260722597166.pdf
-200 https://tdnet-pdf.kabutan.jp/20260722/140120260722597169.pdf
+200 https://global.toyota/jp/ir/library/annual/index.html
+200 https://global.toyota/jp/newsroom/
+200 https://global.toyota/jp/company/profile/overview/
+200 https://global.toyota/en/sustainability/
