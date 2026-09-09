@@ -18,7 +18,8 @@ sources:
   - https://www.toyota-hamura.co.jp/company/profile/
   - https://www.toyota-hamura.co.jp/product/cars/
   - https://archion.co.jp/media/20260601_archion_ir_convocation_jp.pdf
-tags: [tps, production, oceania, training, hino, hamura]
+  - https://www.jftc.go.jp/houdou/pressrelease/2026/jun/260619_kiketsu_hm_shosai.pdf
+tags: [tps, production, oceania, training, hino, hamura, jftc]
 ---
 
 # 生産管理（TRシリーズ訓練トピック）
@@ -41,6 +42,9 @@ tags: [tps, production, oceania, training, hino, hamura]
 - 現行掲出品目: LC250 / 高機動車 / 1 1/2t / ダイナ / デュトロ / デュトロZEV。敷地 750,000㎡。PPE帳簿未掲。
 - 2024年度生産 191,472台は法人創立前の工場実績。
 
+## 公取委問題解消措置と販売網（2026-09-09 09:09 JST）
+出典: [[sources/hino-ir-pass24]]。工場PPEではない。中型トラックの直営販売会社を2027-04-01まで近畿4府県以外で議決権20%未満へ売却、隣接社は2028-04まで。大型観光バスはスカニア製シャシ向けボディを50ヶ月以内に開発。工場別帳簿・売却代金は非掲。
+
 ## TPS（IR2025 印刷p16-17、豊田章男の解釈）
 出典: [[sources/integrated-report-2025-pass10]]（2026-09-07 07:15 JST）。
 - 自動車以前からの二柱: JITとニンベンのついた自働化。
@@ -51,7 +55,7 @@ tags: [tps, production, oceania, training, hino, hamura]
 
 ## 海洋州
 - 豪州Altona: 2017-10-03に車両生産終了。累計 3,451,115台（1963-2017）。[[sources/oceania-plants]]
-- 調査時点で海洋州にTMC完成車組立工場は無い。toyota.com.au は2026-09-09 08:06時点403。
+- 調査時点で海洋州にTMC完成車組立工場は無い。toyota.com.au は2026-09-09 09:09時点403。
 
 ## 日野連結の生産実績（日本基準短信、ARCHION開示）
 出典: [[sources/hino-ir]]。FY2026（2025-04-01〜2026-03-31）連結生産: トラック・バス 100,473台（前期121,218、△20,745）、トヨタ向け車両 156,748台（前期152,488、+4,260）。羽村は2026-04-01にTMC側へ分割移管。
