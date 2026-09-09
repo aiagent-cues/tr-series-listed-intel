@@ -19,9 +19,9 @@ tags: [integrated-report]
 - 英PDF: https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf
 - 抽出: [[sources/integrated-report-2025]] 〜 [[sources/integrated-report-2025-pass19]]
 
-## 時点（2026-09-09 12:03 JST確認）
+## 時点（2026-09-09 13:13 JST確認）
 - 日 35,488,119 / Last-Modified Fri, 03 Apr 2026 02:00:02 GMT / ETag 6f429b141f4b80d241e2ebd43b35c08f-7。英 32,257,390 / 同日 Last-Modified。差替なし。2026未掲。TCFD円額未掲。
-- 12:03の新事実は優先(5)側。[[sources/hino-ir-pass28]]
+- 13:13の新事実は優先(5)側。[[sources/hino-ir-pass29]]
 
 ## 注意
 元PDFの文言をWikiに転載しない。要約とページ番号、URLのみ記す。

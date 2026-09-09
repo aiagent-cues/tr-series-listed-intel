@@ -27,22 +27,26 @@ sources:
   - https://archion.co.jp/media/20260706_archion_ir_offering_en.pdf
   - https://archion.co.jp/media/2026-07/20260729_archion_newsrelease_JP.pdf
   - https://tdnet-pdf.kabutan.jp/20260722/140120260722597166.pdf
+  - https://f.irbank.net/pdf/E02144/hoyu/S100YXR7.pdf
+  - https://f.irbank.net/pdf/E41594/hoyu/S100YY0Y.pdf
   - https://www.jftc.go.jp/houdou/pressrelease/2026/feb/260226kiketsu_hm.html
   - https://www.jftc.go.jp/houdou/pressrelease/2026/jun/260619_kiketsu_hm_shosai.pdf
   - https://www.ccs.gov.sg/case-register/public-register/mergers-and-acquisitions/proposed-merger-between-hino-motors-limited-and-mitsubishi-fuso-truck-and-bus-corporation/
   - https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/mitsubishi-fuso-truck-and-bus-corporation-mftbc-hino-motors-limited
-tags: [hino, 7205, ir, archion, 543A, primary, j-gaap, hamura, listing, jftc, ppe, ppa, accc, ccs, offering]
+tags: [hino, 7205, ir, archion, 543A, primary, j-gaap, hamura, listing, jftc, ppe, ppa, accc, ccs, offering, greenshoe]
 ---
 
 # 日野自動車IR（一次抽出）
 
-調査時点: 2026-09-09 12:03 JST。詳細は[[sources/hino-ir-pass2]]〜[[sources/hino-ir-pass28]]。
+調査時点: 2026-09-09 13:13 JST。詳細は[[sources/hino-ir-pass2]]〜[[sources/hino-ir-pass29]]。
 適時開示2026頁に9月新規行なし（最新日付行は2026-03-27 15:30）。ニュース20260908-* / 20260909-*は404。
+
+13:13追加: グリーンシューは上限全株 **118,178,300株** を行使（EDINET変更報告書No.2、義務発生2026-08-14、提出2026-08-21、S100YXR7 / S100YY0Y）。トヨタ 59,089,100株・249.6円、ダイムラー 59,089,200株・249.60円。決済2026-08-19。行使後の発行済ベースは各25.00%。詳細[[sources/hino-ir-pass29]]。
 
 12:03追加: ARCHION売出価格は1株 **260円**（TDnet 2026-07-22、140120260722597166）。本売出総額 204,842,482,000円。引受価額は国内 249.6円 / 海外 251.92円。算定基準日終値 304円、ディスカウント 14.47%。国内株数は価格決定時に 380,140,400 株へ振替え。詳細[[sources/hino-ir-pass28]]。
 
-12:00追加: 羽村のトヨタ向け株式譲渡価額は日野FY2025有報の1,500億円（吸収分割自体は対価なし）。ACCCは2025-09-10 Not opposed（豪州に製造組立拠点なし）。CCSは2025-10-07、事件CCS 400-140-2025-004でs.54非抵触。売出し受渡2026-07-29。売出後議決権はトヨタ19.9% / ダイムラートラック26.7%。詳細[[sources/hino-ir-pass27]]。
+12:00追加: 羽村のトヨタ向け株式譲渡価額は日野FY2025有報の1,500億円（吸収分割自体は対価なし）。ACCCは2025-09-10 Not opposed（豪州に製造組立拠点なし）。CCSは2025-10-07、事件CCS 400-140-2025-004でs.54非抵触。売出し受渠2026-07-29。売出後議決権はトヨタ19.9% / ダイムラートラック26.7%。詳細[[sources/hino-ir-pass27]]。
 
 11:01追加: 取得原価は3,950億円（売買最終日終値387円の日野時価総額）。時価純資産（NCI除く）6,282=簿価5,121+PPA447+羽村売却益714。連結PPEはPF 6,176→Q1 5,581億円。オセアニア連結売上台数は1,913（△29%、通期見通し9,000）。詳細[[sources/hino-ir-pass26]]。
 
-FY2026有報工場別PPE・1,500億円の着金日・NZ裁判所承認確定日・PL888管轄・グリーンシュー行使株数は未掲。
+FY2026有報工場別PPE・1,500億円の着金日・NZ裁判所承認確定日・PL888管轄は未掲。
