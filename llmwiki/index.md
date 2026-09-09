@@ -17,6 +17,8 @@ sources:
   - https://www.toyota-hamura.co.jp/company/profile/
   - https://archion.co.jp/ir/library/
   - https://archion.co.jp/media/20260601_archion_ir_convocation_jp.pdf
+  - https://www.jftc.go.jp/houdou/pressrelease/2026/feb/260226kiketsu_hm.html
+  - https://www.jftc.go.jp/houdou/pressrelease/2026/jun/260619_kiketsu_hm_shosai.pdf
 tags: [hub, toyota, training]
 ---
 
@@ -54,6 +56,7 @@ tags: [hub, toyota, training]
 - [[sources/hino-ir-pass21]]
 - [[sources/hino-ir-pass22]]
 - [[sources/hino-ir-pass23]]
+- [[sources/hino-ir-pass24]]
 - [[sources/news-2026]]
 
 ## 訓練
