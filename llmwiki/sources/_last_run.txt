@@ -1,4 +1,4 @@
-Wed Sep  9 11:01:00 JST 2026
+Wed Sep  9 12:00:00 JST 2026
 checked:
 200 https://global.toyota/jp/ir/library/annual/
 200 https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_jp.pdf
@@ -6,8 +6,6 @@ checked:
 200 https://global.toyota/jp/sustainability/report/sdb/
 200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_jp.pdf
 200 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb26_en.pdf
-200 https://global.toyota/jp/sustainability/
-200 https://global.toyota/en/ir/library/sec/
 200 https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202603_final.pdf
 404 https://global.toyota/pages/global_toyota/ir/library/annual/2026_001_integrated_jp.pdf
 404 https://global.toyota/pages/global_toyota/sustainability/report/sdb/sdb27_jp.pdf
@@ -20,12 +18,13 @@ checked:
 200 https://www.hino.co.jp/corp/news/2026/
 404 https://www.hino.co.jp/corp/news/2026/20260908-004743.shtml
 404 https://www.hino.co.jp/corp/news/2026/20260909-004744.shtml
+200 https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf
+200 https://www.hino.co.jp/corp/for_investors/financial_statements/assets/334290270feed1e224ecffe5833cc9f4.pdf
 200 https://archion.co.jp/ir/
-200 https://archion.co.jp/ir/library/
-200 https://archion.co.jp/media/2026-08/20260812_archion_newsrelease_JP.pdf
-200 https://ssl4.eir-parts.net/doc/543A/ir_material2/284717/00.pdf
+200 https://archion.co.jp/media/20260706_archion_ir_offering_en.pdf
+200 https://archion.co.jp/media/2026-07/20260729_archion_newsrelease_JP.pdf
 200 https://ssl4.eir-parts.net/doc/543A/ir_material2/284718/00.pdf
 200 https://ssl4.eir-parts.net/doc/543A/ir_material2/284719/00.pdf
-200 https://ssl4.eir-parts.net/doc/543A/yuho_pdf/S100YK16/00.pdf
-200 https://www.toyota-hamura.co.jp/company/profile/
-200 https://www.jftc.go.jp/houdou/pressrelease/2026/feb/260226kiketsu_hm.html
+200 https://www.ccs.gov.sg/case-register/public-register/mergers-and-acquisitions/proposed-merger-between-hino-motors-limited-and-mitsubishi-fuso-truck-and-bus-corporation/
+200 https://isomer-user-content.by.gov.sg/45/f83f2d59-5be3-4413-8b32-b8e0eed8369c/Grounds%20of%20Decision%20%5BHino-MFTBC%5D.pdf
+403 https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/mitsubishi-fuso-truck-and-bus-corporation-mftbc-hino-motors-limited

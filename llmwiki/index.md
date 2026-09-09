@@ -22,8 +22,13 @@ sources:
   - https://ssl4.eir-parts.net/doc/543A/ir_material2/284718/00.pdf
   - https://ssl4.eir-parts.net/doc/543A/ir_material2/284717/00.pdf
   - https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf
+  - https://www.hino.co.jp/corp/for_investors/financial_statements/assets/334290270feed1e224ecffe5833cc9f4.pdf
+  - https://archion.co.jp/media/20260706_archion_ir_offering_en.pdf
+  - https://archion.co.jp/media/2026-07/20260729_archion_newsrelease_JP.pdf
   - https://www.jftc.go.jp/houdou/pressrelease/2026/feb/260226kiketsu_hm.html
   - https://www.jftc.go.jp/houdou/pressrelease/2026/jun/260619_kiketsu_hm_shosai.pdf
+  - https://www.ccs.gov.sg/case-register/public-register/mergers-and-acquisitions/proposed-merger-between-hino-motors-limited-and-mitsubishi-fuso-truck-and-bus-corporation/
+  - https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/mitsubishi-fuso-truck-and-bus-corporation-mftbc-hino-motors-limited
 tags: [hub, toyota, training]
 ---
 
@@ -64,6 +69,7 @@ tags: [hub, toyota, training]
 - [[sources/hino-ir-pass24]]
 - [[sources/hino-ir-pass25]]
 - [[sources/hino-ir-pass26]]
+- [[sources/hino-ir-pass27]]
 - [[sources/news-2026]]
 
 ## 訓練
