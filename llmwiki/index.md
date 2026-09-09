@@ -19,6 +19,8 @@ sources:
   - https://archion.co.jp/media/20260601_archion_ir_convocation_jp.pdf
   - https://archion.co.jp/media/2026-08/20260812_archion_newsrelease_JP.pdf
   - https://ssl4.eir-parts.net/doc/543A/yuho_pdf/S100YK16/00.pdf
+  - https://ssl4.eir-parts.net/doc/543A/ir_material2/284718/00.pdf
+  - https://ssl4.eir-parts.net/doc/543A/ir_material2/284717/00.pdf
   - https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf
   - https://www.jftc.go.jp/houdou/pressrelease/2026/feb/260226kiketsu_hm.html
   - https://www.jftc.go.jp/houdou/pressrelease/2026/jun/260619_kiketsu_hm_shosai.pdf
@@ -61,6 +63,7 @@ tags: [hub, toyota, training]
 - [[sources/hino-ir-pass23]]
 - [[sources/hino-ir-pass24]]
 - [[sources/hino-ir-pass25]]
+- [[sources/hino-ir-pass26]]
 - [[sources/news-2026]]
 
 ## 訓練
