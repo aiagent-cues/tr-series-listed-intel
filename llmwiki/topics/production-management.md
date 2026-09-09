@@ -8,6 +8,7 @@ sources:
   - https://www.toyota-hamura.co.jp/company/profile/
   - https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf
   - https://ssl4.eir-parts.net/doc/543A/ir_material2/284718/00.pdf
+  - https://tdnet-pdf.kabutan.jp/20260722/140120260722597166.pdf
   - https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/mitsubishi-fuso-truck-and-bus-corporation-mftbc-hino-motors-limited
   - https://www.ccs.gov.sg/case-register/public-register/mergers-and-acquisitions/proposed-merger-between-hino-motors-limited-and-mitsubishi-fuso-truck-and-bus-corporation/
 tags: [tps, production, oceania, training, hino, hamura, archion, accc, ccs]
@@ -29,4 +30,4 @@ tags: [tps, production, oceania, training, hino, hamura, archion, accc, ccs]
 
 ## 海洋州
 - 豪州Altona: 2017-10-03に車両生産終了。[[sources/oceania-plants]]
-- 調査時点で海洋州にTMC完成車組立工場は無い。toyota.com.au トップは2026-09-09 12:00時点403。
+- 調査時点で海洋州にTMC完成車組立工場は無い。toyota.com.au トップは2026-09-09 12:03時点403。
