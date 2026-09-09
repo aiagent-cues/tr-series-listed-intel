@@ -18,6 +18,7 @@ sources:
   - https://www.toyota-hamura.co.jp/company/profile/
   - https://www.toyota-hamura.co.jp/product/cars/
   - https://archion.co.jp/media/20260601_archion_ir_convocation_jp.pdf
+  - https://www.hino.co.jp/corp/for_investors/financial_statements/assets/5350a2c1863b01ca04bd67872054f91b.pdf
   - https://www.jftc.go.jp/houdou/pressrelease/2026/jun/260619_kiketsu_hm_shosai.pdf
 tags: [tps, production, oceania, training, hino, hamura, jftc]
 ---
@@ -39,11 +40,14 @@ tags: [tps, production, oceania, training, hino, hamura, jftc]
 出典: [[sources/hino-ir-pass23]]。
 - 2026-04-01: 日野羽村工場を吸収分割でトヨタ自動車羽村へ移管（契約 2025-11-27）。LC250の製造販売も同日移管。
 - 承継人員 2,744名（ARCHION招集・日野グループ2026-03-31 32,339名のうち）。羽村公式の 5,060名は派遣含み・2026-04時点で、足さない。
-- 現行掲出品目: LC250 / 高機動車 / 1 1/2t / ダイナ / デュトロ / デュトロZEV。敷地 750,000㎡。PPE帳簿未掲。
+- 現行掲出品目: LC250 / 高機動車 / 1 1/2t / ダイナ / デュトロ / デュトロZEV。敷地 750,000㎡。
 - 2024年度生産 191,472台は法人創立前の工場実績。
 
+## FY2025有報の工場別帳簿（2026-09-09 10:09 JST）
+出典: [[sources/hino-ir-pass25]]。時点 2025-03-31、日本基準単体、吸収分割前。合計帳簿（百万円）: 古河 41,678 / 羽村 38,237 / 新田 33,036 / 日野工場 18,669。羽村の土地面積750千㎡は公式HPの75万㎡と一致。当時従業員3,087名は5,060とも2,744と足さない。
+
 ## 公取委問題解消措置と販売網（2026-09-09 09:09 JST）
-出典: [[sources/hino-ir-pass24]]。工場PPEではない。中型トラックの直営販売会社を2027-04-01まで近畿4府県以外で議決権20%未満へ売却、隣接社は2028-04まで。大型観光バスはスカニア製シャシ向けボディを50ヶ月以内に開発。工場別帳簿・売却代金は非掲。
+出典: [[sources/hino-ir-pass24]]。工場PPEではない。中型トラックの直営販売会社を2027-04-01まで近畿4府県以外で議決権20%未満へ売却、隣接社は2028-04まで。大型観光バスはスカニア製シャシ向けボディを50ヶ月以内に開発。売却代金は非掲。
 
 ## TPS（IR2025 印刷p16-17、豊田章男の解釈）
 出典: [[sources/integrated-report-2025-pass10]]（2026-09-07 07:15 JST）。
@@ -55,10 +59,10 @@ tags: [tps, production, oceania, training, hino, hamura, jftc]
 
 ## 海洋州
 - 豪州Altona: 2017-10-03に車両生産終了。累計 3,451,115台（1963-2017）。[[sources/oceania-plants]]
-- 調査時点で海洋州にTMC完成車組立工場は無い。toyota.com.au は2026-09-09 09:09時点403。
+- 調査時点で海洋州にTMC完成車組立工場は無い。toyota.com.au トップは2026-09-09 10:09時点403。取得可能なPast Report PDFはTFAL（金融）でTMCA車両PPEではない。
 
 ## 日野連結の生産実績（日本基準短信、ARCHION開示）
 出典: [[sources/hino-ir]]。FY2026（2025-04-01〜2026-03-31）連結生産: トラック・バス 100,473台（前期121,218、△20,745）、トヨタ向け車両 156,748台（前期152,488、+4,260）。羽村は2026-04-01にTMC側へ分割移管。
 
 ## ARCHION統合プラットフォーム（2026-08-26）
-出典: [[sources/hino-ir-pass6]]。電気小型はふそう既存PFを日野へ供給し、2026年度内生産開始予定。羽村製品頁のデュトロZEVと別物。工場別PPEは公式未掲。
+出典: [[sources/hino-ir-pass6]]。電気小型はふそう既存PFを日野へ供給し、2026年度内生産開始予定。羽村製品頁のデュトロZEVと別物。
