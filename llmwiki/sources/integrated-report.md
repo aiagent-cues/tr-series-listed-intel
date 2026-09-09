@@ -19,10 +19,9 @@ tags: [integrated-report]
 - 英PDF: https://global.toyota/pages/global_toyota/ir/library/annual/2025_001_integrated_en.pdf
 - 抽出: [[sources/integrated-report-2025]] 〜 [[sources/integrated-report-2025-pass19]]
 
-## 時点（2026-09-09 07:03 JST確認）
-- 同日 07:03 は(1)統合報2025・TCFD円額は差替・新掲なし（日 35,488,119 / Last-Modified Fri, 03 Apr 2026 02:00:02 GMT）。(2)はSDB6月PDF差替なしだが、トピックス2026-08-31の貞宝・自然共生6サイトを一次抽出。[[sources/sdb-2026-env-nature-sites]]
-- 登録頁表示: 統合報告2025、PDF 33.9MB / 全168ページ。統合報告2026は未掲載。2026_001_integrated_jp.pdf / _en.pdf は 404。
-- HTTP Last-Modified（日英共通）: Fri, 03 Apr 2026 02:00:02 GMT。日 35,488,119 bytes、英 32,257,390 bytes。差替なし。TCFD円額未掲。
+## 時点（2026-09-09 10:09 JST確認）
+- 日 35,488,119 / Last-Modified Fri, 03 Apr 2026 02:00:02 GMT / ETag 6f429b141f4b80d241e2ebd43b35c08f-7。英 32,257,390 / 同日 Last-Modified。差替なし。2026未掲。TCFD円額未掲。
+- 10:09の新事実は優先(5)側。[[sources/hino-ir-pass25]]
 
 ## 注意
 元PDFの文言をWikiに転載しない。要約とページ番号、URLのみ記す。

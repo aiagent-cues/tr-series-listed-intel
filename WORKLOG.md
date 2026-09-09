@@ -60,3 +60,13 @@
 - 新事実の核: トヨタ議決権を実行後すみやかに20%未満。中型直営販売会社は2027-04-01まで近畿4府県以外を20%未満へ売却、隣接社は2028-04まで。スカニア支援はシェア10%または10年（観光ボディは50ヶ月以内・最長令和12年6月）。監視トラスティは毎年度1回報告。
 - 出力: `llmwiki/sources/hino-ir-pass24.md`。index / WORKLOG / _meta / sources/hino-ir / topics/production-management / topics/ifrs / _last_run 更新。
 - 次: (1)2026統合報・TCFD円額、(2)9月SDB PDF、(3)20-F/A、(4)TMCA PPE、(5)分割対価・工場別PPE・5,060と2,744の差分・NZオークランド承認確定日・PL888・トラスティ氏名・近畿以外売却先商号。
+
+## 2026-09-09 JST 10:09 タイムボックス（1h分）
+- 選定: (1)統合報2025。日PDF 35,488,119 / Last-Modified Fri, 03 Apr 2026 02:00:02 GMT / ETag不変。2026未掲。TCFD円額未掲。新事実なしのため(2)へ。
+- (2) SDB6月PDF差替なし（sdb26_jp 11,691,278 / Last-Modified Mon, 29 Jun 2026 04:00:04 GMT）。sdb27 / sdb26_jp_09 / sdb26_jp_202609 404。貞宝6サイトは07:03既出。新事実なしのため(3)へ。
+- (3) 20-F_202603_final 5,259,321 / Last-Modified Thu, 11 Jun 2026 01:00:01 GMT。20-F/A 404。新事実なしのため(4)へ。
+- (4) toyota.com.au トップ403。Past Reportの直PDFはTFAL FY2026年次が200（2,235,684 / Last-Modified Tue, 30 Jun 2026 02:28:28 GMT）。主体はToyota Finance Australia LimitedでTMCA車両PPEではない。(5)へ。
+- 実施: 日野FY2025有報「主要な設備の状況」の工場別帳簿（2025-03-31、分割前）と、ARCHION FY2027-Q1 IFRS（統合後初四半期、2026-08-12）。ARCHION第1期有報（E41130 / S100YK16 / 2026-06-25）は持株会社単体で工場PPE非掲。
+- 新事実の核: 帳簿合計は古河41,678 / 羽村38,237 / 新田33,036 / 日野工場18,669（百万円）。羽村従業員当時3,087名。Q1は売上6.0万台・収益5,979億円・営利（負ののれん前）290億円・負ののれん暫定2,332億円。通期営利を1,100→3,432億円へ修正。
+- 出力: `llmwiki/sources/hino-ir-pass25.md`。index / WORKLOG / _meta / sources/hino-ir / topics/ifrs / topics/production-management / _last_run 更新。
+- 次: (1)2026統合報・TCFD円額、(2)9月SDB PDF、(3)20-F/A、(4)TMCA車両PPE、(5)分割対価・FY2026有報/連結PPE・5,060と3,087と2,744の差分内訳・NZオークランド承認確定日・PL888・トラスティ氏名・近畿以外売却先商号。
