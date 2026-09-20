@@ -1,4 +1,4 @@
-Sat Sep 19 19:14:02 UTC 2026
+Sun Sep 20 19:17:56 UTC 2026
 checked:
 200 https://global.toyota/jp/ir/library/annual/index.html
 200 https://global.toyota/jp/newsroom/
