@@ -1,4 +1,4 @@
-Thu Nov 26 00:51:43 UTC 2026
+Fri Nov 27 00:57:51 UTC 2026
 checked:
 200 https://global.toyota/jp/ir/library/annual/index.html
 200 https://global.toyota/jp/newsroom/
